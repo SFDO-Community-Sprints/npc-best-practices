@@ -21,3 +21,5 @@ Nonprofit Cloud
 * [Wiki](https://github.com/SFDO-Community-Sprints/npc-best-practices/wiki)
 * [NPC vs NPSP Household Model](https://lucid.app/lucidchart/f9fffb30-f6bc-4954-b4b2-09cda34f61e1/edit?invitationId=inv_a11507e5-9be7-4e7b-b6d0-551a04e2ce3e&page=0_0#)
 * [Terminology NPC/PMM/NCCM](https://docs.google.com/document/d/117gQfmKn3an-yGZqMndIeRHLJHnYZ6T658JGtrGcUPU/edit)
+* [Automative Cloud Householding Examples ](https://help.salesforce.com/s/articleView?id=sf.auto_household_group_data_model.htm&type=5)
+* 
