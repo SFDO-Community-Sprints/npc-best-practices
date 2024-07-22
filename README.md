@@ -12,10 +12,5 @@ Nonprofit Cloud
 ## Trailblazer Group or Slack Channel Link (access required)
 [Slack Channel](https://salesforce.enterprise.slack.com/archives/C062BBB8VD3)
 
-## How to Contribute:
-- Way 1.
-- Way 2. 
-- Way 3. 
-
 ## Project Resources and Documentation
 * [Wiki](https://github.com/SFDO-Community-Sprints/npc-best-practices/wiki)
