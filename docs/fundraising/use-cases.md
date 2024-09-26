@@ -5,6 +5,9 @@ nav_order: 1
 ---
 # Fundraising Use Cases
 Last Updated: 
+
+* Use Case #1: Single Payment Gift - Untracked Solicitation (Final)
+
 ### **Overall Considerations**
 
 * Gift Commitments
