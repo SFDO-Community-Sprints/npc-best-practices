@@ -1,6 +1,6 @@
 ---
 title: Stakeholder Management Use Cases
-parent: stakeholder-management
+parent: Stakeholder Management
 nav_order: 4
 ---
 # Stakeholder Management Use Cases
