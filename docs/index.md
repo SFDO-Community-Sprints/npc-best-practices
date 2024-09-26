@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 
-![NPC BP Logo] (/npc-best-practices/docs/assets/NPC_BP_Team_Badge.png)
+![NPC BP Logo] https://raw.githubusercontent.com/SFDO-Community-Sprints/npc-best-practices/main/docs/assets/NPC_BP_Team_Badge.png)
 
 # Nonprofit Cloud Best Practices - Community Resources
 
