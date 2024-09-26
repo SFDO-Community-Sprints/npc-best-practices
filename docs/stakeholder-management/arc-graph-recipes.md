@@ -1,5 +1,5 @@
 ---
-title: Stakeholder Management
+title: ARC Graph Recipes
 parent: stakeholder-management
 nav_order: 1
 ---
