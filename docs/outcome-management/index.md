@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nonprofit Cloud Best Practices
-nav_order: 5
+title: Outcome Management
+nav_order: 6
 has_children: true
 ---
