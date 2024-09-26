@@ -4,6 +4,7 @@ title: Nonprofit Cloud Best Practices
 nav_order: 1
 has_children: false
 ---
+<img src = "/assets/NPC_BP_Team_Badge.png" width="600" height="331">
 
 ![Logo] (https://raw.githubusercontent.com/SFDO-Community-Sprints/npc-best-practices/main/docs/assets/NPC_BP_Team_Badge.png)
 
