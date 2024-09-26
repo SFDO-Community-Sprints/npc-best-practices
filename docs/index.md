@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 
-![NPC BP Logo] (assets/images/NPC_BPP_Team Badge.png)
+![NPC BP Logo] (/assets/images/NPC_BPP_Team Badge.png)
 
 #Nonprofit Cloud Best Practices - Community Resources
 When the Nonprofit Success Pack (NPSP) v3 was released almost 10 years ago, it did not have many of the features and settings we are familiar with today. The large selection of default NPSP reports didn't exist, NPSP settings were not optimized, and many of the defaults we take for granted were just not there. It took a while to get community vetted best practices in place and create the NPSP we know today.
