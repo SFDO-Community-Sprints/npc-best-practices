@@ -61,7 +61,7 @@ Required:
 **Prerequisites for End User:**
 
 * See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md).
-/
+
 * Required: Ability to navigate the donation records and access the refund request form. Organization’s gift refund policy and timelines for requesting refunds. 
 
 **Best Practices:**
