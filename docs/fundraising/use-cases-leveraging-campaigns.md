@@ -49,9 +49,9 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 <p align="center">
 
-<img src = "/docs/assets/images/LeveragingCampaigns1.png" height="656" width= "1599">
+<img src = "/docs/assets/images/LeveragingCampaigns1.png" height="650" width= "1500">
 
-<img src = "/docs/assets/images/LeveragingCampaigns2.png" height="656" width= "1599">
+<img src = "/docs/assets/images/LeveragingCampaigns2.png" height="650" width= "1500">
 
  </p>
  
