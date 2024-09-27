@@ -2,7 +2,7 @@
 layout: default
 title: Single Payment Gift - Untracked Solicitation
 nav_order: 1
-parent: Use Cases
+parent: Fundraising Use Cases
 ---
 
 # Single Payment Gift - Untracked Solicitation
