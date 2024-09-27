@@ -53,7 +53,8 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.knb9325eefm8) from Use Case #1
+* See Prerequisites for End User from [Single Payment Gift - Untracked Solicitation](single-payment-gift---untracked-solicitation)
+
 * Required
     * Ensure Person/Business Account exists for the donor first if not using GIft Entry
 
