@@ -43,7 +43,8 @@ Represented by Opportunity, Gift Transaction, Gift Commitment, and Gift Commitme
 
 
 
-* See [Prerequisites for Salesforce Admin](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.ds0z7f6syy7y) from Use Case #2
+* See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Required
     * On Opportunity object
         * Determine and set up the grant solicitation process (record type, stage values, Sales Process)
@@ -59,23 +60,27 @@ Represented by Opportunity, Gift Transaction, Gift Commitment, and Gift Commitme
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.5m49q85t9gqk) from Use Case #2
+* See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 
 **Best Practices:**
 
 
 
-* See [Best Practices](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.yiq4ie45xakc) from Use Case #2
+* See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Any written documents around grant distribution/award can be tracked against Gift Commitment
 
 **How to enter the payment via Gift Entry:**
 
 
 
-* See [How to enter the gift via Gift Entry](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.4h03b9rj3yn) from Use Case #2
+* See How to enter the gift via Gift Entry from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 
 **How to enter the payment (without Gift Entry):**
 
 
 
-* See [How to enter the gift (without Gift Entry)](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.jvrs20w0kfak) from Use Case #2
+* See How to enter the gift (without Gift Entry) from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
