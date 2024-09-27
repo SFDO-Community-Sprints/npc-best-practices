@@ -6,6 +6,7 @@ parent: Use Cases
 ---
 
 # Single Payment Gift - Untracked Solicitation
+Last Updated: 
 
 Represented by one Gift Transaction 
 
