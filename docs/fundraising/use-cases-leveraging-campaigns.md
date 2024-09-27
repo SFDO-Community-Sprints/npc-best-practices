@@ -48,7 +48,7 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 
 
-![Leveraging Campaigns Image 1](/assets/images/LeveragingCampaigns1.png)
+![Leveraging Campaigns Image 1](docs/assets/images/LeveragingCampaigns1.png)
 
 <img src = "/npc-best-practices/docs/assets/images/LeveragingCampaigns2.png">
 
