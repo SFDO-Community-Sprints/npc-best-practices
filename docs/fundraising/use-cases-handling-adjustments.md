@@ -10,9 +10,10 @@ parent: Fundraising Use Cases
 
 ### How to Leverage Gift Refund
 
-Definition:  A gift refund refers to the monetary return of a donation to a donor, typically due to requests, errors, or other valid reasons. This process can be initiated for various reasons such as donor dissatisfaction, a mistake in the donation amount, or return of items related to fundraising efforts. Proper management of gift refunds is essential for maintaining donor trust and satisfaction.
+**Definition:**
+A gift refund refers to the monetary return of a donation to a donor, typically due to requests, errors, or other valid reasons. This process can be initiated for various reasons such as donor dissatisfaction, a mistake in the donation amount, or return of items related to fundraising efforts. Proper management of gift refunds is essential for maintaining donor trust and satisfaction.
 
-Example: 
+**Examples:** 
 
 Scenario 1: **Processing a Gift Refund**
 
@@ -22,7 +23,7 @@ Scenario 2: **Program Cancellation**
 
 A donor contributes to a specific project that is subsequently cancelled. They request a refund for their donation due to the project not proceeding.
 
-Steps for Implementing Gift Refunds
+**Steps for Implementing Gift Refunds:**
 
 1. Establish a Gift Refund Policy
 * Define the conditions under which refunds will be processed (e.g, time limits).
