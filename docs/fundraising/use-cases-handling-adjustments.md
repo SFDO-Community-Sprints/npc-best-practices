@@ -8,28 +8,7 @@ parent: Fundraising Use Cases
 # Handling Adjustments
 *Last Updated:*
 
-<!-----
-
-
-
-Conversion time: 1.114 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β39
-* Fri Sep 27 2024 13:33:03 GMT-0700 (PDT)
-* Source doc: Finalized Use Cases for GitHub
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
+### How to Leverage Gift Refund
 
 Definition:  A gift refund refers to the monetary return of a donation to a donor, typically due to requests, errors, or other valid reasons. This process can be initiated for various reasons such as donor dissatisfaction, a mistake in the donation amount, or return of items related to fundraising efforts. Proper management of gift refunds is essential for maintaining donor trust and satisfaction.
 
