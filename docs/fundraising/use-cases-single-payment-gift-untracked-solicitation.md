@@ -6,7 +6,7 @@ parent: Fundraising Use Cases
 ---
 
 # Single Payment Gift - Untracked Solicitation
-Last Updated: 
+*Last Updated:* 
 
 Represented by one Gift Transaction 
 
