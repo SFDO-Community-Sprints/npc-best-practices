@@ -8,7 +8,7 @@ parent: Fundraising Use Cases
 # Upgrades and Downgrades for Recurring Gifts
 *Last Updated:*
 
-**Definition: **
+**Definition:**
 
 Represented by changes in the recurring gift record, including updated amounts and payment schedules. Additionally, a change history log tracks modifications, providing transparency and maintaining donor communication.See [Track Upgrades, Downgrades, and Other Recurring Giving Changes](https://help.salesforce.com/s/articleView?id=sfdo.npsp_track_rd_changes.htm&type=5) on Salesforce for more.
 
@@ -49,17 +49,17 @@ Represented by changes in the recurring gift record, including updated amounts a
 
 
 
-* See [Prerequisites for Salesforce Admin](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.ds0z7f6syy7y) from Use Case #2
+* See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-multiple-payment-gift.md).
 
 **Prerequisites for End User:**
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.5m49q85t9gqk) from Use Case #2 
+* See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md).
 
 **Best Practices:**
 
 
 
-* See [Best Practices](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.yiq4ie45xakc) from Use Case #2
+* See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md).
 * Log all changes to recurring gifts, including reasons for upgrades or downgrades, and regularly review this data to identify trends and inform future fundraising strategies.
