@@ -47,13 +47,12 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
     * Assign Default Gift Designation(s) to the Campaign
 
 
-<p align="center">
 
-<img src = "/docs/assets/images/LeveragingCampaigns1.png">
+[Leveraging Campaigns Image 1](/docs/assets/images/LeveragingCampaigns1.png)
 
 <img src = "/npc-best-practices/docs/assets/images/LeveragingCampaigns2.png">
 
- </p>
+
  
  **Best Practices:**
 
