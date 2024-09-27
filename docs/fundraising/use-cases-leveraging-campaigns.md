@@ -27,7 +27,7 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 
 
-* See [Prerequisites for Salesforce Admin](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.gx3dedhygoag) from Use Case #1
+* See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Required
     * Remove “Campaign Statistics” section from Campaign page layout (e.g. Responses in Campaign, Opportunities in Campaign, etc.)
     * Ensure the following related lists are displayed on the Campaign page layout:
@@ -39,7 +39,7 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.knb9325eefm8) from Use Case #1
+* See Prerequisites for End User from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Required
     * Create a new Campaign record, which will be used as the top-level Campaign (e.g. Giving Tuesday 2024)
     * Create Outreach Source Codes for each appeal (e.g. Email #1 - Lapsed Donors, Email #1 - Sustainers, LinkedIn Ad, Email #2 - Lapsed Donors, Direct Mail Version A, Direct Mail Version B)
