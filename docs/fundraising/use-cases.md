@@ -8,7 +8,7 @@ Last Updated:
 
 * [Single Payment Gift - Untracked Solicitation](#single-payment-gift---untracked-solicitation)
 * [Multiple Payment Gift](#multiple-payment-gift)
-* Recurring Gift
+* [Recurring Gift](#recurring-gift)
 ### **Overall Considerations**
 
 * Gift Commitments
