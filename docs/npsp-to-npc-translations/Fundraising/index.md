@@ -1,6 +1,6 @@
 ---
 title: Fundraising
-parent: General
+parent: NPSP to NPC Translations
 nav_order: 2
 ---
 
