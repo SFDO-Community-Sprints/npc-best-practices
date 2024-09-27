@@ -7,7 +7,7 @@ nav_order: 1
 Last Updated: 
 
 * [Single Payment Gift - Untracked Solicitation](#single-payment-gift---untracked-solicitation)
-* [Multiple Payment Gift](#multiple-payment-gift)
+* [Multiple Payment Gift](#multiple-payment-gift-)
 
 ### **Overall Considerations**
 
@@ -118,7 +118,7 @@ Represented by one Gift Transaction
 * [Create a new Gift Transaction](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Create_a_Gift_Transaction.htm&type=5) record (standard record creation)
 * Auto-naming is not out-of-the-box
 
-### **Multiple Payment Gift **
+### **Multiple Payment Gift**
 
 Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule optional, Opportunity optional)
 
