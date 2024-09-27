@@ -53,7 +53,7 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 
 
-* See Prerequisites for End User from [Single Payment Gift - Untracked Solicitation](single-payment-gift---untracked-solicitation)
+* See Prerequisites for End User from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md).
 
 * Required
     * Ensure Person/Business Account exists for the donor first if not using GIft Entry
@@ -62,7 +62,7 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 
 
-* See [Best Practices](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.vt2sd1ngg4v) from Use Case #1
+* See Best Practices from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Create an Opportunity when a potential gift is identified.
 * Create Gift Commitment when the donor has committed to the gift.
     * Use Formal Commitment Type to communicate either verbal or written commitment.
