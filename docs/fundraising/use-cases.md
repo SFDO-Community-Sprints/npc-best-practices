@@ -1,9 +1,9 @@
 ---
 title: Fundraising Use Cases
 parent: Fundraising
-nav_order: 10
+nav_order: 1
 ---
-# Fundraising Use Cases
+# Fundraising Use Cases - Overall Considerations
 Last Updated: 
 
 * [Single Payment Gift - Untracked Solicitation](#single-payment-gift---untracked-solicitation)
