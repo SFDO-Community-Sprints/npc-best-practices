@@ -40,7 +40,7 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 
 
-* See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation](docs/fundraising/single-payment-gift---untracked-solicitation)
+* See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation]((https://github.com/SFDO-Community-Sprints/npc-best-practices/blob/main/docs/fundraising/use-cases-single-payment-gift-untracked-solicitation.md#single-payment-gift---untracked-solicitation))
 * Required
     * Set intervals for General Fundraising Settings - this enables Gift Commitments to be available for selection within Gift Entry
 * Optional
