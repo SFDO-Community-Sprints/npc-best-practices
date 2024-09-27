@@ -8,6 +8,6 @@ has_children: true
 
 ### Coming Soon!
 
-The NPC Best Practices Group is starting work on Program and Case Management resources at the next [Community Commons Sprint](https://invite.salesforce.com/commonscommunitysprint-176f?_ga=2.140314995.1520306443.1727456528-739556331.1727277100) (November 13-14, 2024, in Chicago, IL, USA). Sprint attendees are welcome to join us!
+The NPC Best Practices Group starts our work on Program and Case Management resources at the next [Community Commons Sprint](https://invite.salesforce.com/commonscommunitysprint-176f?_ga=2.140314995.1520306443.1727456528-739556331.1727277100) (November 13-14, 2024, in Chicago, IL, USA). Sprint attendees are welcome to join us!
 
 Watch this space for resources post-sprint. 
