@@ -6,7 +6,7 @@ nav_order: 1
 
 # Stakeholder Management
 
-<div align="center">## Householding Comparison</div>div>
+## Householding Comparison
 | Capability                                          | NPSP                                                        | Nonprofit Cloud                                                                                      |
 | --------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Household record for every contact                  | Yes (for every contact not related to a business account)   | No - only when needed                                                                                |
