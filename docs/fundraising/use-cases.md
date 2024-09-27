@@ -6,7 +6,7 @@ nav_order: 1
 # Fundraising Use Cases
 Last Updated: 
 
-* Use Case #1: Single Payment Gift - Untracked Solicitation (Final)
+* [Single Payment Gift - Untracked Solicitation](#single-payment-gift---untracked-solicitation)
 
 ### **Overall Considerations**
 
@@ -28,7 +28,7 @@ Last Updated:
 * Gift Designations
     * Be aware of [the inheritance hierarchy for Gift Designations](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_manage_designations.htm&type=5).
 
-### **Use Case #1: Single Payment Gift - Untracked Solicitation (Final)**
+### **Single Payment Gift - Untracked Solicitation**
 
 Represented by one Gift Transaction 
 
