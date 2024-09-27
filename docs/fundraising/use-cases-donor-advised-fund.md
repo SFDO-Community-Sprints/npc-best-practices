@@ -38,7 +38,8 @@ Consider Partner resource listed in [References](https://docs.google.com/documen
 
 
 
-* See [Prerequisites for Salesforce Admin](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.ds0z7f6syy7y) from Use Case #2
+* See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Required	
     * Confirm that Gift Soft Credits are available on the Gift Entry template and Gift Transaction related list
 * Optional
@@ -48,7 +49,8 @@ Consider Partner resource listed in [References](https://docs.google.com/documen
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.5m49q85t9gqk) from Use Case #2
+* See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Required
     * Ensure that a Business Account exists for the donor-advised fund provider (e.g. Fidelity Charitable Gift Fund)
     * Ensure that a Person Account exists for each specified donor
@@ -59,7 +61,8 @@ Consider Partner resource listed in [References](https://docs.google.com/documen
 
 
 
-* See [Best Practices](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.yiq4ie45xakc) from Use Case #2
+* See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Use a specific donor’s donor-advised fund to make donation tracking easier. 
 * Create the Gift Commitment Schedule right after creating the Gift Commitment. This will automatically create the related Gift Transactions. 
 
@@ -67,7 +70,8 @@ Consider Partner resource listed in [References](https://docs.google.com/documen
 
 
 
-* See [How to enter the gift via Gift Entry](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.4h03b9rj3yn) from Use Case #2
+* See How to enter the gift via Gift Entry from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Set Gift Type to Organization/Household
 * Set Donor as the donor-advised fund provider or the specific donor’s donor-advised fund Account
 * Set Soft Credit information (will only appear when Gift Amount is added) to ensure the specific donor receives a soft credit. Set Role to Third-party donor.
@@ -76,7 +80,8 @@ Consider Partner resource listed in [References](https://docs.google.com/documen
 
 
 
-* See [How to enter the gift (without Gift Entry)](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.jvrs20w0kfak) from Use Case #2
+* See How to enter the gift (without Gift Entry) from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Ensure that the Gift Transaction is created/updated to:
     * Set Gift Type to Organization/Household
     * Set Donor as the donor-advised fund provider or the specific donor’s donor-advised fund Account
