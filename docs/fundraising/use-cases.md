@@ -2,6 +2,7 @@
 title: Fundraising Use Cases
 parent: Fundraising
 nav_order: 1
+has_children: true
 ---
 # Fundraising Use Cases - Overall Considerations
 Last Updated: 
