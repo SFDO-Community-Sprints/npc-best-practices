@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 # Fundraising Use Cases
-Last Updated: 
+*Last Updated: September 26, 2024*
 
 ### **Overall Considerations**
 
