@@ -51,7 +51,7 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 <img src = "assets/images/LeveragingCampaigns1.png">
 
-<img src = “assets/images/LeveragingCampaigns2.png”>
+<img src = "assets/images/LeveragingCampaigns2.png">
 
  </p>
  
