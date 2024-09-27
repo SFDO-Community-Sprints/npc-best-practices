@@ -7,7 +7,7 @@ nav_order: 1
 Last Updated: 
 
 * [Single Payment Gift - Untracked Solicitation](#single-payment-gift---untracked-solicitation)
-* [Multiple Payment Gift](#multiple-payment-gift-)
+* [Multiple Payment Gift](#multiple-payment-gift)
 
 ### **Overall Considerations**
 
