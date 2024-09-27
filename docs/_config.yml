@@ -14,8 +14,6 @@ color_scheme: light
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/NPC_BP_Team_Badge.png"
 
-#Footer
-footer_content: "The Nonprofit Cloud Best Practices pages are maintained by a community of volunteers working through the Open Source Commons program."
 
 doc_root: 'https://sfdo-community-sprints.github.io/npc-best-practices/docs'
 site_root: 'https://sfdo-community-sprints.github.io/npc-best-practices'
@@ -52,6 +50,7 @@ search:
 
 # Footer content
 # appears at the bottom of every page's main content
+footer_content: "The Nonprofit Cloud Best Practices pages are maintained by a community of volunteers working through the Open Source Commons program."
 
 # Back to top link
 back_to_top: true
