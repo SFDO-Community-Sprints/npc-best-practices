@@ -6,7 +6,10 @@ nav_order: 1
 
 # Stakeholder Management
 
+&nbsp;  
+
 ## Householding Comparison
+
 | Capability                                          | NPSP                                                        | Nonprofit Cloud                                                                                      |
 | --------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Household record for every contact                  | Yes (for every contact not related to a business account)   | No - only when needed                                                                                |
@@ -18,7 +21,7 @@ nav_order: 1
 | Addresses                                           | Address custom object tied to Account                       | Contact Point Address object tied to Account                                                         |
 | Household merging                                   | Not supported                                               | Guided wizard to merge and split accounts                                                            |
 
-
+&nbsp;  
 
 ## Households, Relationships, and Affiliations
 
