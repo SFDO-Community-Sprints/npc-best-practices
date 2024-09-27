@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 <p align="center">
-<img src = "/docs/assets/NPC_BP_Team_Badge.png" height="300" width= "250">
+<img src = "assets/NPC_BP_Team_Badge.png" height="300" width= "250">
 </p>
 
 
