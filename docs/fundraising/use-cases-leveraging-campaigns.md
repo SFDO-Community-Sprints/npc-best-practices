@@ -20,7 +20,7 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 
 * Giving Tuesday
-* End-of-year fundraising
+* End-of-year fundraising 
 * Capital campaign
 
 **Prerequisites for Salesforce Admin:**
