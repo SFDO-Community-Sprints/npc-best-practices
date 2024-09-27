@@ -38,7 +38,8 @@ Represented by Gift Transaction (Gift Commitment / Gift Commitment Schedule / Op
 
 
 
-* See [Prerequisites for Salesforce Admin](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.ds0z7f6syy7y) from Use Case #2
+* See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Required
     * Review and modify Gift Vehicle picklist values on Gift Commitment, as needed
 * Optional
@@ -48,20 +49,23 @@ Represented by Gift Transaction (Gift Commitment / Gift Commitment Schedule / Op
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.5m49q85t9gqk) from Use Case #2
+* See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 
 **Best Practices:**
 
 
 
-* See [Best Practices](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.yiq4ie45xakc) from Use Case #2
+* See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Set Payment Method for the gift to In-Kind
 
 **How to enter the gift via Gift Entry (recommended):**
 
 
 
-* See [How to enter the gift via Gift Entry](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.4h03b9rj3yn) from Use Case #2
+* See How to enter the gift via Gift Entry from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
 * Set Payment Method to In-Kind
 * Optional
     * Create a separate template for In-Kind to allow for different fields to be specified (e.g. Quantity) that may not be applicable for other types of gifts.
@@ -70,4 +74,5 @@ Represented by Gift Transaction (Gift Commitment / Gift Commitment Schedule / Op
 
 
 
-* See [How to enter the gift (without Gift Entry)](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.jvrs20w0kfak) from Use Case #2
+* See How to enter the gift (without Gift Entry) from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
+
