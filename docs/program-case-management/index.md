@@ -7,3 +7,7 @@ has_children: true
 # Program and Case Management
 
 ### Coming Soon!
+
+The NPC Best Practices Group is lauching the next working group, Program and Case Management, at the next [Community Commons Sprint](https://invite.salesforce.com/commonscommunitysprint-176f?_ga=2.140314995.1520306443.1727456528-739556331.1727277100) (November 13-14, 2024, in Chicago, IL, USA). Sprint attendees are welcome to join us there.
+
+Watch this space for resources post-sprint. 
