@@ -7,8 +7,6 @@ parent: Use Cases
 
 # Single Payment Gift - Untracked Solicitation
 
-### **Single Payment Gift - Untracked Solicitation**
-
 Represented by one Gift Transaction 
 
 **Definition:**
