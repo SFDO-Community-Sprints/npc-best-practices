@@ -1,6 +1,6 @@
 ---
 title: Report Hacks
-parent: general
+parent: General
 nav_order: 1
 ---
 
