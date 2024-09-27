@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NPSP to NPC Translations
-nav_order: 1
+nav_order: 8
+has_children: true
 ---
 # NPSP to NPC Translations
