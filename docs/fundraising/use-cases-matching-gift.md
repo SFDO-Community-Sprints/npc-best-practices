@@ -29,14 +29,14 @@ Represented by one Gift Transaction, linked to another Gift Transaction
 
 
 
-* See [Not using Opportunity or Gift Commitment](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.5a667yd60mvb) from Use Case #1
+* See Not using Opportunity or Gift Commitment from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Matching gifts are typically a one-time gift
 
 **Prerequisites for Salesforce Admin:**
 
 
 
-* See [Prerequisites for Salesforce Admin](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.gx3dedhygoag) from Use Case #1
+* See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Optional
     * Create a custom field to capture matching policies for the matching gift donor called “Matching Employer Transaction”
     * Create a roll-up summary totalling the amounts of all related Matched Gift Transactions onto the Matching Gift Transaction (using [DLRS](https://sfdo-community-sprints.github.io/DLRS-Documentation/) or OmniStudio) 
@@ -46,7 +46,7 @@ Represented by one Gift Transaction, linked to another Gift Transaction
 
 
 
-* See [Prerequisites for End User](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.knb9325eefm8) from Use Case #1
+* See Prerequisites for End User from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 
 **Best Practices:**
 
@@ -58,10 +58,10 @@ Represented by one Gift Transaction, linked to another Gift Transaction
 
 
 
-* See [How to enter the gift via Gift Entry](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.1e6ubmrzs3at) from Use Case #1
+* See How to enter the gift via Gift Entry from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 
 **How to enter the gift (without Gift Entry):**
 
 
 
-* See [How to enter gift (without Gift Entry)](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#bookmark=id.vmcuyvd78uwj) from Use Case #1
+* See How to enter gift (without Gift Entry) from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
