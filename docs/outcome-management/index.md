@@ -5,4 +5,6 @@ nav_order: 6
 has_children: true
 ---
 # Outcome Management
-### Coming Soon!
+### Status
+
+The NPC Best Practices Group does not have a current timeline for Outcome Management resources.

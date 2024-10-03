@@ -1,7 +1,7 @@
 ---
-title: Report Hacks
+title: Config Hacks
 parent: General
 nav_order: 1
 ---
 
-# Report Hacks
+# Config Hacks
