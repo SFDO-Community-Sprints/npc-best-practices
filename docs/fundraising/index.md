@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # Fundraising
+<p class="last-modified"></p>
