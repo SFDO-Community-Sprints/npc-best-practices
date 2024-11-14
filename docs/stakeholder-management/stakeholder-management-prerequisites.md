@@ -11,7 +11,7 @@ In Nonprofit Cloud, Person accounts track individual stakeholders, such as donor
 
 **To configure Person Accounts, review the following resources:**
 
-[Enable Person Accounts per the NPC Setup Basics](https://help.salesforce.com/s/articleView?id=sfdo.npc_set_up_nonprofit_cloud.htm&type=5))
+[Enable Person Accounts per the NPC Setup Basics](https://help.salesforce.com/s/articleView?id=sfdo.npc_set_up_nonprofit_cloud.htm&type=5)
 
 [Trailhead: Stakeholder Management in Nonprofit Cloud](https://trailhead.salesforce.com/content/learn/modules/stakeholder-management-in-nonprofit-cloud?trailmix_creator_id=jhoang2501&trailmix_slug=salesforce-trailmix-for-yay)
 
