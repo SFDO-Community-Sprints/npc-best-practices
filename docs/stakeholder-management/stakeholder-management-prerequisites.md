@@ -13,7 +13,7 @@ In Nonprofit Cloud, Person accounts track individual stakeholders, such as donor
 
 [Enable Person Accounts per the NPC Setup Basics](https://help.salesforce.com/s/articleView?id=sfdo.npc_set_up_nonprofit_cloud.htm&type=5)
 
-[Trailhead: Stakeholder Management in Nonprofit Cloud](https://trailhead.salesforce.com/content/learn/modules/stakeholder-management-in-nonprofit-cloud?trailmix_creator_id=jhoang2501&trailmix_slug=salesforce-trailmix-for-yay)
+[Trailhead: Stakeholder Management in Nonprofit Cloud](https://trailhead.salesforce.com/content/learn/modules/stakeholder-management-in-nonprofit-cloud)
 
 **Additional Considerations**:
 
@@ -75,7 +75,7 @@ For example, in a Social Service Agency, the Case Manager will need to track the
 
 In NPSP, the Relationship object was used to create reciprocal relationships between People (e.g. Parent and Child, or Husband and Wife). The values for Relationship roles came configured out of the box.
 
-In NPC, the client has the flexibility to configure only the Party Relationship Roles that they need. Review the [Party Relationship Roles data import template] to begin configuring the roles you will need in your organization. 
+In NPC, the client has the flexibility to configure only the Party Relationship Roles that they need. Review the ![Party Relationship Roles data import template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing) to begin configuring the roles you will need in your organization. 
 
 **Do I need to configure Party Role Relationships?**
 
