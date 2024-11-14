@@ -49,7 +49,7 @@ Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/
 
 
 ![A listview of Source Codes for Campaigns connected to the 2024 Giving Tuesday Campaign. The listview contains the Campaign Name, Campaign Status, and Source Code.]
-<img width="650" alt="A listview of Source Codes for Campaigns connected to the 2024 Giving Tuesday Campaign. The listview contains the Campaign Name, Campaign Status, and Source Code" src="https://github.com/user-attachments/assets/006779e6-f43e-4bf1-a973-326d5a0292b6">
+(https://github.com/user-attachments/assets/006779e6-f43e-4bf1-a973-326d5a0292b6)
 
 ![The 2024 Giving Tuesday Campaign record. Outreach Source Codes are listed on the right sidebar](https://github.com/user-attachments/assets/fa827212-6137-4143-b6e2-28cc822489c9)
 
