@@ -1,6 +1,6 @@
 ---
 title: Flow Recipes
 parent: Stakeholder Management
-nav_order: 2
+nav_order: 3
 ---
 # Flow Recipes
