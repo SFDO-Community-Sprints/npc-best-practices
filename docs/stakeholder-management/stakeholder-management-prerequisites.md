@@ -75,7 +75,7 @@ For example, in a Social Service Agency, the Case Manager will need to track the
 
 In NPSP, the Relationship object was used to create reciprocal relationships between People (e.g. Parent and Child, or Husband and Wife). The values for Relationship roles came configured out of the box.
 
-In NPC, the client has the flexibility to configure only the Party Relationship Roles that they need. Review the ![Party Relationship Roles data import template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing) to begin configuring the roles you will need in your organization. 
+In NPC, the client has the flexibility to configure only the Party Relationship Roles that they need. Review the [Party Relationship Roles data import template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing) to begin configuring the roles you will need in your organization. 
 
 **Do I need to configure Party Role Relationships?**
 
