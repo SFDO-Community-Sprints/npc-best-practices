@@ -14,4 +14,4 @@ Nonprofit Cloud
 
 ## Project Resources and Documentation
 * [Wiki](https://github.com/SFDO-Community-Sprints/npc-best-practices/wiki)
-* [Github Pages] (https://sfdo-community-sprints.github.io/npc-best-practices/)
+* [Github Pages](https://sfdo-community-sprints.github.io/npc-best-practices/)
