@@ -6,7 +6,7 @@ parent: Fundraising Use Cases
 ---
 
 # Matching Gift
-*Last Updated:*
+
 
 Represented by one Gift Transaction, linked to another Gift Transaction
 
