@@ -6,7 +6,6 @@ parent: Fundraising Use Cases
 ---
 
 # Handling Adjustments
-*Last Updated:*
 
 ### How to Leverage Gift Refund
 
