@@ -20,64 +20,64 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of Salesforce's C
 
 ##  Contributors
 ### Project Managers
-Dar Veverka
-Hayley Tuller
-Junette Jan
-Tara Cobb
-Tracey Braun
+* Dar Veverka
+* Hayley Tuller
+* Junette Jan
+* Tara Cobb
+* Tracey Braun
 
 ### Contributors
-Tyler Cordell
-Ethan Norris
-Sara Camancho
-Heath Parks
-Arthur Price
-Shari Carlson
-Toby Ward
-Bill Florio
-Melissa Oglesby
-Janina Capacillo
-Amanda Styles
-Katie Loescher
-Karyn Dubravetz
-Zina Seletskaya
-Peggy Ngwa Nfurbi
-Anthony Latunski
-Annette Pretorius
-Melanie Calhoun
-Carla Estey
-Mary Ann Mcinerney
-Deanne Walters
-Sanisha Shrestha
-Alex Christie
-Rebecca Nichols
-Nadine Leung
-Vanessa Ruiz
-Kathy Dunne
-Karen Fitton
-Jake Roesler
-Trent Whalon
-Julie Russell
-Carolina Avsar
-Jamie Van Nostrand
-Karim Gabriel
-Kevin Swiggum
-Tiffany Spencer
-Brad Struss 
-Dodi Friedenberg
-Taylor Moyer 
-Daniel Gorton
+* Tyler Cordell
+* Ethan Norris
+* Sara Camancho
+* Heath Parks
+* Arthur Price
+* Shari Carlson
+* Toby Ward
+* Bill Florio
+* Melissa Oglesby
+* Janina Capacillo
+* Amanda Styles
+* Katie Loescher
+* Karyn Dubravetz
+* Zina Seletskaya
+* Peggy Ngwa Nfurbi
+* Anthony Latunski
+* Annette Pretorius
+* Melanie Calhoun
+* Carla Estey
+* Mary Ann Mcinerney
+* Deanne Walters
+* Sanisha Shrestha
+* Alex Christie
+* Rebecca Nichols
+* Nadine Leung
+* Vanessa Ruiz
+* Kathy Dunne
+* Karen Fitton
+* Jake Roesler
+* Trent Whalon
+* Julie Russell
+* Carolina Avsar
+* Jamie Van Nostrand
+* Karim Gabriel
+* Kevin Swiggum
+* Tiffany Spencer
+* Brad Struss 
+* Dodi Friedenberg
+* Taylor Moyer 
+* Daniel Gorton
 
 ### Salesforce Staff Contributors
-Ben Mozenter
-Greg Perlstein
-Michael Smith
-Melissa Barber
-Kelly Dwyer
-JJ Miller
-Cody Switzer
-Heeyeon Park
-Alison Meyer
-Elizabeth Swander
+* Ben Mozenter
+* Greg Perlstein
+* Michael Smith
+* Melissa Barber
+* Kelly Dwyer
+* JJ Miller
+* Cody Switzer
+* Heeyeon Park
+* Alison Meyer
+* Elizabeth Swander
 
 
