@@ -6,6 +6,5 @@ parent: Fundraising Use Cases
 ---
 
 # Bequests
-*Last Updated:*
 
 In Review
