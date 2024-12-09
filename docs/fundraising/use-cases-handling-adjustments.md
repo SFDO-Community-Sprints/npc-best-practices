@@ -24,10 +24,10 @@ A donor contributes to a specific project that is subsequently cancelled. They r
 
 **Steps for Implementing Gift Refunds:**
 
-1. Establish a Gift Refund Policy
+1.     Establish a Gift Refund Policy
 * Define the conditions under which refunds will be processed (e.g, time limits).
 * Document the policy for staffing training and donor communication.
-2. Configure Salesforce to provide full or Partial Refund
+2.     Configure Salesforce to provide full or Partial Refund
 * From the App Launcher (App Launcher), find and select Gift Transactions.
 * Click the paid gift transaction that you want to process a refund for.
 * Click Related, and in the Gift Refunds section, click New.
@@ -35,16 +35,16 @@ A donor contributes to a specific project that is subsequently cancelled. They r
 * Select the refund status
 * Save your changes.
 * In the gift transaction record, update the status field as needed.
-3. Develop a Refund Request Form
+3.     Develop a Refund Request Form
 * Create an online form (using Experience Cloud or a similar tool) for donors to submit refund requests.
 * Include fields for all required information, ensuring clarity and ease of use.
-4. Process the Refund
+4.     Process the Refund
 * Upon approval, initiate the refund through the organisation's payment processing system (e.g., PayPal, Stripe).
 * Update the original donation record in Salesforce to reflect the refund status.
-5. Notify the Donors of Refund Status
+5.     Notify the Donors of Refund Status
 * Set up automated email notifications to inform donors about the approval or denial of their refund request.
 * Provide details about the refund process and expected timelines
-6. Collect Feedback Post-Refund
+6.     Collect Feedback Post-Refund
 * Follow up with donors to gather feedback on their refund experience.
 * Use this feedback to improve the refund process and donor relations. 
 
