@@ -6,7 +6,7 @@ parent: Fundraising Use Cases
 ---
 
 # Recurring Gift
-*Last Updated:* 
+
 
 Represented by Gift Transactions, Gift Commitment, Gift Commitment Schedule, and Payment Instrument
 
