@@ -6,7 +6,7 @@ parent: Fundraising Use Cases
 ---
 
 # In-Kind Gift
-*Last Updated:*
+
 
 Represented by Gift Transaction (Gift Commitment / Gift Commitment Schedule / Opportunity optional)
 
