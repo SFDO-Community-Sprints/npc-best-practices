@@ -40,25 +40,25 @@ In Nonprofit Cloud, Person Accounts track individual stakeholders, such as donor
 
 ## Households--What’s Different?
 
-In NPSP, every Contact record is associated with a Household account. NPC provides a flexible model allowing customers to choose whether to use households. Organizations not needing to group contacts by household can use Person Accounts directly, bypassing the need to create a Household Account record. Conversely, for those requiring household grouping, the Party Relationship Group Wizard simplifies this process. Ultimately, Households are optional, and their creation should be based on specific needs.
+In NPSP, every Contact record is associated with a Hhousehold account. NPC provides a flexible model allowing customers to choose whether to use households. Organizations not needing to group contacts by household can use Person Accounts directly, bypassing the need to create a household Account record. Conversely, for those requiring household grouping, the Party Relationship Group Wizard simplifies this process. Ultimately, households are optional, and their creation should be based on specific needs.
 
-For NPC, Households are a four record model:
+For NPC, households are a four record model:
 
 
 
-* Account record that represents the household with a Business Account record type
-* Person Account record that represents the household member.
-* Account Contact Relationship record that relates the Person Account to the household Business Account record.
-* Party Relationship Group record that indicates this Business Account is a Household (extension object that is necessary for backend system functionality)
+* **Account** Record that represents the household with a Business Account record type
+* **Person Account** Record that represents the household member.
+* **Account Contact Relationship** Record that relates the Person Account to the household Business Account record.
+* **Party Relationship Group** Record that indicates this Business Account is a Household (extension object that is necessary for backend system functionality)
 
 To create a household in NPC, use the following steps:
 
 
 
-1. Create all household members as Person Accounts 
-2. Create a Business Account that represents the Household (i.e. John Smith Household)
-3. Navigate to the Party Relationship Group Tab, and Click “New Group” > Add the related Person Accounts as members of the group > Click Next > 
-4. Optional: Follow the next page of the wizard to complete the creation of Contact-Contact Relationships between each of the members of the household
+1.    Create all household members as Person Accounts.
+2.    Create a Business Account that represents the household (i.e. John Smith Household).
+3.    Navigate to the Party Relationship Group Tab, and Click “New Group” > Add the related Person Accounts as members of the group > Click Next > .
+4.    Optional: Follow the next page of the wizard to complete the creation of Contact-Contact Relationships between each of the members of the household.
 
 Considerations 
 
