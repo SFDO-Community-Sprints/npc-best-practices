@@ -7,4 +7,4 @@ parent: Fundraising Use Cases
 
 # Bequests
 
-In Review
+### Coming Soon!
