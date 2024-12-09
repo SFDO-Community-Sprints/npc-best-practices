@@ -6,7 +6,6 @@ parent: Fundraising Use Cases
 ---
 
 # Gift from Donor-Advised Fund
-*Last Updated:*
 
 Represented by Gift Transactions, Gift Commitment, Gift Commitment Schedule, Gift Soft Credits (Opportunity optional)
 
