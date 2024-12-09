@@ -6,7 +6,7 @@ parent: Fundraising Use Cases
 ---
 
 # Upgrades and Downgrades for Recurring Gifts
-*Last Updated:*
+
 
 **Definition:**
 
