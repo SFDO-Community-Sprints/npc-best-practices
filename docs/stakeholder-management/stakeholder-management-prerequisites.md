@@ -69,11 +69,11 @@ Considerations
 
 ## Configure Party Role Relationships
 
-Party Role Relationships refer to the associations between different parties (such as contacts and accounts) within a Salesforce org.
+Party Role Relationships refer to the associations between different parties (such as contacts and accounts) within Salesforce.
 
 For example, in a Social Service Agency, the Case Manager will need to track the relationships that exist between their clients, family members, and other agencies their client might work with. 
 
-In NPSP, the Relationship object was used to create reciprocal relationships between People (e.g. Parent and Child, or Husband and Wife). The values for Relationship roles came configured out of the box.
+In NPSP, the Relationship object was used to create reciprocal relationships between People (e.g. Parent and Child, or Husband and Wife). The values for Relationship roles came pre-configured.
 
 In NPC, the client has the flexibility to configure only the Party Relationship Roles that they need. Download a copy of the [Party Relationship Roles data import template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing) to begin configuring the roles you will need in your organization. The first tab of the spreadsheet is a short list of common relationships to get you started. The second tab is an expanded list of common possible roles that you may be interested in. Use whiehver tab is best for your organization and alter as needed. 
 
@@ -81,4 +81,4 @@ In NPC, the client has the flexibility to configure only the Party Relationship 
 
 
 
-* Not necessarily.  These only need to be created if you want to relate a person to another person, or a person to a Business or Organization.
+* Not necessarily.  These only need to be created if you want to relate a person to another person, or a person, or a Busines or Organization to another Business or Organization.
