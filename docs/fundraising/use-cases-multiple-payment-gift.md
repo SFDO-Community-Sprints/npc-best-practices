@@ -6,7 +6,6 @@ parent: Fundraising Use Cases
 ---
 
 # Multiple Payment Gift
-*Last Updated:*
 
 Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule optional, Opportunity optional)
 
