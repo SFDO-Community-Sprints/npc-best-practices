@@ -8,7 +8,8 @@ parent: Fundraising Use Cases
 # In-Kind Gift
 
 
-Represented by Gift Transaction (Gift Commitment / Gift Commitment Schedule / Opportunity optional)
+Represented by Gift Transaction 
+* Gift Commitment / Gift Commitment Schedule / Opportunity optional
 
 **Definition:**
 
