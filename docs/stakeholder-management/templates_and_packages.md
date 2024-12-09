@@ -8,11 +8,11 @@ nav_order: 3
 For issues with items on this page, please email <npcbestpractices@gmail.com>
 
 ## Templates
-[Party Role Relationships import template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing)
+* [Party Role Relationships import template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing)
 
 
 ## Packages
-* Relationships Unmanaged Package - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t)
+### Relationships Unmanaged Package - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t)
 
 This package includes Flows to streamline the creation of Relationship records (CCR, ACR, AAR) including their inverse relationships, as well as a Flow to automatically convert created Contacts to Person Accounts. It also includes Custom Report Types and sample Reports for the various relationship types used in Nonprofit and Education Cloud.
 
