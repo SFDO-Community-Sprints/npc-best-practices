@@ -6,7 +6,6 @@ parent: Fundraising Use Cases
 ---
 
 # Inbound Grants
-*Last Updated:*
 
 Represented by Opportunity, Gift Transaction, Gift Commitment, and Gift Commitment Schedule. 
 
