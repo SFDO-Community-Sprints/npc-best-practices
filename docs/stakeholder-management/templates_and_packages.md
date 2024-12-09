@@ -8,7 +8,7 @@ nav_order: 3
 For issues with items on this page, please email <npcbestpractices@gmail.com>
 
 ## Templates
-### Party Role Relationships Import Template - [Template](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing)
+### Party Role Relationships Import Template - [Template Download](https://docs.google.com/spreadsheets/d/1wIwShGKk2uE3T8Eyn7rHp9KcO0NvK2-Kb5bdeZvhG0Q/edit?usp=sharing)
 * See the [Stakeholder Management Prerequisites](https://sfdo-community-sprints.github.io/npc-best-practices/stakeholder-management/stakeholder-management-prerequisites/#configure-party-role-relationships) page for details
 
 
