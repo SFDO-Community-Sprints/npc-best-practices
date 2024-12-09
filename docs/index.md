@@ -16,7 +16,7 @@ When the Nonprofit Success Pack (NPSP) v3 was released almost 10 years ago, it d
 Nonprofit Cloud (NPC), Salesforce’s new product offering for nonprofits, is in a similar place. It was released in March 2023 and the fundraising component for it went live in October 2023. It does not have any community best practices or guidance like NPSP does - yet! This group has already identified content and helpful resources to be published on this site.
 
 # Project History
-The Nonprofit Cloud Best Practices Group (NPC BP) is a project of Salesforce's Commons. The Commons brings together volunteers from the Salesforce nonprofit community to build free resources for nonprofits to use. The NPC BP's first meeting was in October 2023, at the Chicago Commons Sprint. Two dozen participants kicked the project off that week and bi-weekly meetings for both the main group and feature-focused subgroups have been running since then. 
+The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's Commons](https://sfdo-community-sprints.github.io/). The Commons brings together volunteers from the Salesforce nonprofit community to build free resources for nonprofits to use. The NPC BP's first meeting was in October 2023, at the Chicago Commons Sprint. Two dozen participants kicked the project off that week and bi-weekly meetings for both the main group and feature-focused subgroups have been running since then. 
 
 ##  Contributors
 ### Project Managers
