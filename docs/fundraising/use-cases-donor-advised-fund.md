@@ -9,7 +9,6 @@ parent: Fundraising Use Cases
 
 Represented by Gift Transactions, Gift Commitment, Gift Commitment Schedule, Gift Soft Credits (Opportunity optional)
 
-Consider Partner resource listed in [References](https://docs.google.com/document/d/1R4sRRd1VSMeSmUbVenMY6ci_GE0FLp_FR0fYu99xvYs/edit#heading=h.j1lq2yn0gzbk)
 
 **Definition:**
 
