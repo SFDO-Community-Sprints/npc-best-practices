@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Configure Person Accounts
 
-In Nonprofit Cloud, Person accounts track individual stakeholders, such as donors, volunteers, program participants, or board members. They combine fields from the Account and Contact objects and display them as one record.
+In Nonprofit Cloud, Person Accounts track individual stakeholders, such as donors, volunteers, program participants, or board members. They combine fields from the Account and Contact objects and display them as one record.
 
 **To configure Person Accounts, review the following resources:**
 
@@ -21,7 +21,7 @@ In Nonprofit Cloud, Person accounts track individual stakeholders, such as donor
 
 
 
-* Yes but be aware that some functionality in Nonprofit Cloud is dependent on Person Accounts and future functionality may relay on it as well since it is the recommended account-contact model for NPC.
+* Yes, but be aware that some functionality in Nonprofit Cloud is dependent on Person Accounts and future functionality may rely on it as well since it is the recommended account-contact model for NPC.
 
 **What is the best practice for building fields? Do I build on the Account object or Contact Object?**
 
@@ -34,7 +34,7 @@ In Nonprofit Cloud, Person accounts track individual stakeholders, such as donor
 
 
 
-* This will be a case by case decision. Evaluate the presence of integrations, etc when deciding
+* This will be a case by case decision. Evaluate the presence of integrations, etc. when deciding
     * Example: I have a checkbox for VIP that I use for both business and person accounts. 
 
 
