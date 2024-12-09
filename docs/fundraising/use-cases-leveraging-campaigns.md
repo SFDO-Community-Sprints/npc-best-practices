@@ -17,8 +17,8 @@ Fundraising campaigns in NPC incorporate multiple types of appeals and/or commun
 
 **Prerequisites for Salesforce Admin:**
 
-* See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
-* Required
+See Prerequisites for Salesforce Admin on [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
+* Required Steps: 
     * Remove “Campaign Statistics” section from Campaign page layout (e.g. Responses in Campaign, Opportunities in Campaign, etc.)
     * Ensure the following related lists are displayed on the Campaign page layout:
         * Outreach Source Codes
@@ -26,11 +26,8 @@ Fundraising campaigns in NPC incorporate multiple types of appeals and/or commun
     * Under Setup → Data Processing Engine (DPE), ensure that there is a clone of the “OutreachSummary” job (e.g. OutreachSummary Clone). This is the DPE that will be run in order to update the Outreach Summary roll-ups on the Campaign.
 
 **Prerequisites for End User:**
-
-
-
-* See Prerequisites for End User from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
-* Required
+See Prerequisites for End User on [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
+* Required Steps:
     * Create a new Campaign record, which will be used as the top-level Campaign (e.g. Giving Tuesday 2024)
     * Create Outreach Source Codes for each appeal (e.g. Email #1 - Lapsed Donors, Email #1 - Sustainers, LinkedIn Ad, Email #2 - Lapsed Donors, Direct Mail Version A, Direct Mail Version B)
 * Optional
