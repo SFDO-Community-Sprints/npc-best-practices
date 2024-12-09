@@ -14,6 +14,9 @@ has_children: false
 When the Nonprofit Success Pack (NPSP) v3 was released almost 10 years ago, it did not have many of the features and settings we are familiar with today. The large selection of default NPSP reports didn't exist, NPSP settings were not optimized, and many of the defaults we take for granted were just not there. It took a while to get community vetted best practices in place and create the NPSP we know today.
 
 Nonprofit Cloud (NPC), Salesforce’s new product offering for nonprofits, is in a similar place. It was released in March 2023 and the fundraising component for it went live in October 2023. It does not have any community best practices or guidance like NPSP does - yet! This group has already identified content and helpful resources to be published on this site.
+
+Find an issue on this site or have a question/comment? Email us at <npcbestpractices@gmail.com> . Please note that we cannot provide assistance configuring Nonpnrofit Cloud.
+
 # Project History
 The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's Commons](https://sfdo-community-sprints.github.io/). The Commons brings together volunteers from the Salesforce nonprofit community to build free resources for nonprofits to use. The NPC BP's first meeting was in October 2023, at the Chicago Commons Sprint. Two dozen participants kicked the project off that week and bi-weekly meetings for both the main group and feature-focused subgroups have been running since then. 
 
@@ -26,58 +29,58 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Tracey Braun
 
 ### Contributors
-* Tyler Cordell
-* Ethan Norris
-* Sara Camancho
-* Heath Parks
-* Arthur Price
-* Shari Carlson
-* Toby Ward
-* Bill Florio
-* Melissa Oglesby
-* Janina Capacillo
-* Amanda Styles
-* Katie Loescher
-* Karyn Dubravetz
-* Zina Seletskaya
-* Peggy Ngwa Nfurbi
-* Anthony Latunski
-* Annette Pretorius
-* Melanie Calhoun
-* Carla Estey
-* Mary Ann Mcinerney
-* Deanne Walters
-* Sanisha Shrestha
 * Alex Christie
-* Rebecca Nichols
-* Nadine Leung
-* Vanessa Ruiz
-* Kathy Dunne
-* Karen Fitton
-* Jake Roesler
-* Trent Whalon
-* Julie Russell
+* Amanda Styles
+* Annette Pretorius
+* Anthony Latunski
+* Arthur Price
+* Bill Florio
+* Brad Struss 
+* Carla Estey
 * Carolina Avsar
+* Daniel Gorton
+* Deanne Walters
+* Dodi Friedenberg
+* Ethan Norris
+* Heath Parks
+* Jake Roesler
 * Jamie Van Nostrand
+* Janina Capacillo
+* Julie Russell
+* Karen Fitton
 * Karim Gabriel
 * Kevin Swiggum
-* Tiffany Spencer
-* Brad Struss 
-* Dodi Friedenberg
+* Karyn Dubravetz
+* Kathy Dunne
+* Katie Loescher
+* Mary Ann Mcinerney
+* Sanisha Shrestha
+* Melanie Calhoun
+* Melissa Oglesby
+* Nadine Leung
+* Peggy Ngwa Nfurbi
+* Rebecca Nichols
+* Sara Camancho
+* Shari Carlson
 * Taylor Moyer 
-* Daniel Gorton
+* Tiffany Spencer
+* Toby Ward
+* Trent Whalon
+* Tyler Cordell
+* Vanessa Ruiz
+* Zina Seletskaya
 
 ### Salesforce Staff Contributors
-* Ben Mozenter
-* Greg Perlstein
-* Michael Smith
-* Melissa Barber
-* Kelly Dwyer
-* JJ Miller
-* Cody Switzer
-* Heeyeon Park
 * Alison Meyer
+* Ben Mozenter
+* Cody Switzer
 * Elizabeth Swander
+* Greg Perlstein
+* Heeyeon Park
+* JJ Miller
+* Kelly Dwyer
+* Melissa Barber
+* Michael Smith
 
 ![IMG_4803](https://github.com/user-attachments/assets/76749147-61d9-4fa9-8826-fe7ac7174779)
 
