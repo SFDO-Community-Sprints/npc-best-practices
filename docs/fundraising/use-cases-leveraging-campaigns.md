@@ -7,25 +7,15 @@ parent: Fundraising
 
 # Leveraging Campaigns
 
-Represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Outreach_Source_Code_Campaigns.htm&type=5) \
- \
-**Definition: **
+Fundraising campaigns in NPC incorporate multiple types of appeals and/or communication channels.  They are represented by Campaign and [Outreach Source Codes](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Outreach_Source_Code_Campaigns.htm&type=5)
 
-
-
-* Fundraising campaigns that incorporate multiple types of appeals and/or communication channels
 
 **Examples:**
-
-
-
 * Giving Tuesday
 * End-of-year fundraising 
 * Capital campaign
 
 **Prerequisites for Salesforce Admin:**
-
-
 
 * See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Required
