@@ -9,7 +9,8 @@ has_children: true
 # Overall Considerations
 
 ## Gift Commitments
-* When using Gift Entry to update that a Gift Transaction was paid against an existing Gift Commitment with a Gift Commitment Schedule, note that only one payment can be recorded per Gift Transaction. If the payment is lower than the expected Gift Transaction amount, the Gift Transaction will still retain the same name (i.e. the name will reflect the expected amount instead of what was actually paid). Once Gift Entry has processed the Gift Transaction, any edits will require multiple steps and manipulation of the Gift Transaction status.
+* When using Gift Entry to update that a Gift Transaction was paid against an existing Gift Commitment with a Gift Commitment Schedule, note that only one payment can be recorded per Gift Transaction. If the payment is lower than the expected Gift Transaction amount, the Gift Transaction will still retain the same name (i.e. the name will reflect the expected amount instead of what was actually paid).
+* Once Gift Entry has processed the Gift Transaction, any edits will require multiple steps and manipulation of the Gift Transaction status.
 * Only one gift entry can be applied per gift commitment transaction. Gift entries of lower amounts can be applied to a commitment transaction of a higher amount. Once a gift commitment is applied to a gift entry, it cannot be removed (Gift Processing Status = Success). Gift Transaction will autoname to the commitment amount, even if the entry amount is different (based on default). Gift Transaction can be edited, but it requires multiple steps and manipulation of the status.
 * In order for the Gift Commitment to appear in Gift Entry it must meet the following criteria:
     * Effective Start Date must be populated
