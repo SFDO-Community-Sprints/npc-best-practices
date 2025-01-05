@@ -24,7 +24,7 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 ### Project Managers
 * Dar Veverka
 * Hayley Tuller
-* Junette Jan
+* Junette Tan
 * Tara Cobb
 * Tracey Braun
 
@@ -53,7 +53,7 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Karyn Dubravetz
 * Kathy Dunne
 * Katie Loescher
-* Mary Ann Mcinerney
+* Mary Ann McInerney
 * Melanie Calhoun
 * Melissa Oglesby
 * Nadine Leung
