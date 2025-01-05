@@ -40,7 +40,7 @@ In Nonprofit Cloud, Person Accounts track individual stakeholders, such as donor
 
 ## Households--What’s Different?
 
-In NPSP, every Contact record is associated with a Hhousehold account. NPC provides a flexible model allowing customers to choose whether to use households. Organizations not needing to group contacts by household can use Person Accounts directly, bypassing the need to create a household Account record. Conversely, for those requiring household grouping, the Party Relationship Group Wizard simplifies this process. Ultimately, households are optional, and their creation should be based on specific needs.
+In NPSP, every Contact record is associated with a household account. NPC provides a flexible model allowing customers to choose whether to use households. Organizations not needing to group contacts by household can use Person Accounts directly, bypassing the need to create a household Account record. Conversely, for those requiring household grouping, the Party Relationship Group Wizard simplifies this process. Ultimately, households are optional, and their creation should be based on specific needs.
 
 For NPC, households are a four record model:
 
@@ -56,9 +56,10 @@ To create a household in NPC, use the following steps:
 
 
 1.    Create all household members as Person Accounts.
-2.    Create a Business Account that represents the household (i.e. John Smith Household).
-3.    Navigate to the Party Relationship Group Tab, and Click “New Group” > Add the related Person Accounts as members of the group > Click Next > .
-4.    Optional: Follow the next page of the wizard to complete the creation of Contact-Contact Relationships between each of the members of the household.
+2.    Navigate to the Party Relationship Group Tab, and Click “New Group”. Add the related Person Accounts as members of the group then click Next.
+3.    Optional: Follow the next page of the wizard to complete the creation of Contact-Contact Relationships between each of the members of the household.
+
+The New Group wizard will create the Business Account for the household as well as the Account Contact Relationships to relate each person you added to that household account.
 
 Considerations 
 
