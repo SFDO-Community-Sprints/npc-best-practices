@@ -6,7 +6,7 @@ nav_order: 2
 
 # Other Resources
 
-Additional resources for working with Nonprofit Cloud:
+Additional resources for working with Nonprofit Cloud
 
 ## Trailblazer Groups
 * [Nonprofit Cloud](https://trailhead.salesforce.com/trailblazer-community/groups/0F94V000000oRAfSAM)
