@@ -54,8 +54,8 @@ See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-mu
 
 Required:
 
-* Gift Transaction Object: Tracks contributions made by donors, including fields such as Donation ID, Amount, Date, and Donor Name.
-* Gift Refund Object: Custom object to manage refund requests, with fields such as Refund Amount, Donation ID (lookup), Reason for Refund, and Status (Pending, Approved, Denied).
+* Access to the Gift Transaction object: Tracks contributions made by donors, including fields such as Donation ID, Amount, Date, and Donor Name.
+* Access to the Gift Refund object: Custom object to manage refund requests, with fields such as Refund Amount, Donation ID (lookup), Reason for Refund, and Status (Pending, Approved, Denied).
 
 
 **Prerequisites for End User:**
