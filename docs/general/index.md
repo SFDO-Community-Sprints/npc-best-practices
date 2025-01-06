@@ -8,7 +8,7 @@ has_children: true
 # General
 
 ## Design Differences
-
+There are several key differences between the Nonprofit Success Pack (NPSP) and Nonprofit Cloud (NPC). The table below summarizes some of the key ones to keep in mind when working with Nonprofit Cloud.
 &nbsp;
 <table>
   <tr>
