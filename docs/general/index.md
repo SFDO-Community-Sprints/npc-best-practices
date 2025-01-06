@@ -24,7 +24,7 @@ There are several key differences between the Nonprofit Success Pack (NPSP) and 
    </td>
   </tr>
   <tr>
-   <td>All objects in NPSP are custom objects
+   <td>Most objects in NPSP are custom objects
    </td>
    <td>All objects are core/standard
    </td>
