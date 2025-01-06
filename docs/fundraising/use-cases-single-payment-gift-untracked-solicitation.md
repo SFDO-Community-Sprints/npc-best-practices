@@ -41,9 +41,8 @@ Represented by one Gift Transaction
     * NPC Fundraising setup must be completed
         * [Basic setup](https://help.salesforce.com/s/articleView?id=sfdo.NPC_Set_Up_Nonprofit_Cloud.htm&type=5)
         * Fundraising setup is needed to account for Industry Common Components
-        * Person Accounts and/or Business Accounts must be configured
-        * Setup > Person Accounts (confirm enabled)
-    * Set up [Default Designation](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Create_Org_Wide_Default_Other_Gift_Designations.htm&type=5) 
+        * Person Accounts must be configured
+    * Set up [Default Designation](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_manage_designations.htm&type=5) 
 * Optional
     * Set Up Gift Entry
     * Determine naming convention for Campaigns, and set up corresponding automation
