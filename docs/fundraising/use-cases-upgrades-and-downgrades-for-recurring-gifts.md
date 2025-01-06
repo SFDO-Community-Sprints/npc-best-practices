@@ -22,7 +22,6 @@ Represented by changes in the recurring gift record, including updated amounts a
 
 1.     Upgrade of Recurring Gift:
 Scenario : A donor is currently contributing $50 monthly to your organisation.
-
 * Current Recurring Gift: $50/month
 * Upgrade: Jane decides to increase her contribution to $75/month.
 * Action:
@@ -32,7 +31,6 @@ Scenario : A donor is currently contributing $50 monthly to your organisation.
     * Notify donors via email, thanking her for her increased support and confirming the new contribution amount. 
 2.     Downgrade of Recurring Gift:
 Scenario: Another donor has been contributing $100 quarterly but needs to reduce his commitment.
-
 * Current Recurring Gift: $100/quarter
 * Downgrade: John requests to change his contribution to $75/quarter.
 * Action
