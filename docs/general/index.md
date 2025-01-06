@@ -6,3 +6,6 @@ has_children: true
 ---
 
 # General
+
+## Design Differences
+
