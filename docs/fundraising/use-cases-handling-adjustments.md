@@ -16,7 +16,7 @@ A gift refund refers to the monetary return of a donation to a donor, typically 
 
 Scenario 1: **Processing a Gift Refund**
 
-A donor requests a refund. The flow checks eligibility and processes the refund, notifying the donor via email.
+A donor requests a refund. After checking that the donor is eligible for a refund, the refund is processed, then the donor is notified via email.
 
 Scenario 2: **Program Cancellation**
 
@@ -28,13 +28,13 @@ A donor contributes to a specific project that is subsequently cancelled. They r
 * Define the conditions under which refunds will be processed (e.g, time limits).
 * Document the policy for staffing training and donor communication.
 2.     Configure Salesforce to provide full or Partial Refund
-* From the App Launcher (App Launcher), find and select Gift Transactions.
-* Click the paid gift transaction that you want to process a refund for.
+* From the App Launcher, find and select Gift Transactions.
+* Click the paid Gift Transaction that you want to process a refund for.
 * Click Related, and in the Gift Refunds section, click New.
 * Enter the refund amount and the refund date.
 * Select the refund status
 * Save your changes.
-* In the gift transaction record, update the status field as needed.
+* In the Gift Transaction record, update the status field as needed.
 3.     Develop a Refund Request Form
 * Create an online form (using Experience Cloud or a similar tool) for donors to submit refund requests.
 * Include fields for all required information, ensuring clarity and ease of use.
@@ -54,7 +54,7 @@ See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-mu
 
 Required:
 
-*  Donation Object: Tracks contributions made by donors, including fields such as Donation ID, Amount, Date, and Donor Name.
+* Gift Transaction Object: Tracks contributions made by donors, including fields such as Donation ID, Amount, Date, and Donor Name.
 * Gift Refund Object: Custom object to manage refund requests, with fields such as Refund Amount, Donation ID (lookup), Reason for Refund, and Status (Pending, Approved, Denied).
 
 
@@ -62,7 +62,12 @@ Required:
 
 * See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md).
 
-* Required: Ability to navigate the donation records and access the refund request form. Organization’s gift refund policy and timelines for requesting refunds. 
+Required:
+* Ability to navigate the donation records.
+
+Optional:
+*  Access to refund request forms, if in use.
+*  Organization’s gift refund policy and timelines for requesting refunds. 
 
 **Best Practices:**
 
