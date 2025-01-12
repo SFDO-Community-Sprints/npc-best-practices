@@ -19,3 +19,6 @@ If you see a feature on the Ideas list that you think should be in Nonprofit Clo
 ## Known Issues
 Before logging a case for Nonprofit Cloud, check the Known Issues listing and see if there is already a known bug for it. IF so, be sure to click on the Report button so Salesforce has a better understanding of how many organizations are affected.
 * [Nonprofit Cloud Known Issues](https://issues.salesforce.com/#f[sfcategoryfull]=Nonprofit%7CNonprofit%20Cloud,Nonprofit%7CNonprofit%20Cloud%3A%20Case%20Management,Nonprofit%7CNonprofit%20Cloud%3A%20Fundraising,Nonprofit%7CNonprofit%20Cloud%3A%20Grantmaking,Nonprofit%7CNonprofit%20Cloud%3A%20Program%20Management)
+
+## For Partners
+If you are a Salesforce partner or working at one, please see the Official: Nonprofit Partners group in the [Partner Community](https://partners.salesforce.com/) for additional resources.
