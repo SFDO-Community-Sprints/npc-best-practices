@@ -30,7 +30,7 @@ Represented by one Gift Transaction, linked to another Gift Transaction
 
 
 * See Not using Opportunity or Gift Commitment from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
-* Matching gifts are typically a one-time gift
+* Matching gifts are typically a one-time gift but there are exceptions.
 
 **Prerequisites for Salesforce Admin:**
 
