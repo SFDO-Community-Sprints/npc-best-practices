@@ -15,7 +15,7 @@ For issues with items on this page, please email <npcbestpractices@gmail.com>
 ## Packages
 ### Relationships Unmanaged Package - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t)
 
-This package includes Flows to streamline the creation of Relationship records (Contact Contact Relationship, Account Contact Relationsihp, Account Account Relationship) including their inverse relationships, as well as a Flow to automatically convert created Contacts to Person Accounts. It also includes Custom Report Types and sample Reports for the various relationship types used in Nonprofit Cloud. This package also works for Education Cloud.
+This package includes Flows to streamline the creation of Relationship records (Contact Contact Relationship, Account Contact Relationship, Account Account Relationship) including their inverse relationships, as well as a Flow to automatically convert created Contacts to Person Accounts. It also includes Custom Report Types and sample Reports for the various relationship types used in Nonprofit Cloud. This package also works for Education Cloud.
 
 **Pre-installation Requirements**
 * Enable Person Accounts
