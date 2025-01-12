@@ -10,7 +10,7 @@ parent: Fundraising Use Cases
 
 **Definition:**
 
-Represented by changes in the recurring gift record, including updated amounts and payment schedules. Additionally, a change history log tracks modifications, providing transparency and maintaining donor communication. See [Upgrade or Downgrade a Recurring Gift Commitment](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_upgrade_downgrade_recurring_gift_commitment.htm&type=5) on Salesforce for more.
+Represented by changes in the recurring gift record, including updated amounts and payment schedules. Additionally, a change history log tracks modifications, providing transparency and maintaining donor communication. See [Upgrade or Downgrade a Recurring Gift Commitment](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_upgrade_downgrade_recurring_gift_commitment.htm&type=5) on Salesforce Help for more.
 
 **Upgrades for Recurring Gifts**: This refers to the process of increasing the amount, frequency, or duration of a donor's recurring gift. An upgrade indicates that a donor is willing to contribute more to support the organisation, reflecting increased engagement or capacity.
 
