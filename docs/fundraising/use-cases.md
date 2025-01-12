@@ -11,11 +11,11 @@ For nonprofits, incoming monies arrive in various ways and can be recorded in a 
 
 ## Gift Commitments
 * When using Gift Entry to update that a Gift Transaction was paid against an existing Gift Commitment with a Gift Commitment Schedule, note that only one payment can be recorded per Gift Transaction.
-* Gift Transaction will autoname to the commitment amount, even if the entry amount is different (based on default)
+* A Gift Transaction will autoname to the commitment amount, even if the entry amount is different (based on default).
 * Once Gift Entry has processed the Gift Transaction, any edits will require multiple steps and manipulation of the Gift Transaction status.
-* Once a gift commitment is applied to a gift entry, it cannot be removed (Gift Processing Status = Success).
-* Gift Transaction with a status of Paid can be edited, but it requires multiple steps and manipulation of the status. See the documentation [here](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_gift_transactions.htm&type=5).
-* In order for the Gift Commitment to appear in Gift Entry it must meet the following criteria:
+* A Gift Transaction with a status of Paid can be edited, but it requires multiple steps and manipulation of the status. See the documentation [here](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_gift_transactions.htm&type=5).
+* Once a Gift Commitment is applied to a Gift Entry, it cannot be removed (Gift Processing Status = Success).
+* In order for the Gift Commitment to appear in Gift Entry, it must meet the following criteria:
     * Effective Start Date must be populated
     * Status must be Active
     * Transaction Due Date on scheduled Gift Transaction must match Gift Received Date selected on Gift Entry
