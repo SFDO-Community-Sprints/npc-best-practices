@@ -39,7 +39,7 @@ Represented by Opportunity, Gift Transaction, Gift Commitment, and Gift Commitme
 * See Prerequisites for Salesforce Admin from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
 
 * Required
-    * On Opportunity object:
+    * On the Opportunity object:
         * Determine and set up the grant solicitation process (record type, stage values, Sales Process)
         * Determine and create custom fields to capture grant-specific information
         * Set up grant-specific Page Layout
