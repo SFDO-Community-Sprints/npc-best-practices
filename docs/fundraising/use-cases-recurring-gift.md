@@ -25,7 +25,6 @@ Represented by Gift Transactions, Gift Commitment, Gift Commitment Schedule, and
 
 * Automatic credit card charge through a donation platform for the same amount each month
 * Donor sends in a check every month
-* Regular scheduled donation via a Donor Advised Fund (DAF)
 
 **Not using Opportunity because:**
 
