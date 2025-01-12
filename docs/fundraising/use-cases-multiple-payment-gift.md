@@ -11,21 +11,15 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 **Definition:**
 
-
-
 * Not explicitly solicited - could have been part of a larger marketing effort
 * Could have a previous commitment
 
 **Examples:**
 
-
-
-* Could be pledge
+* Could be a pledge
 * Could be a Letter of Intent
 
 **Optional Opportunity because**:
-
-
 
 * Tracking solicitation may not be necessary
 
