@@ -28,7 +28,7 @@ For nonprofits, incoming monies arrive in various ways and can be recorded in a 
 ## Gift Designations
 * Be aware of [the inheritance hierarchy for Gift Designations](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_manage_designations.htm&type=5).
 ## Deleting 
-* Deleting a gift entry does not automatically delete the related transaction.  The transaction must be deleted separately.
+* Deleting a Gift Entry does not automatically delete the related Gift Transaction.  The transaction must be deleted separately.
 ## Other
-* Default automation: Transaction status will be “pending” after entry, except for a cash payment which will have a status of “paid”.
+* Default automation: Transaction status will be “pending” after entry, except for a cash payment, which will have a status of “paid”.
 
