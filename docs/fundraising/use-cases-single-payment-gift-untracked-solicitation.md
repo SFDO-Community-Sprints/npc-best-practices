@@ -48,12 +48,10 @@ Represented by one Gift Transaction
     * Determine naming convention for Campaigns, and set up corresponding automation
     * Determine naming convention for Gift Transactions, and set up corresponding automation (Note that Gift Entry **does** apply a default naming convention)
     * Review Payment Method picklist values and remove/add if required (IMPORTANT: As of June 2024, it is not possible to add values to Payment Method without errors - subscribe to [this known issue](https://issues.salesforce.com/issue/a028c00000yxpEIAAY/nonprofit-cloudnpc-fundraising-unable-to-process-gifs-in-gift-entry-with-a-custom-payment-method-picklist-value) to get updates.)
-    * Set up [Source Code](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Outreach_Source_Code_Campaigns.htm&type=5) 
-    * Remove New button for Gift Transactions (only create through Gift Entry)
+    * Set up [Source Codes](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Outreach_Source_Code_Campaigns.htm&type=5) 
+    * Remove New button for Gift Transactions if your organization is only allowing creation through Gift Entry.
 
 **Prerequisites for End User:**
-
-
 
 * Optional
     * Create Person/Business Account for the donor before creating Gift Transaction
