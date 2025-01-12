@@ -5,6 +5,7 @@ nav_order: 1
 has_children: true
 ---
 # Fundraising Use Cases
+For nonprofits, incoming monies arrive in various ways and can be recorded in a variety of ways. The Fundraising Use Cases on these pages are meant as a guide to help nonprofits understand how to record and track incoming monies in Salesforce's Nonprofit Cloud.
 
 # Overall Considerations
 
