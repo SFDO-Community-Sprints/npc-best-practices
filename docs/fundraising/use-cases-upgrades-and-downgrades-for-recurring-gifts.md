@@ -25,7 +25,7 @@ Scenario : A donor is currently contributing $50 monthly to your organisation.
 * Upgrade: Jane decides to increase her contribution to $75/month.
 * Action:
     * Locate Jane’s recurring gift record in Salesforce.
-    * Click on the Upgrade|Downgrade action button in the upper right corner of the page.
+    * Click on the Upgrade/Downgrade action button in the upper right corner of the page.
     * Select the corresponding Gift Commitment Schedule - make sure it is the active one if there is more than one.
     * Follow the wizard and update the amount to the new higher amount as well as the Effective Start Date for the upgraded donation.
     * Click Continue and Save.
