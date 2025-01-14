@@ -17,10 +17,11 @@ For nonprofits, incoming monies arrive in various ways and can be recorded in a 
     * Once Gift Entry has processed the Gift Transaction, any edits will require multiple steps and manipulation of the Gift Transaction status.
     * Once a Gift Commitment is applied to a Gift Entry, it cannot be removed (Gift Processing Status = Success).
     * In order for the Gift Commitment to appear in Gift Entry, it must meet the following criteria:
+  
          * Effective Start Date must be populated
          * Status must be Active
          * Transaction Due Date on scheduled Gift Transaction must match Gift Received Date selected on Gift Entry
-&nbsp;
+
 ## Gift Entry
 * Starting in the Spring '25 release, you can [map custom fields for Gift Entry](https://help.salesforce.com/s/articleView?id=release-notes.rn_fundraising_improve_donor_relations_and_track_the_impact_of_gifts.htm&release=254&type=5).
 * At this time, you cannot create Gift Entry templates. The ability to add and use templates was announced at Dreamforce '24 and is on the roadmap for the second half of 2025.
