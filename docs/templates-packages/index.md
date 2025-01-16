@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NPSP to NPC Translations
+title: Templates & Packages
 nav_order: 9
 has_children: false
 ---
