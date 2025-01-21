@@ -45,15 +45,11 @@ Represented by Gift Transactions, Gift Commitment, Gift Commitment Schedule, Gif
 
 **Prerequisites for End User:**
 
-
-
 * See Prerequisites for End User from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
-
-* Required
-    * Ensure that a Business Account exists for the donor-advised fund provider (e.g. Fidelity Charitable Gift Fund)
-    * Ensure that a Person Account exists for each specified donor
+* Ensure that a Business Account exists for the donor-advised fund provider (e.g. Fidelity Charitable Gift Fund)
+* Ensure that a Person Account exists for each specified donor
 * Optional
-    * Ensure that a Business Account exists for the specific donor’s donor-advised fund (e.g. Fidelity Charitable Gift Fund - Alex Brown Fund). Link this Account to the donor-advised fund provider Account using Account hierarchy. The donor-advised fund provider should be the Parent Account.
+    * You may want an account hierarchy for a large donor-advised fund provider that you receive gifts from multiple donors through. If so, create a Business Account for the specific donor’s donor-advised fund (e.g. Fidelity Charitable Gift Fund - Alex Brown Fund). Link this Account to the donor-advised fund provider Account using Account hierarchy. The donor-advised fund provider should be the Parent Account.
 
 **Best Practices:**
 
