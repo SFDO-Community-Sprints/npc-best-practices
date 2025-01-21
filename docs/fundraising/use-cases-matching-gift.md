@@ -39,7 +39,7 @@ Represented by one Gift Transaction, linked to another Gift Transaction
 * See Prerequisites for Salesforce Admin from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
 * Optional
     * Create a custom field at the Bsuiness Account level to capture matching policies for the matching gift donor.
-    * Create a roll-up summary totalling the amounts of all related Matched Gift Transactions onto the Matching Gift Transaction (using [DLRS](https://sfdo-community-sprints.github.io/DLRS-Documentation/) or [OmniStudio](https://help.salesforce.com/s/articleView?id=sf.os_omnistudio.htm&type=5)) 
+    * Create a roll-up summary totalling the amounts of all related Matched Gift Transactions onto the Matching Gift Transaction (using [DLRS](https://sfdo-community-sprints.github.io/DLRS-Documentation/) or [Data Processing Engine](https://help.salesforce.com/s/articleView?id=sf.concept_data_processing_engine.htm&type=5) 
     * In order to display all related Gift Transaction records on the Matching Gift Transaction record, use [ARC](https://help.salesforce.com/s/articleView?id=sf.fsc_admin_arc_overview.htm&type=5), reports, or [Timeline](https://help.salesforce.com/s/articleView?id=sfdo.NPC_PM_Set_Up_a_Timeline.htm&type=5)
 
 **Prerequisites for End User:**
