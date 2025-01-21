@@ -22,7 +22,7 @@ Represented by Opportunity, Gift Transaction, Gift Commitment, and Gift Commitme
 
 **Considerations:**
 
-* Tasks may be associated with each stage of the grant process. There may be application and post-award requirements, such as LOI (application), or Reports (post-award) which need to be tracked. [Action Plans](https://help.salesforce.com/s/articleView?id=sf.fsc_action_plans.htm&type=5) may be used to track these tasks.
+* Tasks may be associated with each stage of the grant process. There may be application and post-award requirements, such as LOI (application), or Reports (post-award) which need to be tracked. [Action Plans](https://help.salesforce.com/s/articleView?id=sf.fsc_action_plans.htm&type=5) may be used to track these tasks but they must be on the Opportunity.
 
 **Using Opportunity / Gift Commitment / Gift Commitment Schedule because:**
 
