@@ -66,9 +66,8 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 
 * See How to enter the gift via Gift Entry from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
-* Can select existing Gift Commitment from this screen
-    * If Gift Commitment exists for that donor and a transaction for it is due within the interval set in the Fundraising General Settings, it will be available to match the transaction to.
-    * It may be easier to have the Gift Commitment and Gift Commitment [Schedule](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Schedule_Gift_Commitments.htm&type=5) created first if this is the first payment on a donation but will depend on ease of workflow for your organization
+    * You can select existing Gift Commitment from this screen
+    * If a Gift Commitment exists for that donor and a transaction for it is due within the interval set in the Fundraising General Settings, it will be available to match the transaction to.
 
 **How to enter the gift (without Gift Entry):**
 
