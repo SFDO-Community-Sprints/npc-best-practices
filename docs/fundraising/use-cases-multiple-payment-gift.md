@@ -74,7 +74,7 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 
 * Create a new Gift Commitment record
-    * [Optional] Click [Manage Gift Commitment Schedule](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Schedule_Gift_Commitments.htm&type=5) to create a new Gift Commitment Schedule
-    * [Optional] Click [Manage Gift Default Designations](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Manage_Gift_Default_Designations_Gift_Commitment.htm&type=5) to set default designations.
+    * [Optional] If the gift will be a recurring gift, click [Manage Gift Commitment Schedule](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Schedule_Gift_Commitments.htm&type=5) to create a new Gift Commitment Schedule
+    * [Recommended] Click [Manage Gift Default Designations](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Manage_Gift_Default_Designations_Gift_Commitment.htm&type=5) to set default designations.
 * See How to enter the gift (without Gift Entry) from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
     * When creating the Gift Transaction, select the newly created Gift Commitment (and Gift Commitment Schedule)
