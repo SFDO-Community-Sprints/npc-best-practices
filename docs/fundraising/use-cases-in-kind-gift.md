@@ -78,7 +78,5 @@ Represented by Gift Transaction
 * See How to enter the gift (without Gift Entry) from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
 
 **Special Considerations**
-* A Gift Transaction must have a dollar amount greater than $0 so you cannot enter an in-kind Gift Transaction for $0. Using the amount field on the Gift Transaction for the fair market value will mean the gift ends up being counted as a regular gift in rollups. There are two suggested solutions:
-    * Create a custom fair market value field on Gift Transaction and enter $0 in the amount field OR
-    * Use the amount field for the fair market value and alter the Donor Gift Summary Data Processing Engine definition to exclude in-kind gift transactions.
+* A Gift Transaction must have a dollar amount greater than $0 so you cannot enter an in-kind Gift Transaction for $0. Using the amount field on the Gift Transaction for the fair market value will mean the gift ends up being counted as a regular gift in rollups. You will need to alter the Donor Gift Summary Data Processing Engine definition to exclude in-kind gift transactions if you do not want them rolled up with all other gift amounts.
 
