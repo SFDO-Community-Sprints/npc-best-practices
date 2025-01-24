@@ -56,27 +56,9 @@ Represented by Gift Transaction
 **Best Practices:**
 
 
-
 * See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
 
 * Set Payment Method for the gift to In-Kind
 
-**How to enter the gift via Gift Entry (recommended):**
 
-
-
-* See How to enter the gift via Gift Entry from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
-
-* Set Payment Method to In-Kind
-* Optional
-    * Create a separate template for In-Kind to allow for different fields to be specified (e.g. Quantity) that may not be applicable for other types of gifts.
-
-**How to enter the gift (without Gift Entry):**
-
-
-
-* See How to enter the gift (without Gift Entry) from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
-
-**Special Considerations**
-* A Gift Transaction must have a dollar amount greater than $0 so you cannot enter an in-kind Gift Transaction for $0. Using the amount field on the Gift Transaction for the fair market value will mean the gift ends up being counted as a regular gift in rollups. You will need to alter the Donor Gift Summary Data Processing Engine definition to exclude in-kind gift transactions if you do not want them rolled up with all other gift amounts.
 
