@@ -8,4 +8,4 @@ has_children: false
 
 ### Status
 
-The NPC Best Practices Group does not have a current timeline for Grantmaking resources.
+The NPC Best Practices Group is working on a timeline for Grantmaking resources.
