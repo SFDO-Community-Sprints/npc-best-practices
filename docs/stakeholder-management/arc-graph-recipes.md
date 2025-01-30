@@ -1,6 +1,6 @@
 ---
-title: ARC Graph Recipes
-parent: Stakeholder Management (Coming Soon!)
+title: ARC Graph Recipes  (Coming Soon!)
+parent: Stakeholder Management
 nav_order: 3
 ---
 # ARC Graph Recipes
