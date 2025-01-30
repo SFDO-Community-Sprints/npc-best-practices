@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Grantmaking
-nav_order: 7
+title: Grantmaking (Coming Soon!)
+nav_order: 8
 has_children: false
 ---
 # Grantmaking
