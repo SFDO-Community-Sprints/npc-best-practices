@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Outcome Management (Coming Soon!)
+title: Outcome Management (Coming Soon)
 nav_order: 9
 has_children: true
 ---
