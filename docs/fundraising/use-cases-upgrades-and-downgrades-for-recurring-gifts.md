@@ -39,7 +39,7 @@ Scenario: Another donor has been contributing $100 quarterly but needs to reduce
     * Follow the same process as you did above for upgrading a donation, this time lowering the amount.
     * Reach out to donor, expressing gratitude for his continued support.
 
- Note that with Nonprofit Cloud, you also have action buttons to Pause and Resume a Gift Commmitment for cases where a donor needs to temporarily suspend their giving.
+ Note that with Nonprofit Cloud, you also have action buttons to Pause and Resume a Gift Commitment for cases where a donor needs to temporarily suspend their giving.
 
 **Prerequisites for Salesforce Admin:**
 
