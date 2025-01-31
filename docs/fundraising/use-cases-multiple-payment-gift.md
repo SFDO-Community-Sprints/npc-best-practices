@@ -65,7 +65,7 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 * See How to enter the gift via Gift Entry from [Single Payment Gift - Untracked Solicitation](use-cases-single-payment-gift-untracked-solicitation.md)
     * You can select existing Gift Commitment from this screen
-    * If a Gift Commitment exists for that donor and a transaction for it is due within the interval set in the Fundraising General Settings, it will be available to match the transaction to.
+    * If a Gift Commitment exists for the donor, and is within the date range set up in Fundraising - General Settings, it will be available to match the transaction to.
 
 **How to enter the gift (without Gift Entry):**
 
