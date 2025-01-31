@@ -49,7 +49,7 @@ Represented by one Gift Transaction
     * Determine naming convention for Gift Transactions, and set up corresponding automation (Note that Gift Entry **does** apply a default naming convention)
     * Review Payment Method picklist values and remove/add if required (IMPORTANT: As of June 2024, it is not possible to add values to Payment Method without errors - subscribe to [this known issue](https://issues.salesforce.com/issue/a028c00000yxpEIAAY/nonprofit-cloudnpc-fundraising-unable-to-process-gifs-in-gift-entry-with-a-custom-payment-method-picklist-value) to get updates.)
     * Set up [Source Codes](https://help.salesforce.com/s/articleView?id=sfdo.NPC_FR_Outreach_Source_Code_Campaigns.htm&type=5) 
-    * Remove New button for Gift Transactions if your organization is only allowing creation through Gift Entry.
+    * Remove "New" button for Gift Transactions if your organization is only allowing creation through Gift Entry.
 
 **Prerequisites for End User:**
 
@@ -64,7 +64,7 @@ Represented by one Gift Transaction
 
 
 * Use Status field on Gift Transaction to track whether payment was successful
-* For online gifts that come in that should be attached to a stewarded Gift Commitment, populate the lookup on the Gift Transaction
+* For online gifts that come in that should be related to a stewarded Gift Commitment, populate the lookup on the Gift Transaction
 * Set appropriate required fields on Gift Transaction (Note that Amount and Payment Method are required by default)
 * Using the Gift Entry option for entering gifts is recommended
 
