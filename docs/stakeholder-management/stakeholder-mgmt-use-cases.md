@@ -1,5 +1,5 @@
 ---
-title: Stakeholder Management Use Cases (Coming Soon!)
+title: Stakeholder Management Use Cases (Coming Soon)
 parent: Stakeholder Management
 nav_order: 4
 ---
