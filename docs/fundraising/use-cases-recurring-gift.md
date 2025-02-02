@@ -50,7 +50,7 @@ Represented by Gift Transactions, Gift Commitment, Gift Commitment Schedule, and
 
 
 
-* Check if your donation platform creates Gift Commitments and Gift Commitment Schedules for recurring donations automatically. If not, build a flow to create them.
+* Check if your donation platform creates Gift Commitments and Gift Commitment Schedules for recurring donations automatically. If not, you may need to build a flow to create them.
 * See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
 
 
