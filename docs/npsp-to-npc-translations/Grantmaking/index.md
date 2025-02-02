@@ -5,6 +5,13 @@ nav_order: 4
 ---
 
 # Grantmaking
+<strong>OFM</strong> - Outbound Funds Module managed package
+&nbsp;
+
+<strong>GMS</strong> - Grants Management System or Grants Management Module managed package
+&nbsp;
+
+<strong>Grantmaking</strong> - Nonprofit Cloud for Grantmaking
 
 &nbsp;
 <table>
