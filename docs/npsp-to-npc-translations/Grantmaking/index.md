@@ -22,8 +22,8 @@ nav_order: 4
 
    </td>
    <td><strong>Grantmaking</strong>
-</tr>
    </td>
+   </tr>
    <tr>
    <td>Grants Portal
 
@@ -322,8 +322,8 @@ nav_order: 4
 
    </td>
    </tr>
-   </table>
-
+ </table>
+&nbsp;
    *Requires Experience Cloud licenses
    &nbsp;
    
