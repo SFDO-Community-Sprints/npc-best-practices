@@ -45,7 +45,7 @@ Represented by Opportunity, Gift Transaction, Gift Commitment, and Gift Commitme
         * Set up grant-specific Page Layout
     * Set up Permission Set for anyone who needs access to grant-related functionality and assign to appropriate users
 * Optional
-    * Set up [Action Plans](https://help.salesforce.com/s/articleView?id=sf.fsc_action_plans.htm&type=5) to track grant requirements/deliverables
+    * Set up [Action Plans](https://help.salesforce.com/s/articleView?id=sf.fsc_action_plans.htm&type=5) to track grant requirements/deliverables or create a custom Deliverables object.
     * Create automation to simplify requirement/deliverable management
     * Set up automation to create Gift Commitment from Opportunity when grant is awarded
 
