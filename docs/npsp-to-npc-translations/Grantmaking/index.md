@@ -13,7 +13,7 @@ nav_order: 4
 
 <strong>Grantmaking</strong> - Nonprofit Cloud for Grantmaking
 
-&nbsp;
+## Feature Comparison
 <table>
 <tr>
   <td><strong>Feature</strong>
@@ -28,7 +28,7 @@ nav_order: 4
    <td><strong>GMS</strong>
 
    </td>
-   <td><strong>Grantmaking</strong>
+   <td><strong>NPC Grantmaking</strong>
    </td>
    </tr>
    <tr>
@@ -335,3 +335,167 @@ nav_order: 4
    &nbsp;
    
    **Requires Nonprofit Success Pack
+
+   ## Object Comparison
+   <table>
+  <tr>
+   <td><strong>Capability</strong>
+   </td>
+   <td><strong>OFM</strong>
+   </td>
+   <td><strong>GMS</strong>
+   </td>
+   <td><strong>NPC Grantmaking</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Individual persons
+   </td>
+   <td>Contacts
+   </td>
+   <td>Contacts
+   </td>
+   <td>Person Accounts
+   </td>
+  </tr>
+  <tr>
+   <td>Organizations
+   </td>
+   <td>Accounts
+   </td>
+   <td>Accounts
+   </td>
+   <td>Business Accounts
+   </td>
+  </tr>
+  <tr>
+   <td>Funding Areas or pool of money available for distribution
+   </td>
+   <td>Funding Program
+   </td>
+   <td>Funding Program
+   </td>
+   <td>Funding Opportunity
+   </td>
+  </tr>
+  <tr>
+   <td>Manage Access to the Funding Opportunity
+   </td>
+   <td>
+   </td>
+   <td>Funding Request Collaborator
+   </td>
+   <td>Funding Opportunity Participant
+   </td>
+  </tr>
+  <tr>
+   <td>Application for Funding
+   </td>
+   <td>Funding Request
+   </td>
+   <td>Funding Request
+   </td>
+   <td>Individual Application
+   </td>
+  </tr>
+  <tr>
+   <td>Record Funding Decision
+   </td>
+   <td>Funding Request
+   </td>
+   <td>Funding Request
+   </td>
+   <td>Application Decision
+   </td>
+  </tr>
+  <tr>
+   <td>Manage Awarded Funding
+   </td>
+   <td>Funding Request
+   </td>
+   <td>Funding Request
+   </td>
+   <td>Funding Award
+   </td>
+  </tr>
+  <tr>
+   <td>Manage People Related to the Application
+   </td>
+   <td>Funding Request Roles
+   </td>
+   <td>Funding Request Roles and Funding Request Collaborator
+   </td>
+   <td>Individual Application Participant
+   </td>
+  </tr>
+  <tr>
+   <td>Manage People Related to the Awarded Funding
+   </td>
+   <td>Funding Request Roles
+   </td>
+   <td>Funding Request Roles and Funding Request Collaborator
+   </td>
+   <td>Funding Award Participant
+   </td>
+  </tr>
+  <tr>
+   <td>Review application submissions
+   </td>
+   <td>Review
+   </td>
+   <td>Review
+   </td>
+   <td>Application Review
+   </td>
+  </tr>
+  <tr>
+   <td>Amend Funding Awards
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Funding Award Amendment
+   </td>
+  </tr>
+  <tr>
+   <td>Manage deliverables or milestones
+   </td>
+   <td>Requirement
+   </td>
+   <td>Requirement
+   </td>
+   <td>Funding Award Requirement
+   </td>
+  </tr>
+  <tr>
+   <td>Manage Disbursement of Funds
+   </td>
+   <td>Disbursement
+   </td>
+   <td>Disbursement
+   </td>
+   <td>Funding Disbursement
+   </td>
+  </tr>
+  <tr>
+   <td>Track Funding Budget
+   </td>
+   <td>
+   </td>
+   <td>Budget
+   </td>
+   <td>Budget
+   </td>
+  </tr>
+  <tr>
+   <td>Allocate Budget to specific awards
+   </td>
+   <td>
+   </td>
+   <td>Budget Allocation
+   </td>
+   <td>Budget Allocation
+   </td>
+  </tr>
+</table>
