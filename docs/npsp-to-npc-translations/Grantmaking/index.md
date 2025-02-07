@@ -335,6 +335,7 @@ nav_order: 4
    &nbsp;
    
    **Requires Nonprofit Success Pack
+   &nbsp;
 
    ## Object Comparison
 
@@ -500,7 +501,7 @@ nav_order: 4
    </td>
   </tr>
 </table>
-&nbsp
+&nbsp;
 
 ### Notes
   
