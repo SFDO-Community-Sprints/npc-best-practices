@@ -338,13 +338,6 @@ nav_order: 4
 
    ## Object Comparison
 
-   ### Notes
-  
-1. There are objects in OFM and Grants Management which cover multiple capabilities whereas in NPC Grantmaking there are separate objects. For example, you will see Funding Request in multiple rows for OFM and Grants Management.
-
-2. There are additional objects in Grantmaking that support other objects and values that are not listed in this chart
-&nbsp
-
    <table>
   <tr>
    <td><strong>Capability</strong>
@@ -507,4 +500,12 @@ nav_order: 4
    </td>
   </tr>
 </table>
+&nbsp
+
+### Notes
+  
+1. There are objects in OFM and Grants Management which cover multiple capabilities whereas in NPC Grantmaking there are separate objects. For example, you will see Funding Request in multiple rows for OFM and Grants Management.
+
+2. There are additional objects in Grantmaking that support other objects and values that are not listed in this chart
+
 
