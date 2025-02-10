@@ -82,4 +82,4 @@ In NPC, the client has the flexibility to configure only the Party Relationship 
 
 
 
-* Not necessarily.  These only need to be created if you want to relate a person to another person, or a person, or a Busines or Organization to another Business or Organization.
+* While not strictly necessary for functionality, most organizations will have a needs for tracking types of relationships between people and organizations. 
