@@ -20,7 +20,7 @@ For nonprofits, incoming monies arrive in various ways and can be recorded in a 
   
          * Effective Start Date must be populated
          * Status must be Active
-         * Transaction Due Date on scheduled Gift Transaction must match Gift Received Date selected on Gift Entry
+         * Gift Received Date needs to be within the Installment Extension Day Count window (set in the Fundraising Settings) for the Transaction Due Date for the next scheduled Gift Transaction.
 
 ## Gift Entry
 * Starting in the Spring '25 release, you can [map custom fields for Gift Entry](https://help.salesforce.com/s/articleView?id=release-notes.rn_fundraising_improve_donor_relations_and_track_the_impact_of_gifts.htm&release=254&type=5).
