@@ -4,7 +4,6 @@ parent: NPSP to NPC Translations
 nav_order: 5
 ---
 # Program & Case Management 
-&nbsp;
 <table>
 <tr>
  <td><strong>Capability</strong>
