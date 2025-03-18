@@ -7,19 +7,19 @@ nav_order: 5
 &nbsp;
 <table>
 <tr>
- <td>**Capability**
+ <td><strong>Capability</strong>
 
    </td>
-   <td>**PMM**
+   <td><strong>PMM</strong>
 
    </td>
-   <td>**Nonprofit Cloud**
+   <td><strong>Nonprofit Cloud</strong>
 
    </td>
-   <td>**Best Practices Group Notes**
+   <td><strong>Best Practices Group Notes</strong>
 
    </td>
-   <td>**Examples**
+   <td><strong>Examples</strong>
    </tr>
   <tr>
    </td>
