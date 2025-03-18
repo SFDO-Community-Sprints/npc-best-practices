@@ -19,9 +19,10 @@ nav_order: 5
 
    </td>
    <td><strong>Examples</strong>
-   </tr>
-  <tr>
+  
    </td>
+    </tr>
+  <tr>
    <td>Track overarching themes, areas of focus, departments, or programs
 
    </td>
@@ -39,9 +40,10 @@ nav_order: 5
 After-School Program
 
 Family Support Program
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Track services, events, workshops, opportunities, or resources that people can access or receive for each Program
 
    </td>
@@ -59,9 +61,10 @@ Family Support Program
 Financial Stipend
 
 1:1 Mentoring
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Track the frequency that a service will be delivered, either as a single or recurring set of sessions. Participants can be added to schedules if they are to receive a benefit on a regular basis.
 
    </td>
@@ -77,9 +80,10 @@ Financial Stipend
    <td>A food pantry offers open food shopping every Monday from 5:00-7:00 PM
 
 A social services agency distributes bus passes to clients on the 30th of every month
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Track individual instances or sessions of a service/benefit
 
    </td>
@@ -93,9 +97,10 @@ A social services agency distributes bus passes to clients on the 30th of every 
 
    </td>
    <td>The specific instance of the date/time that a food pantry operated it's open shopping hours
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Enroll an individual in a program
 
    </td>
@@ -109,9 +114,10 @@ A social services agency distributes bus passes to clients on the 30th of every 
 
    </td>
    <td>A senior registers and enrolls for a meal-delivery service program
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Assign an individual to a service/benefit
 
    </td>
@@ -127,9 +133,10 @@ A social services agency distributes bus passes to clients on the 30th of every 
    <td>A senior registers and enrolls for a meal-delivery service program and receives a benefit assignment for meal delivery. The meal deliveries will be fulfilled on an ongoing basis with no defined end date.
 
 A participant in the employment program is assigned and entitled to 10 sessions of job coaching.
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Track and individual's enrollment in a specific Service/Benefit Schedule
 
    </td>
@@ -143,9 +150,10 @@ A participant in the employment program is assigned and entitled to 10 sessions 
 
    </td>
    <td>A Youth Development organization has an afterschool program that meets on Mondays at 6pm or Wednesdays 6pm. A participant who selects the Monday schedule will have a benefit schedule assignment record that connects them to the program schedule for Monday's at 6:00pm.
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Track delivery of a service/benefit/resource
 
    </td>
@@ -159,12 +167,14 @@ A participant in the employment program is assigned and entitled to 10 sessions 
 
    </td>
    <td>Student receives tutoring at a session. A participant receives a bus pass allocated to them
-</tr>
-<tr>
+ 
    </td>
+    </tr>
+<tr>
    <td>Define categories of benefits and link to their units of measure
 
    </td>
+ 
    <td>
    </td>
    <td>Benefit Type
@@ -176,9 +186,10 @@ A participant in the employment program is assigned and entitled to 10 sessions 
    <td>A Youth Development organization offers classes and workshops to help students prepare for college, and scholarships and student stipends to pay for books. They have a benefit type called Monetary to track benefits for scholarships and stipends, and they have a benefit type called Education, to track all benefits related to courses and training.
 
 Alternatively, a Music School offers a multitude of classes and programs for various musical activities and courses. They use the following benefit types to categorize their courses by instrument: Flute, Clarinet, Piano, and Percussion. The corresponding benefits under each category are the various classes offered in that instrumental area, e.g. Intro to Flute, Flute Level 1, and Flute Level 2.
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Defines the units and systems of units used to express and account for quantities
 
    </td>
@@ -195,9 +206,10 @@ Alternatively, a Music School offers a multitude of classes and programs for var
 Sessions
 
 Hours
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Group program enrollees together based on criteria
 
    </td>
@@ -219,9 +231,10 @@ A cohort could represent all the teenagers enrolled in a summer youth developmen
 Job training program:
 
 A cohort could be a group of individuals starting a specific job training course on the same date
-</tr>
-<tr>
+
    </td>
+   </tr>
+<tr>
    <td>Track members of a program cohort
 
    </td>
@@ -236,6 +249,7 @@ A cohort could be a group of individuals starting a specific job training course
    <td>Summer youth program:
 
 A program cohort member represents the individual's membership in the cohort.
-</tr>
+
    </td>
+   </tr>
    </table>
