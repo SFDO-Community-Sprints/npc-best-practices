@@ -13,9 +13,12 @@ For issues with items on this page, please email <npcbestpractices@gmail.com>
 
 
 ## Packages
-### Relationships Unmanaged Package - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001n72t)
+### Relationships Unmanaged Package - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIDE) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIDE)
 
-This package includes Flows to streamline the creation of Relationship records (Contact Contact Relationship, Account Contact Relationship, Account Account Relationship) including their inverse relationships, as well as a Flow to automatically convert created Contacts to Person Accounts. It also includes Custom Report Types and sample Reports for the various relationship types used in Nonprofit Cloud. This package also works for Education Cloud.
+This package provides Flows to simplify the creation of Relationship records, including Contact-Contact, Account-Contact, and Account-Account Relationships. It also ensures inverse relationships are managed automatically, deleting them when the corresponding Relationship is removed. Additionally, the package includes a Flow to automatically convert newly created Contacts into Person Accounts. Custom Report Types and sample Reports are included to support various relationship types within Nonprofit Cloud. This package is also compatible with Education Cloud.
+
+![Screenshot 2025-03-31 at 3 24 49 PM](https://github.com/user-attachments/assets/ad0b7c19-ad25-437e-8651-3c7a45ef6e82)
+
 
 **Pre-installation Requirements**
 * Enable Person Accounts
@@ -33,3 +36,9 @@ This package includes Flows to streamline the creation of Relationship records (
     * PersonAccount
     * Business_Account
 * If you would like to share the sample reports with non-admin users, navigate to the Report Folder ‘Relationships’ to share with additional users.
+* Create a New Action on the Account Object, that calls the ‘Create a Relationship Flow’.  *The Create a Relationship Guided Flow is a single flow that calls sub-flows depending on which type of relationship the user is creating.
+ ![Screenshot 2025-03-31 at 3 21 41 PM](https://github.com/user-attachments/assets/abf67022-204b-4a1a-92e8-8683c51ea8da)
+
+ Add the Action to your Account page layouts and/or Account Lightning pages.
+
+
