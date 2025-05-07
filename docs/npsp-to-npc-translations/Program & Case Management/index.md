@@ -31,11 +31,11 @@ nav_order: 5
 
    </td>
   
-   <td>Job Readiness
+   <td>Job Readiness, 
 
-After-School Program
+After-School Program, 
 
-Family Support Program
+Family Support Program, 
 
    </td>
    </tr>
@@ -50,11 +50,11 @@ Family Support Program
 
    </td>
   
-   <td>Bus Passes
+   <td>Bus Passes, 
 
-Financial Stipend
+Financial Stipend, 
 
-1:1 Mentoring
+1:1 Mentoring, 
 
    </td>
    </tr>
@@ -148,7 +148,7 @@ A participant in the employment program is assigned and entitled to 10 sessions 
 
    </td>
   
-   <td>Student receives tutoring at a session. A participant receives a bus pass allocated to them
+   <td>Student receives tutoring at a session. A participant receives a bus pass allocated to them.
  
    </td>
     </tr>
@@ -176,11 +176,11 @@ A participant in the employment program is assigned and entitled to 10 sessions 
 
    </td>
    
-   <td>Dollars ($)
+   <td>Dollars ($),
 
-Sessions
+Sessions,
 
-Hours
+Hours,
 
    </td>
    </tr>
