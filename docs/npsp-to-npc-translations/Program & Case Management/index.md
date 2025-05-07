@@ -35,7 +35,7 @@ nav_order: 5
 
 After-School Program, 
 
-Family Support Program, 
+Family Support Program 
 
    </td>
    </tr>
@@ -54,7 +54,7 @@ Family Support Program,
 
 Financial Stipend, 
 
-1:1 Mentoring, 
+1:1 Mentoring 
 
    </td>
    </tr>
@@ -180,7 +180,7 @@ A participant in the employment program is assigned and entitled to 10 sessions 
 
 Sessions,
 
-Hours,
+Hours
 
    </td>
    </tr>
