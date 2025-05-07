@@ -219,4 +219,4 @@ A program cohort member represents the individual's membership in the cohort.
    </tr>
    </table>
    
-   A more complete version of this chart with notes is available here: https://drive.google.com/file/d/1hLwjVNE31irNMbgGj-0Eb-Tpu6htsPgy/view?usp=sharing
+   A more complete version of this chart with notes is available here: [https://drive.google.com/file/d/1hLwjVNE31irNMbgGj-0Eb-Tpu6htsPgy/view?usp=sharing](https://drive.google.com/file/d/1hLwjVNE31irNMbgGj-0Eb-Tpu6htsPgy/view?usp=sharing)
