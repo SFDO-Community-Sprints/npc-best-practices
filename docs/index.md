@@ -22,19 +22,22 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 
 ##  Contributors
 ### Project Managers
-* Dar Veverka
-* Hayley Tuller
+* Deb Finken
 * Junette Tan
 * Tara Cobb
+* Toby Ward
 * Tracey Braun
 
 ### Contributors
 * Alex Christie
+* Alfred Archampong
 * Allison Roscoe
 * Amanda Styles
 * Annette Pretorius
 * Anthony Latunski
 * Arthur Price
+* Ashley Dougerty
+* Basil Tilmon
 * Bill Florio
 * Brad Struss 
 * Carla Estey
@@ -43,31 +46,41 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Deanne Walters
 * Dodi Friedenberg
 * Ethan Norris
+* Evan Ponter
+* Hayley Tuller
 * Heath Parks
 * Jake Roesler
 * Jamie Van Nostrand
 * Janina Capacillo
+* Jon Mervis
 * Julie Russell
+* Justin Barss
 * Karen Fitton
 * Karim Gabriel
 * Kevin Swiggum
 * Karyn Dubravetz
 * Kathy Dunne
+* Kathryn Egan
 * Katie Loescher
+* Maria Kelley
 * Mary Ann McInerney
 * Melanie Calhoun
 * Melissa Oglesby
 * Nadine Leung
 * Peggy Ngwa Nfurbi
 * Rebecca Nichols
+* Renee Davis
+* Russ Feldman
+* Sandy Whitten
 * Sanishya Shrestha
 * Sara Camancho
+* Scott Slawson
 * Shari Carlson
 * Sirisha Yelamarthi
 * Taylor Moyer 
 * Tiffany Spencer
-* Toby Ward
 * Trent Whalon
+* Tristan Wise
 * Tyler Cordell
 * Vanessa Ruiz
 * Zina Seletskaya
@@ -75,7 +88,9 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 ### Salesforce Staff Contributors
 * Alison Meyer
 * Ben Mozenter
+* Cassie Bartelme
 * Cody Switzer
+* Dar Veverka
 * Elizabeth Swander
 * Greg Perlstein
 * Heeyeon Park
@@ -83,7 +98,9 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Kelly Dwyer
 * Melissa Barber
 * Michael Smith
+* Sarah Vahlkamp
 * Sean Finerty
+
 
 ![IMG_4803](https://github.com/user-attachments/assets/76749147-61d9-4fa9-8826-fe7ac7174779)
 
