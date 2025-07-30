@@ -29,6 +29,9 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Tracey Braun
 
 ### Contributors
+* Abby Morrow
+* Adil Abidraja
+* Akash Mishra
 * Alex Christie
 * Alfred Archampong
 * Allison Roscoe
@@ -45,6 +48,7 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Daniel Gorton
 * Deanne Walters
 * Dodi Friedenberg
+* Erica Bateman
 * Ethan Norris
 * Evan Ponter
 * Hayley Tuller
@@ -52,9 +56,12 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Jake Roesler
 * Jamie Van Nostrand
 * Janina Capacillo
+* Jo Wickens
 * Jon Mervis
+* Judi Sohn
 * Julie Russell
 * Justin Barss
+* Kamal Farran
 * Karen Fitton
 * Karim Gabriel
 * Kevin Swiggum
@@ -62,7 +69,10 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Kathy Dunne
 * Kathryn Egan
 * Katie Loescher
+* Katie Shepherd
+* Kymberli Feng
 * Maria Kelley
+* Marley Cunningham 
 * Mary Ann McInerney
 * Melanie Calhoun
 * Melissa Oglesby
@@ -70,12 +80,14 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Peggy Ngwa Nfurbi
 * Rebecca Nichols
 * Renee Davis
+* Riley Cameron
 * Russ Feldman
 * Sandy Whitten
 * Sanishya Shrestha
 * Sara Camancho
 * Scott Slawson
 * Shari Carlson
+* Shreyas Vijayasarathy
 * Sirisha Yelamarthi
 * Taylor Moyer 
 * Tiffany Spencer
