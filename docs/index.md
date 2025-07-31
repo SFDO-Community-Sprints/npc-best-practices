@@ -78,6 +78,7 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Melissa Oglesby
 * Nadine Leung
 * Peggy Ngwa Nfurbi
+* Preeti Ladwa
 * Rebecca Nichols
 * Renee Davis
 * Riley Cameron
