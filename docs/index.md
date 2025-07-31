@@ -110,6 +110,7 @@ The Nonprofit Cloud Best Practices Group (NPC BP) is a project of [Salesforce's 
 * Heeyeon Park
 * JJ Miller
 * Kelly Dwyer
+* Maddy Earhart
 * Melissa Barber
 * Michael Smith
 * Sarah Vahlkamp
