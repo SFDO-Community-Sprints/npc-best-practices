@@ -34,6 +34,7 @@ Dozens of community members have contributed to this project since November 2023
 * Brad Struss 
 * Carla Estey
 * Carolina Avsar
+* Clair Lam
 * Daniel Gorton
 * Deanne Walters
 * Debbie Pope
