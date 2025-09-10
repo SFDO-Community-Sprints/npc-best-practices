@@ -79,7 +79,7 @@ Dozens of community members have contributed to this project since November 2023
 * Renee Davis
 * Riley Cameron
 * Russ Feldman
-* Saikiran malepati
+* Saikiran Malepati
 * Sandy Whitten
 * Sanishya Shrestha
 * Sara Camancho
