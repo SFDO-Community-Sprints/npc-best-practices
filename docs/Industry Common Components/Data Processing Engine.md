@@ -12,8 +12,8 @@ Goal: Enable someone to get started with Data Processing Engine.
 
 - [Overview](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#what-is-data-processing-engine)
 - [Users & Permissions](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#users-and-permissions)
-- [Setup Steps for Standard DPE Definitions](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#setup-steps-for-standard-dpe-definitions)
--[DPE Best Practices](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#dpe-best-practices)
+- [Setup Steps for Standard DPE Definitions](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#setup-steps-for-standard-dpe-definitions) 
+- [DPE Best Practices](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#dpe-best-practices)
 - [Monitoring and Troubleshooting](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#monitoring--troubleshooting)
 
 ### What is Data Processing Engine?
@@ -51,7 +51,7 @@ Accounting Subledger DPE Templates:
 
 * [Accounting Subledger Processes](https://help.salesforce.com/s/articleView?id=sfdo.asl_jobs.htm&type=5)
 
-### DPE Help Articles:
+### DPE Help Articles
 
 
 
@@ -86,7 +86,7 @@ Additional permission sets are needed if you are using the flexcards to display 
     * [Actionable Segmentation Basics](https://help.salesforce.com/s/articleView?id=ind.actionable_segmentation_basics.htm&type=5)
     * [Assign Permission Sets for Actionable Segmentation](https://help.salesforce.com/s/articleView?id=ind.actionable_segmentation_assign_permissions.htm&type=5)
 
-**Relevant users for basic setup:**
+**Relevant Users for Basic Setup**
 
 
 
@@ -180,7 +180,9 @@ For the three fundraising DPE's, Salesforce has provided a flow template and flo
 * You may not want automatic updates without testing first—it’s important to make sure the newly updated definition is compatible with your Salesforce org and produces expected results.
 
 ### **Monitoring & Troubleshooting**
+
 **Monitoring DPE Definitions**
+
 You can monitor DPE Definitions that are run in Setup → Monitor Workflow Services
 Results are saved for 30 days
 If you have DPE definitions that are using the CRM Analytics platform, the Data Manager app also provides visibility into what happens in the background. It can be used to see Data Sources and other items about the data pipeline job processing. Currently, all the out-of-the-box Nonprofit Cloud DPE definitions use CRM Analytics for processing.
@@ -198,6 +200,7 @@ Here are a few screenshots of “Monitor Workflow Services”:
 <img width="512" height="205" alt="Monitor WFS 3" src="https://github.com/user-attachments/assets/19100501-2779-4b8d-98da-78090691c227" />
 <br>
 <br>
+
 **Troubleshooting DPE Definitions**
 
 
@@ -213,7 +216,7 @@ Here are a few screenshots of “Monitor Workflow Services”:
 
 ### Building a Custom DPE Definition
 
-**What if you need calculations that aren’t part of the standard DPE definition?**
+**What If You Need Calculations That Aren’t Part of the Standard DPE Definition?**
 
 First, determine whether your use case is a good fit for DPE. DPE is recommended for bulk, asynchronous processing and should not be used for real-time calculations. Flow, [Declarative Lookup Rollup Summary (DLRS)](https://sfdo-community-sprints.github.io/DLRS-Documentation/), and other rollup apps are still good go-to tools for real-time rollups and concatenating data.
 
@@ -221,7 +224,7 @@ To avoid having to recreate your custom calculations for each Salesforce release
 
 The [Data Processing Engine Basics](https://trailhead.salesforce.com/content/learn/modules/data-processing-engine-basics) and [Create Fundraising Rollups in Data Processing Engine](https://trailhead.salesforce.com/content/learn/projects/create-fundraising-rollups-with-data-processing-engine?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-nonprofit-cloud-consultant-npc-cred) Trailhead badges are a great place to start learning how to build your own DPE definitions. After completing these modules, open up the NPC DPE definitions and look at how they are built. The Donor Gift Summary in particular is the most complex of the standard DPE definitions, but is a good example of how a sophisticated set of calculations can be handled. 
 
-**Considerations when building a custom DPE definition**
+**Considerations When Building a Custom DPE Definition**
 
 * The DPE may run successfully but yield incorrect totals if the calculations aren’t built correctly
 * As part of validating your results, consider:
@@ -235,7 +238,7 @@ The [Data Processing Engine Basics](https://trailhead.salesforce.com/content/lea
     * Keep in mind that DPE doesn’t automatically version definitions the way Flow does. If you want to preserve a previous version, save as a new definition, make the changes, and activate. Don’t forget to deactivate the old version.
     * If you need to back up your current definition, you can download the JSON file using the icon highlighted here. You can create a new definition from your backup by uploading the JSON file.
 
-**Helpful skill sets for customizing and configuring DPE**
+**Helpful Skill Sets for Customizing and Configuring DPE**
 
 There are several skills that are helpful, maybe even required, when working with DPE. Building these skills prior to creating a custom DPE will support you in creating a DPE that functions correctly. Those skills include: 
 
