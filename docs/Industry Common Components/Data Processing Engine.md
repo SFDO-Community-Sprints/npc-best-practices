@@ -10,10 +10,10 @@ Audience: Salesforce admins at nonprofits and consulting partners
 
 Goal: Enable someone to get started with Data Processing Engine.
 
-- Overview
+- [Overview](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#what-is-data-processing-engine)
 - [Users & Permissions](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#users-and-permissions)
-- Setup Steps for Standard DPE Definitions
-- DPE Best Practices
+- [Setup Steps for Standard DPE Definitions](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#setup-steps-for-standard-dpe-definitions)
+-[DPE Best Practices](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#dpe-best-practices)
 - Monitoring and Troubleshooting
 
 ### What is Data Processing Engine?
@@ -97,7 +97,7 @@ Additional permission sets are needed if you are using the flexcards to display 
     * Must have permissions to create/read/edit/delete
     * Note that the Writeback User defaults to the Default Workflow User ([set in Process Automation Settings](https://help.salesforce.com/s/articleView?id=platform.workflow_defaultuser.htm&type=5)), but does not have to be the same user.
 
-### Setup Steps for Standard DPE Definitions
+### **Setup Steps for Standard DPE Definitions**
 
 These instructions assume you have already [enabled the NPC feature areas](https://help.salesforce.com/s/articleView?id=sfdo.npc_enable_and_configure_nonprofit_cloud_features.htm&type=5) you will be using, such as Fundraising or Program and Benefit Management.
 
@@ -179,8 +179,8 @@ For the three fundraising DPE's, Salesforce has provided a flow template and flo
     * You can trigger multiple DPE definitions in a single Flow (e.g. your Flow can run the cloned DPE definition first, then run any other DPE definitions after).
 * You may not want automatic updates without testing first—it’s important to make sure the newly updated definition is compatible with your Salesforce org and produces expected results.
 
-Monitoring & Troubleshooting
-Monitoring DPE Definitions
+### **Monitoring & Troubleshooting**
+#### Monitoring DPE Definitions
 You can monitor DPE Definitions that are run in Setup → Monitor Workflow Services
 Results are saved for 30 days
 If you have DPE definitions that are using the CRM Analytics platform, the Data Manager app also provides visibility into what happens in the background. It can be used to see Data Sources and other items about the data pipeline job processing. Currently, all the out-of-the-box Nonprofit Cloud DPE definitions use CRM Analytics for processing.
