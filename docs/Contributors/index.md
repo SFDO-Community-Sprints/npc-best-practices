@@ -16,14 +16,17 @@ Dozens of community members have contributed to this project since November 2023
 
 ## Contributors
 * Abby Morrow
+* Abhishek Bedarkar
 * Adil Abidraja
 * Akash Mishra
 * Alex Christie
 * Alfred Archampong
 * Allison Roscoe
 * Amanda Styles
+* Anderson Mok
 * Annette Pretorius
 * Anthony Latunski
+* Arjan Lail
 * Arthur Price
 * Ashley Dougerty
 * Basil Tilmon
@@ -33,7 +36,9 @@ Dozens of community members have contributed to this project since November 2023
 * Carolina Avsar
 * Daniel Gorton
 * Deanne Walters
+* Debbie Pope
 * Dodi Friedenberg
+* Emily Fergusson
 * Erica Bateman
 * Ethan Norris
 * Evan Ponter
@@ -43,7 +48,9 @@ Dozens of community members have contributed to this project since November 2023
 * Jamie Van Nostrand
 * Janina Capacillo
 * Jo Wickens
+* JoJo Cheng
 * Jon Mervis
+* Jyothsna Adusumilli
 * Judi Sohn
 * Julie Russell
 * Justin Barss
@@ -57,22 +64,28 @@ Dozens of community members have contributed to this project since November 2023
 * Katie Loescher
 * Katie Shepherd
 * Kymberli Feng
+* Laxinder Singh
+* Madison You
 * Maria Kelley
 * Marley Cunningham 
 * Mary Ann McInerney
 * Melanie Calhoun
 * Melissa Oglesby
 * Nadine Leung
+* Paula Berg
 * Peggy Ngwa Nfurbi
 * Preeti Ladwa
 * Rebecca Nichols
 * Renee Davis
 * Riley Cameron
 * Russ Feldman
+* Saikiran malepati|
 * Sandy Whitten
 * Sanishya Shrestha
 * Sara Camancho
+* Sarai Ayon
 * Scott Slawson
+* Shannon Mah
 * Shari Carlson
 * Shreyas Vijayasarathy
 * Sirisha Yelamarthi
@@ -82,7 +95,9 @@ Dozens of community members have contributed to this project since November 2023
 * Trent Whalon
 * Tristan Wise
 * Tyler Cordell
+* Una Zhang
 * Vanessa Ruiz
+* Zarina Varley Scott
 * Zina Seletskaya
 
 ## Salesforce Staff Contributors
@@ -92,6 +107,7 @@ Dozens of community members have contributed to this project since November 2023
 * Cody Switzer
 * Dar Veverka
 * Elizabeth Swander
+* Emily Beach
 * Greg Perlstein
 * Heeyeon Park
 * JJ Miller
