@@ -26,7 +26,7 @@ As you dive into DPE, it can get complex very quickly—don’t panic! You can s
 
 ### When and where DPE is used in NPC
 
-Several DPE definition templates are provided out-of-the-box with NPC. We recommend using these templates. They are relatively easy to set up and provide very helpful summary information for users. Note that some templates may not be visible until you enable the corresponding feature set, such as Fundraising. Currently, all the out-of-the-box Nonprofit Cloud DPE definitions use CRM Analytics for processing. \
+Several DPE definition templates are provided out-of-the-box with NPC. We recommend using these templates. They are relatively easy to set up and provide very helpful summary information for users. Note that some templates may not be visible until you enable the corresponding feature set, such as Fundraising. Currently, all the out-of-the-box Nonprofit Cloud DPE definitions use CRM Analytics for processing. 
 
 Fundraising DPE Templates:
 
