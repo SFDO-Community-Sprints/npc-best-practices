@@ -53,8 +53,6 @@ Accounting Subledger DPE Templates:
 
 ### DPE Help Articles
 
-
-
 * [Data Processing Engine](https://help.salesforce.com/s/articleView?id=ind.dpe_intro.htm&type=5)
     * [Node types and how to use them](https://help.salesforce.com/s/articleView?id=ind.dpe_nodes.htm&type=5)
     * [Aggregate functions and how to use them](https://help.salesforce.com/s/articleView?id=ind.dpe_group_aggregate.htm&type=5)
@@ -62,9 +60,10 @@ Accounting Subledger DPE Templates:
 * [Configure Data Processing Engine Components](https://help.salesforce.com/s/articleView?id=ind.energy_pcm_configure_data_processing_engine_components.htm&type=5)
 * [Use Data Processing Engine Templates](https://help.salesforce.com/s/articleView?id=ind.insurance_clone_data_processing_engine_templates.htm&type=5)
 * [Automate Data Processing Engine Definition to run using Salesforce Flows](https://help.salesforce.com/s/articleView?id=ind.dpe_run.htm&type=5)
-* NPC Trailheads: 
-    * [Data Processing Engine Basics](https://trailhead.salesforce.com/content/learn/modules/data-processing-engine-basics)
- 
+### NPC Trailheads
+* [Data Processing Engine Basics](https://trailhead.salesforce.com/content/learn/modules/data-processing-engine-basics)
+* [Create Fundraising Rollups with Data Processing Engine](https://trailhead.salesforce.com/content/learn/projects/create-fundraising-rollups-with-data-processing-engine)
+
 ### **Users and Permissions**
 
 The key permissions for enabling and configuring Data Processing Engine are in the **Data Pipelines Base User** permission set. This permission set is associated with a permission set license, of which only 3 are included as standard with NPC. Therefore, this permission set needs to be assigned judiciously. 
