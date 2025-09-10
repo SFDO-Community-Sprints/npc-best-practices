@@ -184,8 +184,11 @@ See this help article for an overview of the Data Manager App
 Here are a few screenshots of “Monitor Workflow Services”:
 
 <img width="512" height="226" alt="Monitor WFS 1" src="https://github.com/user-attachments/assets/e99ef991-5f34-400c-8bb5-cab82d54866b" />
-
+&nbsp;
+&nbsp;
 <img width="512" height="296" alt="Monitor WFS 2" src="https://github.com/user-attachments/assets/4c83d35c-119f-451c-a7d8-5a191f936299" />
-
+&nbsp;
+&nbsp;
 <img width="512" height="205" alt="Monitor WFS 3" src="https://github.com/user-attachments/assets/19100501-2779-4b8d-98da-78090691c227" />
-
+&nbsp;
+&nbsp;
