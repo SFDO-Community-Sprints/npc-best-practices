@@ -67,7 +67,6 @@ Accounting Subledger DPE Templates:
  
 ### **Users and Permissions**
 
- \
 The key permissions for enabling and configuring Data Processing Engine are in the **Data Pipelines Base User** permission set. This permission set is associated with a permission set license, of which only 3 are included as standard with NPC. Therefore, this permission set needs to be assigned judiciously. 
 
 If you are not using fundraising, just assign the Data Pipelines Base User permission set directly to the users who need it. (It is not included in any other standard permission set groups.)
@@ -137,9 +136,9 @@ For a step-by-step run-through of steps 6 & 7 see [Prepare for Your New Rollups 
 
 * Each org has a [monthly limit](https://help.salesforce.com/s/articleView?id=ind.dpe_limits.htm&type=5) of DPE processing time, which is 30 hours as of August 2025
 * Accounting Subledger DPE definitions have hit limits in the past. Weekly runs rather than daily may help your org stay within the monthly limits.
-* Running most of the other DPE definitions daily usually doesn’t exceed the limit, as the tool is very efficient, but it’s important to monitor consumption in your own org, particularly if you intend to run your DPE definitions more frequently. See the Monitoring & Troubleshooting section [add link when building Github page]
+* Running most of the other DPE definitions daily usually doesn’t exceed the limit, as the tool is very efficient, but it’s important to monitor consumption in your own org, particularly if you intend to run your DPE definitions more frequently. See the [Monitoring & Troubleshooting section](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#monitoring--troubleshooting).
 
- \
+ 
 **Best Practices**
 
 
