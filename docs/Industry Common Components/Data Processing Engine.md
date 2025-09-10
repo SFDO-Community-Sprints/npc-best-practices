@@ -10,7 +10,13 @@ Audience: Salesforce admins at nonprofits and consulting partners
 
 Goal: Enable someone to get started with Data Processing Engine.
 
-**What is Data Processing Engine?**
+- Overview
+- [Users & Permissions](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#users-and-permissions)
+- Setup Steps for Standard DPE Definitions
+- DPE Best Practices
+- Monitoring and Troubleshooting
+
+### What is Data Processing Engine?
 
 Data Processing Engine (DPE) is a declarative feature available with the new Nonprofit Cloud (as well as some other industry clouds) to process and manipulate large volumes of data efficiently. It uses configuration-based rules and flows to handle very large volumes of data that might cause timeouts with, say, Apex-based calculations. Calculations are offloaded for processing to either the CRM Analytics or Data Cloud platforms, depending on the configuration you choose. The results are then used to update your Salesforce records.
 
@@ -18,7 +24,7 @@ For nonprofits, DPE is used to make calculations about donors and donations; pro
 
 As you dive into DPE, it can get complex very quickly—don’t panic! You can set up the standard DPE definitions with general admin skills, and we have resources to help you get started. 
 
-**When and where DPE is used in NPC:**
+### When and where DPE is used in NPC
 
 Several DPE definition templates are provided out-of-the-box with NPC. We recommend using these templates. They are relatively easy to set up and provide very helpful summary information for users. Note that some templates may not be visible until you enable the corresponding feature set, such as Fundraising. Currently, all the out-of-the-box Nonprofit Cloud DPE definitions use CRM Analytics for processing. \
 
@@ -45,7 +51,7 @@ Accounting Subledger DPE Templates:
 
 * [Accounting Subledger Processes](https://help.salesforce.com/s/articleView?id=sfdo.asl_jobs.htm&type=5)
 
-**DPE Help Articles:**
+### DPE Help Articles:
 
 
 
