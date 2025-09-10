@@ -172,3 +172,20 @@ For the three fundraising DPE's, Salesforce has provided a flow template and flo
 * All customizations should be in separate DPE definitions, which will be unaffected by the above process.
     * You can trigger multiple DPE definitions in a single Flow (e.g. your Flow can run the cloned DPE definition first, then run any other DPE definitions after).
 * You may not want automatic updates without testing first—it’s important to make sure the newly updated definition is compatible with your Salesforce org and produces expected results.
+
+Monitoring & Troubleshooting
+Monitoring DPE Definitions
+You can monitor DPE Definitions that are run in Setup → Monitor Workflow Services
+Results are saved for 30 days
+If you have DPE definitions that are using the CRM Analytics platform, the Data Manager app also provides visibility into what happens in the background. It can be used to see Data Sources and other items about the data pipeline job processing. Currently, all the out-of-the-box Nonprofit Cloud DPE definitions use CRM Analytics for processing.
+To access the app, go to Setup → Analytics → Data Pipeline → Getting Started, or you can access the app in the Salesforce UI by searching for it in the App Launcher.
+See this help article for an overview of the Data Manager App
+
+Here are a few screenshots of “Monitor Workflow Services”:
+
+<img width="512" height="226" alt="Monitor WFS 1" src="https://github.com/user-attachments/assets/e99ef991-5f34-400c-8bb5-cab82d54866b" />
+
+<img width="512" height="296" alt="Monitor WFS 2" src="https://github.com/user-attachments/assets/4c83d35c-119f-451c-a7d8-5a191f936299" />
+
+<img width="512" height="205" alt="Monitor WFS 3" src="https://github.com/user-attachments/assets/19100501-2779-4b8d-98da-78090691c227" />
+
