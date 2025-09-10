@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program and Case Management
+title: Industry Common Components
 nav_order: 6
 has_children: true
 ---
