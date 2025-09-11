@@ -5,6 +5,9 @@ nav_order: 6
 parent: Data Processing Engine
 ---
 # Additional Resources
+
+If you need additional help from the Salesforce documetnation, we recommend starting with these articles & Trailheads.
+
 ## DPE Help Articles
 
 * [Data Processing Engine](https://help.salesforce.com/s/articleView?id=ind.dpe_intro.htm&type=5)
