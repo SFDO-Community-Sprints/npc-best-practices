@@ -2,7 +2,7 @@
 layout: default
 title: Monitoring and Troubleshooting
 nav_order: 4
-parent: Industry Common Components
+parent: Data Processing Engine
 ---
 # **Monitoring & Troubleshooting**
 
