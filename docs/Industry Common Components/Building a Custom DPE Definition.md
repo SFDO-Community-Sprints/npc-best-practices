@@ -14,7 +14,7 @@ To avoid having to recreate your custom calculations for each Salesforce release
 
 The [Data Processing Engine Basics](https://trailhead.salesforce.com/content/learn/modules/data-processing-engine-basics) and [Create Fundraising Rollups in Data Processing Engine](https://trailhead.salesforce.com/content/learn/projects/create-fundraising-rollups-with-data-processing-engine?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-nonprofit-cloud-consultant-npc-cred) Trailhead badges are a great place to start learning how to build your own DPE definitions. After completing these modules, open up the NPC DPE definitions and look at how they are built. The Donor Gift Summary in particular is the most complex of the standard DPE definitions, but is a good example of how a sophisticated set of calculations can be handled. 
 
-## **Considerations When Building a Custom DPE Definition**
+## Considerations When Building a Custom DPE Definition
 
 * The DPE may run successfully but yield incorrect totals if the calculations aren’t built correctly
 * As part of validating your results, consider:
