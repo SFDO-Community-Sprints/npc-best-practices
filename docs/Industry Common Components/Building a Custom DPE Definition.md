@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Data Processing Engine
+title: Building a Custom DPE Definition
 nav_order: 5
-parent: Industry Common Components
+parent: Data Processing Engine
 ---
 # Building a Custom DPE Definition
 
