@@ -134,7 +134,7 @@ For a step-by-step run-through of steps 6 & 7 see [Prepare for Your New Rollups 
 
 
 * Each org has a [monthly limit](https://help.salesforce.com/s/articleView?id=ind.dpe_limits.htm&type=5) of DPE processing time, which is 30 hours as of August 2025
-* Accounting Subledger DPE definitions have hit limits in the past. Weekly runs rather than daily may help your org stay within the monthly limits.
+* Accounting Subledger (ASL) DPE definitions have hit limits in the past. Weekly runs rather than daily may help your org stay within the monthly limits for the ASL definitions.
 * Running most of the other DPE definitions daily usually doesn’t exceed the limit, as the tool is very efficient, but it’s important to monitor consumption in your own org, particularly if you intend to run your DPE definitions more frequently. See the [Monitoring & Troubleshooting section](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#monitoring--troubleshooting).
 
  
@@ -149,7 +149,7 @@ For a step-by-step run-through of steps 6 & 7 see [Prepare for Your New Rollups 
 * When creating scheduled flows to automatically update your DPE definitions, it is important to consider timing and sequencing. If separate definitions referencing the same object(s) run at the same time, the runs may fail. Avoid this by scheduling runs at least 15 minutes apart. 
 * Consider the sequence of your DPE definition scheduled runs. Are there any dependencies that require a certain definition to run before another?
     * Example: your custom DPE definition relies on updated donation totals, so needs to run after the Donor Gift Summary DPE definition completes
-* In multicurrency orgs, the currency of the Writeback User is used for calculations
+* In multicurrency orgs, the currency of the Writeback User is used for calculations.
 * Household accounts need to have a [Party Relationship Group record](https://sfdo-community-sprints.github.io/npc-best-practices/stakeholder-management/stakeholder-management-prerequisites/#householdswhats-different), and individuals need Account-Contact Relationships with the Household Account for the Donor Gift Summary DPE Definition to summarize correctly.
 
 **Maintaining DPE Definitions from Standard Templates**
@@ -160,13 +160,13 @@ Salesforce releases periodic updates to the out-of-the-box DPE definitions it pr
 
 * To use an updated definition, you need to clone and activate it in the same way you did at implementation. 
 * The DPE definitions, particularly the ones for Fundraising, have had regular updates to them released. 
-* Before a new Salesforce release is pushed to production, if the release notes indicate a DPE definition that you’re using has been updated, you may need to review your DPE definitions and test them in a sandbox
+* Before a new Salesforce release is pushed to production, if the release notes indicate a DPE definition that you’re using has been updated, you may need to review your DPE definitions and test them in a sandbox.
 
 After a Salesforce release, you may need to review and test DPE definitions in a sandbox before activating in production. Check the release notes to see if a DPE definition that you’re using has been updated.
 
 Generally, any time you create a new DPE definition, you will need to update the flow action referenced in your schedule triggered flows to make sure they are referencing the most current version of your DPE. 
 
-For the three fundraising DPE's, Salesforce has provided a flow template and flow action that will automatically reference the most current version of those three DPE definitions. You can find more detail about the template [here](https://help.salesforce.com/s/articleView?id=sfdo.fundraising_set_up_automatic_updates_for_fundraising_rollups.htm&type=5). 
+For the three fundraising DPE definitions, Salesforce has provided a flow template and flow action that will automatically reference the most current version of those three DPE definitions. You can find more detail about the template [here](https://help.salesforce.com/s/articleView?id=sfdo.fundraising_set_up_automatic_updates_for_fundraising_rollups.htm&type=5). 
 
 
 
