@@ -31,10 +31,10 @@ Several DPE definition templates are provided out-of-the-box with NPC. We recomm
 Fundraising DPE Templates:
 
 
-
 * [DonorGiftSummary](https://help.salesforce.com/s/articleView?id=sfdo.fundraising_track_gift_donor_trends_rollups.htm&type=5)
 * [GiftDesignation](https://help.salesforce.com/s/articleView?id=sfdo.fundraising_track_gift_donor_trends_rollups.htm&type=5)
 * [OutreachSummary](https://help.salesforce.com/s/articleView?id=sfdo.fundraising_track_outreach_trends_with_rollups.htm&type=5)
+* [Recency, Frequncy, Monetary Value Fundraising Scoring](https://help.salesforce.com/s/articleView?id=sfdo.fundraising_set_up_rfm_scoring.htm&type=5)
 * [Fundraising Account Actionable List Template ](https://trailhead.salesforce.com/content/learn/projects/fundraising-portfolios-with-actionable-lists) 
 * Help documentation for this one is not nonprofit-specific: [Creating Actionable Lists by Using Actionable Segmentation](https://help.salesforce.com/s/articleView?id=sf.actionable_segmentation.htm&type=5) 
 
