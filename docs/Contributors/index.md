@@ -115,6 +115,7 @@ Dozens of community members have contributed to this project since November 2023
 * Kelly Dwyer
 * Maddy Earhart
 * Melissa Barber
+* Merle Kinkade
 * Michael Smith
 * Sarah Vahlkamp
 * Sean Finerty
