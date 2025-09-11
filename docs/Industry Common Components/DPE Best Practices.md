@@ -6,7 +6,7 @@ parent: Data Processing Engine
 ---
 # **DPE Best Practices**
 
-**Monthly Limits**
+## **Monthly Limits**
 
 
 
@@ -15,7 +15,7 @@ parent: Data Processing Engine
 * Running most of the other DPE definitions daily usually doesn’t exceed the limit, as the tool is very efficient, but it’s important to monitor consumption in your own org, particularly if you intend to run your DPE definitions more frequently. See the [Monitoring & Troubleshooting section](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Monitoring%20and%20Troubleshooting/).
 
  
-**Best Practices**
+## **Best Practices**
 
 
 * Admins need to clone the standard DPE definition templates and create scheduled flows to run the DPE definitions on a schedule. 
@@ -28,7 +28,7 @@ parent: Data Processing Engine
 * In multicurrency orgs, the currency of the Writeback User is used for calculations.
 * Household accounts need to have a [Party Relationship Group record](https://sfdo-community-sprints.github.io/npc-best-practices/stakeholder-management/stakeholder-management-prerequisites/#householdswhats-different), and individuals need Account-Contact Relationships with the Household Account for the Donor Gift Summary DPE Definition to summarize correctly.
 
-**Maintaining DPE Definitions from Standard Templates**
+## **Maintaining DPE Definitions from Standard Templates**
 
 Salesforce releases periodic updates to the out-of-the-box DPE definitions it provides. 
 
