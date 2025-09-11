@@ -6,7 +6,7 @@ parent: Data Processing Engine
 ---
 # Building a Custom DPE Definition
 
-**What If You Need Calculations That Aren’t Part of the Standard DPE Definition?**
+## **What If You Need Calculations That Aren’t Part of the Standard DPE Definition?**
 
 First, determine whether your use case is a good fit for DPE. DPE is recommended for bulk, asynchronous processing and should not be used for real-time calculations. Flow, [Declarative Lookup Rollup Summary (DLRS)](https://sfdo-community-sprints.github.io/DLRS-Documentation/), and other rollup apps are still good go-to tools for real-time rollups and concatenating data.
 
