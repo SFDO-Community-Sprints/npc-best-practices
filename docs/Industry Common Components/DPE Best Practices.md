@@ -12,7 +12,7 @@ parent: Data Processing Engine
 
 * Each org has a [monthly limit](https://help.salesforce.com/s/articleView?id=ind.dpe_limits.htm&type=5) of DPE processing time, which is 30 hours as of August 2025
 * Accounting Subledger (ASL) DPE definitions have hit limits in the past. Weekly runs rather than daily may help your org stay within the monthly limits for the ASL definitions.
-* Running most of the other DPE definitions daily usually doesn’t exceed the limit, as the tool is very efficient, but it’s important to monitor consumption in your own org, particularly if you intend to run your DPE definitions more frequently. See the [Monitoring & Troubleshooting section](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Data%20Processing%20Engine/#monitoring--troubleshooting).
+* Running most of the other DPE definitions daily usually doesn’t exceed the limit, as the tool is very efficient, but it’s important to monitor consumption in your own org, particularly if you intend to run your DPE definitions more frequently. See the [Monitoring & Troubleshooting section](https://sfdo-community-sprints.github.io/npc-best-practices/Industry%20Common%20Components/Monitoring%20and%20Troubleshooting/).
 
  
 **Best Practices**
