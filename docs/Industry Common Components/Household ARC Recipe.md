@@ -50,3 +50,43 @@ Data assumptions in this example:
 
 3. **Related** **Role** **Name** identifies the relationship Sonny has with Joshua
 
+## Data model
+
+### Example 1: Household Data Model (pictured in ARC visualization)
+
+This diagram illustrates the records that exist behind the ARC diagram above.
+
+
+* **Party Relationship Group:** Extension object (not shown in ARC diagram) used to track additional demographic, structural, and operational details about a household or group
+
+* **Business Account:** the household entity
+
+* **Person Accounts:** the individuals
+
+* **Account-Contact Relationships:** the household members
+
+* **Contact-Contact Relationships** how individuals are related, such as spouse, parent, child or sibling
+
+<img width="700" height="auto" alt="HH ARC Img2" src="https://github.com/user-attachments/assets/0d32fd10-9c1a-4069-9136-87a637995e14" />
+<br>
+<br>
+
+### Example 2: Separated Household Data Model (not pictured in ARC visualization)
+
+For situations where the parents are separated/divorced, a few modifications are required:
+
+
+* A new Household Account is created for the parent leaving the original household
+    * A new Party Relationship Group is created for the new household
+    * The corresponding Account Contact Relationship between the parent leaving and the original household must be deleted, as this will affect DPE roll-ups on the household account if kept (i.e., the Active checkbox on the ACR record does not impact the rollup calculation)
+
+* The Active checkbox on the Contact-Contact Relationship between the parents is set to false (Inactive) 
+
+* The Account Contact Relationships for the children leaving the household (Daisy & Dahlia) must be deleted from the original household (Flower Household)
+    * New Account Contact Relationships are created between the children and the new household (Sprout Household)
+    * 
+<img width="700" height="auto" alt="HH ARC Img3" src="https://github.com/user-attachments/assets/ebd7c95d-703d-4c9c-99a7-8713f6b43156" />
+<br>
+<br>
+<br>
+## ARC Configuration
