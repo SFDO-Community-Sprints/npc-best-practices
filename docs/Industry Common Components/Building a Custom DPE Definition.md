@@ -6,7 +6,7 @@ parent: Data Processing Engine
 ---
 # Building a Custom DPE Definition
 
-## **What If You Need Calculations That Aren’t Part of the Standard DPE Definition?**
+## What If You Need Calculations That Aren’t Part of the Standard DPE Definition?
 
 First, determine whether your use case is a good fit for DPE. DPE is recommended for bulk, asynchronous processing and should not be used for real-time calculations. Flow, [Declarative Lookup Rollup Summary (DLRS)](https://sfdo-community-sprints.github.io/DLRS-Documentation/), and other rollup apps are still good go-to tools for real-time rollups and concatenating data.
 
@@ -28,7 +28,7 @@ The [Data Processing Engine Basics](https://trailhead.salesforce.com/content/lea
     * Keep in mind that DPE doesn’t automatically version definitions the way Flow does. If you want to preserve a previous version, save as a new definition, make the changes, and activate. Don’t forget to deactivate the old version.
     * If you need to back up your current definition, you can download the JSON file using the icon highlighted here. You can create a new definition from your backup by uploading the JSON file.
 
-## **Helpful Skill Sets for Customizing and Configuring DPE**
+## Helpful Skill Sets for Customizing and Configuring DPE
 
 There are several skills that are helpful, maybe even required, when working with DPE. Building these skills prior to creating a custom DPE will support you in creating a DPE that functions correctly. Those skills include: 
 
