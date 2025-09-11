@@ -123,7 +123,7 @@ These instructions assume you have already [enabled the NPC feature areas](https
    - b. **Outreach Summary**: configure the Related Record Detail Display component on the Campaign page
    - c. **Gift Designation**: these totals are saved directly on the Gift Designation record, so the Related Record Detail Display is not needed for this case. Just organize the fields on the record page as you want.
    - d. **Aggregate Program Enrollment**: Updates fields on the program record. There is also a flex card that can be added to the Program page layout.
-   - e. **Aggregate Benefit Disbursement and Benefit Assignment**: Updates fields on Benefit and Program Enrollment records. There is also a flex card that can be added to the page layouts. \
+   - e. **Aggregate Benefit Disbursement and Benefit Assignment**: Updates fields on Benefit and Program Enrollment records. There is also a flex card that can be added to the page layouts. 
 
 
 For a step-by-step run-through of steps 6 & 7 see [Prepare for Your New Rollups ](https://trailhead.salesforce.com/content/learn/projects/create-fundraising-rollups-with-data-processing-engine/prepare-for-your-new-rollups)on Trailhead.
@@ -203,12 +203,12 @@ Here are a few screenshots of “Monitor Workflow Services”:
 
 
 
-* Verify under Setup → Quick Find  → Data Pipelines that Data Pipelines is enabled and the Data Pipeline for “Salesforce” is checked
-* Make sure the Writeback User and Automated Workflow User have the “Data Pipelines Base User” permission set assigned
-* Make sure the Integration User has at least Read access to data which is aggregated using the DPE definition
+* Verify under Setup → Quick Find  → Data Pipelines that Data Pipelines is enabled and the Data Pipeline for “Salesforce” is checked.
+* Make sure the Writeback User and Automated Workflow User have the “Data Pipelines Base User” permission set assigned.
+* Make sure the Integration User has at least Read access to data which is aggregated using the DPE definition.
 * Under Setup → Quick find  → Monitor Workflow Services find the name of the DPE Definition that was run and check the Status column to see if the Status is “Completed” (ran successfully) or if it “Completed With Failures” or “Failed”.
-    * Click the name of the DPE definition for more details about the outcome
-* Note that the underlying reporting engine language (SAQL) is case sensitive, so for example, if you have a boolean condition, ‘true’ works but ‘True’ does not
+    * Click the name of the DPE definition for more details about the outcome.
+* Note that the underlying reporting engine language (SAQL) is case sensitive. For example, if you have a boolean condition, ‘true’ works but ‘True’ does not.
 * [Troubleshoot Data Processing Engine Issues](https://help.salesforce.com/s/articleView?id=ind.dpe_troubleshoot.htm&type=5)
 
 
