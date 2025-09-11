@@ -88,5 +88,53 @@ For situations where the parents are separated/divorced, a few modifications are
 <img width="700" height="auto" alt="HH ARC Img3" src="https://github.com/user-attachments/assets/ebd7c95d-703d-4c9c-99a7-8713f6b43156" />
 <br>
 <br>
-<br>
+
 ## ARC Configuration
+
+This ARC will contain 3 elements: the Household (Business Account), Household Member (Person Accounts) and Relationships (Contact Contact Relationships).
+
+Setting the Graph Type to Horizontal Hierarchy will allow for easier viewing.  
+
+<img width="700" height="auto" alt="HH ARC Config 1" src="https://github.com/user-attachments/assets/1e00a7d2-dfeb-45e9-a213-1066c877686f" />
+<br>
+<br>
+
+Select Account as the first element since you will be viewing this ARC graph from the Household Account record. 
+
+<img width="700" height="auto" alt="HH ARC Config 2" src="https://github.com/user-attachments/assets/a75a256a-5fbf-4abd-aa79-c72d9afc1f98" />
+<br>
+<br>
+
+The second element adds the Person Accounts related to the Household Account via Account Contact Relationship.
+
+<img width="700" height="auto" alt="HH ARC Config 3" src="https://github.com/user-attachments/assets/b217ae49-7e12-437d-b0ba-0c0b7d4ea9f8" />
+<br>
+<br>
+
+There is an additional step for this element on the Display tab to set a Custom Label, as well as selecting the fields to display.
+<br>
+The fields selected to display in this recipe are: 
+
+1. Junction Object.Roles
+
+2. Junction Object.Primary member
+
+<img width="700" height="auto" alt="HH ARC Config 4" src="https://github.com/user-attachments/assets/7b078f57-1b5c-4089-b2be-26bada9c4119" />
+<br>
+<br>
+
+The third element adds the detailed relationships between the Person Accounts in the household via Contact Contact Relationship.
+
+<img width="700" height="auto" alt="HH ARC Config 5" src="https://github.com/user-attachments/assets/200fc939-23f4-4b5a-ae77-4930bf50a85d" />
+<br>
+<br>
+
+There is an additional step for this element on the Display tab to set a Custom Label, as well as selecting the fields to display. 
+<br>
+The fields selected to display in this recipe are: 
+
+1. Junction Object.Party Role Relationship.Related Role Name
+
+<img width="700" height="auto" alt="HH ARC Config 6" src="https://github.com/user-attachments/assets/d6c9b227-d6f3-4c82-ab45-bc32fa8e03cb" />
+<br>
+
