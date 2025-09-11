@@ -6,9 +6,7 @@ parent: Industry Common Components
 ---
 # Data Processing Engine
 
-Audience: Salesforce admins at nonprofits and consulting partners
-
-Goal: Enable someone to get started with Data Processing Engine.
+The existing Salesforce help documentation for Data Processing Engine is sparse and scattered. It often does not give context for the what or the why. We've pulled together an overview of what you'll need to get started to understand and use the tool.
 
 ## What is Data Processing Engine?
 
