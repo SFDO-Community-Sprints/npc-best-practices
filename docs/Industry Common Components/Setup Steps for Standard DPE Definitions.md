@@ -33,7 +33,8 @@ These instructions assume you have already [enabled the NPC feature areas](https
    - b. **Outreach Summary**: configure the Related Record Detail Display component on the Campaign page
    - c. **Gift Designation**: these totals are saved directly on the Gift Designation record, so the Related Record Detail Display is not needed for this case. Just organize the fields on the record page as you want.
    - d. **Aggregate Program Enrollment**: Updates fields on the program record. There is also a flex card that can be added to the Program page layout.
-   - e. **Aggregate Benefit Disbursement and Benefit Assignment**: Updates fields on Benefit and Program Enrollment records. There is also a flex card that can be added to the page layouts. 
+   - e. **Aggregate Benefit Disbursement and Benefit Assignment**: Updates fields on Benefit and Program Enrollment records. There is also a flex card that can be added to the page layouts.
+   - f. **Calculate Benefit Session and Program Enrollment Attendance Rate**: Update fields on the Program Enrollment and Benefit Session. The data included in the attendance summary includes the number of people who attended, the number of people who were marked as absent, and the overall rate of attendance for the session.
 
 
 For a step-by-step run-through of steps 6 & 7 see [Prepare for Your New Rollups ](https://trailhead.salesforce.com/content/learn/projects/create-fundraising-rollups-with-data-processing-engine/prepare-for-your-new-rollups)on Trailhead.

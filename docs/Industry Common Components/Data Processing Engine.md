@@ -34,6 +34,7 @@ Program and Benefit Management DPE Templates:
 
 * [Aggregate Benefit Assignment and Benefit Disbursement](https://help.salesforce.com/s/articleView?id=ind.prog_case_mgmt_prog_mgmt_summary_calc.htm&type=5)
 * [Aggregate Program Enrollment](https://help.salesforce.com/s/articleView?id=ind.prog_case_mgmt_prog_mgmt_summary_calc.htm&type=5)
+* [Calculate Benefit Session and Program Enrollment Attendance Rate](https://help.salesforce.com/s/articleView?id=ind.prog_case_mgmt_track_attendance_of_prgms_benefit_sessions.htm&type=5)
 
 Accounting Subledger DPE Templates:
 
