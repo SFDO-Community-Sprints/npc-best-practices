@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Program Use Cases
-parent: Program and Case Managment
 nav_order: 1
+parent: Program and Case Management
 has_children: true
 ---
+
 # Program Management Use Cases
 For nonprofits, program data can be collected, tracked, and managed in multiple ways, often requiring different structures and workflows. The Program Management Use Cases outlined here serve as a guide to help nonprofits effectively document and monitor their program activities within Salesforce’s Nonprofit Cloud. 
 
