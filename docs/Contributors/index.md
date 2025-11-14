@@ -22,6 +22,7 @@ Dozens of community members have contributed to this project since November 2023
 * Alex Christie
 * Alfred Archampong
 * Allison Roscoe
+* Allison Stuart
 * Amanda Styles
 * Anderson Mok
 * Annette Pretorius
@@ -39,6 +40,8 @@ Dozens of community members have contributed to this project since November 2023
 * Deanne Walters
 * Debbie Pope
 * Dodi Friedenberg
+* Drew Meyer
+* Elizabeth Snow
 * Emily Fergusson
 * Erica Bateman
 * Ethan Norris
@@ -48,6 +51,8 @@ Dozens of community members have contributed to this project since November 2023
 * Jake Roesler
 * Jamie Van Nostrand
 * Janina Capacillo
+* Jeff Sankovich
+* Jenna Bergquist
 * Jo Wickens
 * JoJo Cheng
 * Jon Mervis
@@ -71,11 +76,13 @@ Dozens of community members have contributed to this project since November 2023
 * Marley Cunningham 
 * Mary Ann McInerney
 * Melanie Calhoun
+* Melanie Kujawa
 * Melissa Oglesby
 * Nadine Leung
 * Paula Berg
 * Peggy Ngwa Nfurbi
 * Preeti Ladwa
+* Rachael Nuwash
 * Rebecca Nichols
 * Renee Davis
 * Riley Cameron
@@ -93,8 +100,10 @@ Dozens of community members have contributed to this project since November 2023
 * Taylor Moyer 
 * Tiffany Spencer
 * Tobey Klein
+* Tom Tosuksri
 * Trent Whalon
 * Tristan Wise
+* Troy Manley
 * Tyler Cordell
 * Una Zhang
 * Vanessa Ruiz
@@ -107,16 +116,20 @@ Dozens of community members have contributed to this project since November 2023
 * Cassie Bartelme
 * Cody Switzer
 * Dar Veverka
+* Dixon Blue
 * Elizabeth Swander
 * Emily Beach
 * Greg Perlstein
 * Heeyeon Park
+* Jess Romig
 * JJ Miller
 * Kelly Dwyer
+* Lex Grace
 * Maddy Earhart
 * Melissa Barber
 * Merle Kinkade
 * Michael Smith
+* Nicole Adair
 * Sarah Vahlkamp
 * Sean Finerty
 * Tara Pawlowski
