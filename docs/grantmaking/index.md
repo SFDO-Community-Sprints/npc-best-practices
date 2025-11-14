@@ -8,4 +8,4 @@ has_children: false
 
 ### Status
 
-The NPC Best Practices Group is working on a timeline for Grantmaking resources.
+The Grantmaking working group was formed at the November 2025 Sprint in Denver. More details to come.
