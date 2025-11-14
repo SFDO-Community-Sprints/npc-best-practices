@@ -8,8 +8,11 @@ has_children: true
 Dozens of community members have contributed to this project since November 2023 at in-person and virtual sprints, as well as at bi-weekly meetings in between the sprints. 
 
 ## Project Managers
+* Dar Veverka
 * Deb Finken
 * Junette Tan
+* Kathryn Egan
+* Shari Carlson
 * Tara Cobb
 * Toby Ward
 * Tracey Braun
@@ -66,7 +69,6 @@ Dozens of community members have contributed to this project since November 2023
 * Kevin Swiggum
 * Karyn Dubravetz
 * Kathy Dunne
-* Kathryn Egan
 * Katie Loescher
 * Katie Shepherd
 * Kymberli Feng
@@ -94,7 +96,6 @@ Dozens of community members have contributed to this project since November 2023
 * Sarai Ayon
 * Scott Slawson
 * Shannon Mah
-* Shari Carlson
 * Shreyas Vijayasarathy
 * Sirisha Yelamarthi
 * Taylor Moyer 
@@ -115,7 +116,6 @@ Dozens of community members have contributed to this project since November 2023
 * Ben Mozenter
 * Cassie Bartelme
 * Cody Switzer
-* Dar Veverka
 * Dixon Blue
 * Elizabeth Swander
 * Emily Beach
