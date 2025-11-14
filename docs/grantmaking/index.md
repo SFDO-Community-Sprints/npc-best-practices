@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grantmaking (Coming Soon)
+title: Grantmaking
 nav_order: 9
 has_children: false
 ---
