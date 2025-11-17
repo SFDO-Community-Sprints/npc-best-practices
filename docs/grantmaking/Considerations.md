@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Considerations
-nav_order: 2
+nav_order: 3
 parent: Grantmaking
 ---
 
