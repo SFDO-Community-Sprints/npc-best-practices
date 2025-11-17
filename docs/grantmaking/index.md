@@ -2,10 +2,8 @@
 layout: default
 title: Grantmaking
 nav_order: 5
-has_children: false
+has_children: true
 ---
 # Grantmaking
 
-### Status
 
-The Grantmaking working group was formed at the November 2025 Sprint in Denver. More details to come.
