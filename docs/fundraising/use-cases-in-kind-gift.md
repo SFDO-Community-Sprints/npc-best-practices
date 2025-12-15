@@ -47,7 +47,7 @@ Represented by Gift Commitment
 
 * See Best Practices from [Multiple Payment Gift](use-cases-multiple-payment-gift.md)
 
-* NOTE: If using a Gift Transaction for in-kind gifts, set the Payment Method for the gift to In-Kind on the Gift Transaction and use the Original Amount field for the fair market value of the gift. Using a Gift Transaction will cause the gift to be inclued in the Donor Gift Summary rollups as a regular gift so you will need to exclude it. You may also wish to add in a rollup for in-kind gifts.
+* NOTE: If using a Gift Transaction for in-kind gifts, set the Payment Method for the gift to In-Kind on the Gift Transaction and use the Original Amount field for the fair market value of the gift. Using a Gift Transaction will cause the gift to be included in the Donor Gift Summary rollups as a regular gift so you will need to exclude it. You may also wish to add in a rollup for in-kind gifts.
 
 
 
