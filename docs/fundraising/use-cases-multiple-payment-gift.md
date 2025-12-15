@@ -11,7 +11,7 @@ Represented by Gift Transactions and Gift Commitment (Gift Commitment Schedule o
 
 **Definition:**
 
-* Not explicitly solicited - could have been part of a larger marketing effort
+* May not be explicitly solicited - could have been part of a larger marketing effort
 * Could have a previous commitment
 
 **Examples:**
