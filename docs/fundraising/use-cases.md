@@ -9,7 +9,7 @@ For nonprofits, incoming monies arrive in various ways and can be recorded in a 
 
 # Overall Considerations
 ## Gift Transactions
-* A Gift Transaction status can be changed, but some restrictions depend on the current status. For example, a Paid Gift Transaction can only be updated to 'Failed' or 'Fully Refunded'. [Review the documentation](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_gift_transactions.htm&type=5) for a complete list of allowed status updates.
+* A Gift Transaction status can be changed, but some restrictions depend on the current status. For example, a Paid Gift Transaction can only be updated to 'Paid', 'Failed' or 'Fully Refunded'. [Review the documentation](https://help.salesforce.com/s/articleView?id=sfdo.npc_fr_gift_transactions.htm&type=5) for a complete list of allowed status updates.
 
 ## Gift Commitments
 * When using Gift Entry to indicate that a Gift Transaction was paid against an existing Gift Commitment with a Gift Commitment Schedule, note that only one payment can be recorded per Gift Transaction.
