@@ -4,7 +4,7 @@ title: Fundraising Reports Package
 nav_order: 3
 parent: Fundraising 
 ---
-### **Overview** - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIwG&isdtp=p1) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIwG&isdtp=p1)
+## **Overview** - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIwG&isdtp=p1) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIwG&isdtp=p1)
 
 This is a package of basic reports and custom report types commonly used for analyzing fundraising performance in a Salesforce org with Agentforce Nonprofit (formerly known as Nonprofit Cloud).
 
@@ -27,7 +27,7 @@ Before installing this package, you will need to ensure the following:
 * You will use fundraising in the way it is prescribed in the documentation such as entering donations via the Gift Entry feature and creating Gift Commitments and Gift Commitment Schedules for major gifts
 * You do not already have a "Fundraising" reports folder or ensure you select "Rename conflicting components in package" at the top of the install page for "What if existing component names conflict with ones in this package?"
 
-### Technical Install Requirements:
+### **Technical Install Requirements**
 To successfully install this package, you will need:
 * User Permissions: System Administrator
 * Salesforce Instance: Agentforce Nonprofit (formerly Nonprofit Cloud) licenses 
@@ -35,7 +35,7 @@ To successfully install this package, you will need:
 * Toggle on: Fundraising 
 * Confirmed: no preexisting "Fundraising" reports folder or select "Rename conflicting components in package" during install
 
-### Post-installation
+### **Post-installation**
 
 
 * The reports contained in the package use core fields that come without any customization. You will most likely customize these to match your business use-cases (for example, you might want to add your own custom fields or sort, group and filter the data differently based on your organization's defined giving levels).
@@ -43,7 +43,7 @@ To successfully install this package, you will need:
     * Example: If you use custom roll-ups to summarize donation totals directly on the account, these reports will not display your data correctly
     * Example: if you enter recurring gift installments as Gift Transactions without Gift Commitments, the reports may not show you accurate data as they are intended to work with the default configuration.
 
-### Additional Considerations:
+### **Additional Considerations**
 This package contains reports focused primarily on fundraising, using the following data objects:
 
 
@@ -61,7 +61,7 @@ This package contains reports focused primarily on fundraising, using the follow
 * Outreach Source Codes
 * Payment Instruments
 
-### Index of what's included:
+### **Index of what's included**
 
 
 <table>
