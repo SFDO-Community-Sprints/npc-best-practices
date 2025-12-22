@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundraising Reporting
+title: Fundraising Reports Package
 nav_order: 3
 parent: Fundraising 
 ---
