@@ -18,6 +18,7 @@ Dozens of community members have contributed to this project since November 2023
 * Tracey Braun
 
 ## Contributors
+* Aaron Winters
 * Abby Morrow
 * Abhishek Bedarkar
 * Adil Abidraja
@@ -40,6 +41,7 @@ Dozens of community members have contributed to this project since November 2023
 * Carolina Avsar
 * Clair Lam
 * Daniel Gorton
+* David Schach
 * Deanne Walters
 * Debbie Pope
 * Dodi Friedenberg
@@ -49,6 +51,7 @@ Dozens of community members have contributed to this project since November 2023
 * Erica Bateman
 * Ethan Norris
 * Evan Ponter
+* Greg Hart
 * Hayley Tuller
 * Heath Parks
 * Jake Roesler
@@ -83,6 +86,7 @@ Dozens of community members have contributed to this project since November 2023
 * Nadine Leung
 * Paula Berg
 * Peggy Ngwa Nfurbi
+* Peter Bender
 * Preeti Ladwa
 * Rachael Nuwash
 * Rebecca Nichols
@@ -94,10 +98,12 @@ Dozens of community members have contributed to this project since November 2023
 * Sanishya Shrestha
 * Sara Camancho
 * Sarai Ayon
+* Saul Belisle
 * Scott Slawson
 * Shannon Mah
 * Shreyas Vijayasarathy
 * Sirisha Yelamarthi
+* Sunil Thukral
 * Taylor Moyer 
 * Tiffany Spencer
 * Tobey Klein
@@ -131,5 +137,6 @@ Dozens of community members have contributed to this project since November 2023
 * Michael Smith
 * Nicole Adair
 * Sarah Vahlkamp
+* Savannah Eaves-Kohlbrenner
 * Sean Finerty
 * Tara Pawlowski
