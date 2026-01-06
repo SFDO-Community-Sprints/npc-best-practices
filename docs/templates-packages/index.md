@@ -9,5 +9,5 @@ has_children: false
 
 ### [Stakeholder Management Templates & Packages](https://sfdo-community-sprints.github.io/npc-best-practices/stakeholder-management/templates_and_packages/)
 
-### [Fundraising Reports Package](https://github.com/SFDO-Community-Sprints/npc-best-practices/blob/main/docs/fundraising/Reporting.md)
+### [Fundraising Reports Package](https://sfdo-community-sprints.github.io/npc-best-practices/fundraising/Reporting/)
 
