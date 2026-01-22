@@ -12,8 +12,8 @@ parent: Grantmaking
 
 
 
-* Organizations can be both grantmakers and grant seekers, but Agentforce Nonprofit (AFNP) Grantmaking (FKA NPC Grantmaking) is specifically geared towards organizational funders who make charitable grants (and/or PRI loans) to nonprofits.
-    * Grantmaking: Organization that implements grant programs and provides funding to individuals/organizations. 
+* Organizations can be both grantmakers and grant seekers, but Agentforce Nonprofit Grantmaking is specifically geared towards organizational funders who make charitable grants (and/or PRI loans) to nonprofits.
+    * Grantmaking: Organizations that implements grant programs and provides funding to individuals/organizations. 
         * AFNP Grantmaking provides additional functionality that supports the various stages of grantmaking activities from inquiry through disbursement and reporting. 
     * Grant seeking: Organizations/individuals looking to apply and receive funds to support their work. 
         * AFNP Fundraising features support grant seeking activities and can be customized to align with the specific needs of how an organization tracks institutional donations and monitoring outcomes of program delivery. 
@@ -38,9 +38,7 @@ parent: Grantmaking
 ## Trial Orgs vs. Your Purchased Grantmaking Org
 
 
-
-* What gets shown during demos and what settings and customizations exist when you start a trial org is not what is available in your new org out-of-the-box when you actually get provisioned one by your AE.
-* This means that customizations you saw during a demo is not standard functionality, and functionality will require customization (preferably by working with a consultant partner) to function in the way you run your grants processes.
+What gets shown during demos will differ from what settings and customizations exist when you start a trial org as well as what is configured in your new org out-of-the-box when you actually get provisioned one by your AE. This means that customizations you saw during a demo may not standard functionality, and functionality will require customization (preferably by working with a consultant partner) to function in the way you run your grants processes.
 
 
 ## Tracking Data with AFNP Grantmaking
