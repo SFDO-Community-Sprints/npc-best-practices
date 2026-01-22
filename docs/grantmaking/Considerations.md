@@ -24,11 +24,11 @@ parent: Grantmaking
 
 
 * Salesforce Pricing Comparison table [here](https://www.salesforce.com/nonprofit/grantmaking-pricing/). 
-* Grantmaking licenses include access to Experience Cloud 
-    * For each purchased license, the org gets 100 monthly login licenses for the experience portal (Technical Note: This utilizes customer community login license types)
-    * Experience portal template to get started with an online grants portal quickly
-    * Permissions that enable access to applications, awards, disbursements, outcome tracking and budget expenditure for external portal users within the grants portal, in addition to access for internal staff users
-* Grantmaking licenses do not quality for the P10 donated licenses
+* Grantmaking licenses include access to Experience Cloud. 
+    * For each purchased license, the org gets 100 monthly login licenses for the experience portal. ( Note: This utilizes Customer Community login license types.)
+    * Experience portal template to get started with an online grants portal quickly.
+    * Permissions that enable access to applications, awards, disbursements, outcome tracking and budget expenditure for external portal users within the grants portal, in addition to access for internal staff users.
+* Grantmaking licenses do not quality for the P10 donated licenses.
 * Grantmaking enables specific objects, permissions and functionality to control your grantmaking processes. See [data model](https://developer.salesforce.com/docs/atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/npc_grant_budget_data_model.htm).
 * All users who need to see grantmaking specific data must have a paid license.
 * Grantmaking (core) vs. Outbound Funds (managed) vs. Grants Management (managed): See comparison [here](https://sfdo-community-sprints.github.io/npc-best-practices/npsp-to-npc-translations/Grantmaking/).
