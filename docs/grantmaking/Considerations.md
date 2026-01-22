@@ -8,7 +8,7 @@ parent: Grantmaking
 # Grantmaking Considerations Overview
 
 
-## Grantmaking vs. managing grants as a grant seeker:
+## Grantmaking vs. Managing Grants as a Grant Seeker
 
 
 
@@ -19,7 +19,7 @@ parent: Grantmaking
         * AFNP Fundraising features support grant seeking activities and can be customized to align with the specific needs of how an organization tracks institutional donations and monitoring outcomes of program delivery. 
 
 
-## Difference between Grantmaking and standard Agentforce Nonprofit (AFNP fka Nonprofit Cloud/NPC)
+## Differences Between Agentforce Nonprofit for Grantmaking and Agentforce Nonprofit
 
 
 
@@ -43,7 +43,7 @@ parent: Grantmaking
 * This means that customizations you saw during a demo is not standard functionality, and functionality will require customization (preferably by working with a consultant partner) to function in the way you run your grants processes.
 
 
-## Tracking Data with Standard AFNP Grantmaking
+## Tracking Data with AFNP Grantmaking
 
 
 
