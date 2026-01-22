@@ -5,7 +5,8 @@ nav_order: 3
 parent: Grantmaking
 ---
 
-# Grantmaking Considerations Overview
+# Grantmaking Considerations
+Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
 
 
 ## Grantmaking vs. Managing Grants as a Grant Seeker
@@ -13,7 +14,7 @@ parent: Grantmaking
 
 
 Organizations can be both grantmakers and grant seekers, but Agentforce Nonprofit Grantmaking is specifically geared towards organizational funders who make charitable grants (and/or PRI loans) to nonprofits.
-* Grantmaking: Organizations that implements grant programs and provides funding to individuals/organizations. 
+* Grantmaking: Organizations that implement grant programs and provide funding to individuals/organizations. 
   * AFNP Grantmaking provides additional functionality that supports the various stages of grantmaking activities from inquiry through disbursement and reporting. 
 * Grant seeking: Organizations/individuals looking to apply and receive funds to support their work. 
   * AFNP Fundraising features support grant seeking activities and can be customized to align with the specific needs of how an organization tracks institutional donations and monitoring outcomes of program delivery. 
