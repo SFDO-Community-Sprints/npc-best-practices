@@ -6,7 +6,7 @@ parent: Grantmaking
 ---
 
 # Grantmaking Considerations
-Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
+Note: Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
 
 
 ## Grantmaking vs. Managing Grants as a Grant Seeker
