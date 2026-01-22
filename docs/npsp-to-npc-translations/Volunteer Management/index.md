@@ -5,6 +5,8 @@ nav_order: 5
 ---
 
 # Volunteer Management
+Note: Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
+
 Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model that covers simple to complex use cases. Many objects are optional in it and depend on your needs. We have included most of the objects here, but not all of them, for comparison to NPSP.
 &nbsp;
 ## Feature Comparison
