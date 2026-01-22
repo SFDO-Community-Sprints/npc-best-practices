@@ -6,13 +6,14 @@ parent: Grantmaking
 ---
 
 # Grantmaking Overview
+Note: Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
 
-These questions are to help your grantmaking organization determine if Nonprofit Cloud (NPC) Grantmaking may be a good fit for your organization and can set the stage to move toward NPC Grantmaking. 
+These questions are to help your grantmaking organization determine if Agentforce Nonprofit Grantmaking may be a good fit for your organization and can set the stage to move toward AFNP Grantmaking. 
 
 
 ## Who is your organization and what do you do?
 
-NPC Grantmaking is inherently flexible to align with your organization’s needs and goals. Below are a series of questions to help think through your organization’s structure and process as a first step in considering NPC Grantmaking. If your organization is unable to clearly answer the majority of these questions, your organization may need to step back and clarify your processes before moving into Grantmaking configuration. 
+AFNP Grantmaking is inherently flexible to align with your organization’s needs and goals. Below are a series of questions to help think through your organization’s structure and process as a first step in considering AFNP Grantmaking. If your organization is unable to clearly answer the majority of these questions, your organization may need to step back and clarify your processes before moving into Grantmaking configuration. 
 
 **The overarching question is: Who is your Grantmaking organization? **
 
@@ -40,7 +41,7 @@ NPC Grantmaking is inherently flexible to align with your organization’s needs
 
    - a. Invitation: The organization only accepts applicants via invitation, whether from alumni, board, direct outreach, etc. 
    - b. Letter of Intent (LOI): The organization reviews letters of intent from applicants before moving to an application process and needs a process to review and filter LOIs. 
-   - c. Open/Responsive: The organization allows anyone to submit eligibility / application inquiries. 
+   - c. Open/Responsive: The organization allows anyone to submit eligibility or application inquiries. 
 
 
 4. What type of funding does your organization utilize for grants? 
@@ -48,13 +49,13 @@ NPC Grantmaking is inherently flexible to align with your organization’s needs
    - a. General Operating
    - b. Restricted
    - c. Capital 
-   - d. PRI / MRI
+   - d. PRI/MRI
    - e. Loans
    - f. All of the above
 
 5. What information or outputs are you collecting from grantees? 
 
-   - a. Programs / Actions: Grantees are expected to participate in some level of programming, or utilize funding for a specific utilization / use case.
+   - a. Programs/Actions: Grantees are expected to participate in some level of programming, or utilize funding for a specific utilization / use case.
    - b. Reports: Grantees may need to submit various reports on varying cadences, i.e. monthly, quarterly or annual reports. 
    - c. None: Grantees are not responsible for remaining in communication with the grantmaker. 
 
