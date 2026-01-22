@@ -11,14 +11,12 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 <table>
 <tr>
   <td><strong>Capability</strong>
-
    </td>
    <td><strong>V4S Object</strong>
-
    </td>
    <td><strong>Agentforce Nonprofit Object</strong>
-   </tr>
    </td>
+   </tr>
    <tr>
    <td>Track a particular volunteer initiative
 
@@ -27,9 +25,10 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 
    </td>
    <td>Volunteer Initiative
+   
+   </td>
    </tr>
    <tr>
-   </td>
    <td>An individual volunteer
 
    </td>
@@ -37,9 +36,10 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 
    </td>
    <td>Person Account
+   
+   </td>
    </tr>
    <tr>
-   </td>
    <td>A reusable job record that can have specific job positions tied to it
 
    </td>
@@ -47,9 +47,10 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 
    </td>
    <td>Position
+   
+   </td>
    </tr>
    <tr>
-   </td>
    <td>A volunteer job that gets related to an initiative
 
    </td>
@@ -57,9 +58,10 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 
    </td>
    <td>Job Position
+   
+   </td>
    </tr>
    <tr>
-   </td>
    <td>A specific volunteer work shift
 
    </td>
@@ -67,9 +69,10 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 
    </td>
    <td>Job Position Shift
+   
+   </td>
    </tr>
    <tr>
-   </td>
    <td>Track hours for a volunteer
 
    </td>
@@ -77,9 +80,10 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
 
    </td>
    <td>Job Position Assignment
+   
+   </td>
    </tr>
    <tr>
-   </td>
    <td>Set up volunteer position shift recurrences
 
    </td>
@@ -166,5 +170,5 @@ Volunteer Management in Agentforce Nonprofit/Nonprofit Cloud has a data model th
    <td>Constituent Role
 
    </td>
-   </tr>
-   </table>
+ </tr>
+</table>
