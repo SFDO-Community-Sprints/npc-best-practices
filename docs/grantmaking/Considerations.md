@@ -26,7 +26,7 @@ Organizations can be both grantmakers and grant seekers, but Agentforce Nonprofi
 
 * Salesforce Pricing Comparison table [here](https://www.salesforce.com/nonprofit/grantmaking-pricing/). 
 * Grantmaking licenses include access to Experience Cloud. 
-    * For each purchased license, the org gets 100 monthly login licenses for the experience portal. (Note: This utilizes Customer Community login license types.)
+    * For each purchased license, the org gets 100 monthly login licenses for the experience portal. (Note: This utilizes [Customer Community login license types](https://help.salesforce.com/s/articleView?id=platform.users_license_types_communities.htm&type=5).)
     * Experience portal template is also available to get started with an online grants portal quickly.
     * Permissions that enable access to applications, awards, disbursements, outcome tracking and budget expenditure for external portal users within the grants portal, in addition to access for internal staff users.
 * Grantmaking licenses do not quality for the P10 donated licenses.
