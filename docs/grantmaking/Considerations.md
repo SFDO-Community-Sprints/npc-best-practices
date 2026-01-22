@@ -5,7 +5,7 @@ nav_order: 3
 parent: Grantmaking
 ---
 
-# Agentforce Nonprofit Grantmaking Considerations Overview
+# Grantmaking Considerations Overview
 
 
 ## Grantmaking vs. managing grants as a grant seeker:
