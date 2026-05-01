@@ -14,10 +14,10 @@ parent: Migration Guidance
 * [Nonprofit Cloud Migration and Implementation Guides](https://help.salesforce.com/s/articleView?id=sfdo.npc_implementation_migration_guides.htm&type=5) 
 
 
-* [The State of Salesforce Nonprofit Offerings in 2026 | Salesforce Ben](https://www.salesforceben.com/the-state-of-salesforce-nonprofit-offerings-in-2026/)
+* [The State of Salesforce Nonprofit Offerings in 2026 - Salesforce Ben](https://www.salesforceben.com/the-state-of-salesforce-nonprofit-offerings-in-2026/)
 
 
-* [Salesforce Non Profit Success Pack Migration | Salesforce Ben](https://www.salesforceben.com/salesforce-nonprofit-success-pack-to-nonprofit-cloud-migration/)
+* [Salesforce Non Profit Success Pack Migration - Salesforce Ben](https://www.salesforceben.com/salesforce-nonprofit-success-pack-to-nonprofit-cloud-migration/)
 
 
 * [The Great Migration: NPSP to Nonprofit Cloud (video)](https://play.goconsensus.com/fab21a48-ae59-4c43-aa87-8b4ae6b22775?preview=sales)
