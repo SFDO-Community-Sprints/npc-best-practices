@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comprehensive Guide - External Stakeholders
-nav_order: 2
+nav_order: 3
 parent: Stakeholder Identification & Evaluations
 ---
 # Comprehensive Guide  - External Stakeholders
