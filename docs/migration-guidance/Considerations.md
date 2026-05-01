@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Considerations
+title: Migration Considerations
 nav_order: 2
 parent: Migration Guidance
 ---
 
-# Considerations
+# Migration Considerations
