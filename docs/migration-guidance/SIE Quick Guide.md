@@ -6,7 +6,7 @@ parent: Stakeholder Identification & Evaluations
 ---
 # Quick Guide
 
-### **End Users (internal and external)**: The people who use the system and validate it meets day-to-day needs.
+### **End Users (internal and external)**: *The people who use the system and validate it meets day-to-day needs*
 
 Goals:
 
@@ -36,7 +36,7 @@ Questions to ask:
 
 * What tools do you use and why? 
 
-### **Champions**: Key team representatives who support validation, testing, and issue resolution during the migration.
+### **Champions**: *Key team representatives who support validation, testing, and issue resolution during the migration*
 
 Goals:
 
@@ -62,7 +62,7 @@ Questions to ask:
 
 * How will we train users, and what is our plan to ensure they adopt the new system?
 
-### **Leadership Stakeholders**: Senior decision makers who provide direction, approve key decisions, and ensure alignment with business strategy during the migration.
+### **Leadership Stakeholders**: *Senior decision makers who provide direction, approve key decisions, and ensure alignment with business strategy during the migration*
 
 Goals:
 
@@ -94,7 +94,7 @@ Questions to ask:
 
 * What does the organization need to have in place before committing to this project?
 
-### **Security / Compliance**: They ensure the migration meets regulatory, risk, and data protection requirements. 
+### **Security / Compliance**: *They ensure the migration meets regulatory, risk, and data protection requirements* 
 
 Goals:
 
@@ -116,7 +116,7 @@ Questions to Ask:
 
 * What would you need from a consulting partner or implementation team to feel confident the technical architecture is sound?
 
-### **Budget / Finance**: They manage funding, track costs, and ensure the migration stays within approved financial constraints.
+### **Budget / Finance**: *They manage funding, track costs, and ensure the migration stays within approved financial constraints*
 
 Goals:
 
