@@ -62,6 +62,7 @@ Dozens of community members have contributed to this project since November 2023
 * Jake Roesler
 * Jamie Van Nostrand
 * Janina Capacillo
+* Jason Samuels
 * Jeff Sankovich
 * Jenna Bergquist
 * Jimmy Roche
@@ -86,14 +87,16 @@ Dozens of community members have contributed to this project since November 2023
 * Laxinder Singh
 * Lucas Burke
 * Madison You
+* Marc Baizman
 * Maria Kelley
-* Michael Masullo
-* Michael Pitkowsky
 * Mary Ann McInerney
 * Meg Hutson
 * Melanie Calhoun
 * Melanie Kujawa
+* Melinda Hunt
 * Melissa Oglesby
+* Michael Masullo
+* Michael Pitkowsky
 * Nadine Leung
 * Paula Berg
 * Peggy Ngwa Nfurbi
@@ -108,12 +111,14 @@ Dozens of community members have contributed to this project since November 2023
 * Sandy Whitten
 * Sanishya Shrestha
 * Sara Camancho
+* Sarah Pilzer
 * Sarai Ayon
 * Saul Belisle
 * Scott Slawson
 * Shannon Mah
 * Shreyas Vijayasarathy
 * Sirisha Yelamarthi
+* Skye Tyler
 * Sunil Thukral
 * Taylor Moyer
 * TJ Van Houten
