@@ -116,7 +116,7 @@ Questions to Ask:
 
 * What would you need from a consulting partner or implementation team to feel confident the technical architecture is sound?
 
-### **Budget / Finance**:They manage funding, track costs, and ensure the migration stays within approved financial constraints.
+### **Budget / Finance**: They manage funding, track costs, and ensure the migration stays within approved financial constraints.
 
 Goals:
 
