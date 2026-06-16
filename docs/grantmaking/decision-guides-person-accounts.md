@@ -29,16 +29,14 @@ Examples of an individual would be:
 </ul>
 
 ### A few more questions about your work with individuals:
-<ol>
-  <li><b>Do you communicate with individuals?</b>
+<b>1. Do you communicate with individuals?</b>
 </br>The communication doesn’t need to be specific to grantmaking, but it can be any sort of communication sent on behalf of your organisation. For example, 
 <ul>
   <li>Community email broadcast</li>
   <li>Newsletters</li>
 </ul>
 
-
-<li><b>Do you fundraise with individuals?</b>  
+<b>2. Do you fundraise with individuals?</b>  
 </br>If you only solicit funding from organisations and not individual donors, and you don’t require the use of the “fundraising” features, you may not need person accounts. 
 </br></br>However, if there is even a remote possibility that you will use any of the fundraising features, you should consider enabling person accounts to avoid the need to migrate to person accounts in the future.
 </br></br>As of the first publish date of this page, the following functionality does not work in AFNP Fundraising when person accounts are not enabled: 
@@ -49,8 +47,6 @@ Examples of an individual would be:
     <li>Flexipage components on Person Account Record Page</li>
     <li><b>Note:</b> There also may be future development that is specific to person accounts thus you will need to do additional research when making this decision </li>
 </ul>
-</ol>
-
 
 ## Do you use any other AFNP features OR do you EVER plan to use any other AFNP features (volunteer, programs, fundraising, etc.) in the future? 
 Since Person Accounts are required for most AFNP functionality, they should most likely be enabled in an org that has cross-departmental functionality in the same system.
