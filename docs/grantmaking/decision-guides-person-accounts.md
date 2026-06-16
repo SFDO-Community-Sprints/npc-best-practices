@@ -36,7 +36,8 @@ Examples of an individual would be:
   <li>Community email broadcast</li>
   <li>Newsletters</li>
 </ul>
-</br>
+
+
 <li><b>Do you fundraise with individuals?</b>  
 </br>If you only solicit funding from organisations and not individual donors, and you don’t require the use of the “fundraising” features, you may not need person accounts. 
 </br></br>However, if there is even a remote possibility that you will use any of the fundraising features, you should consider enabling person accounts to avoid the need to migrate to person accounts in the future.
