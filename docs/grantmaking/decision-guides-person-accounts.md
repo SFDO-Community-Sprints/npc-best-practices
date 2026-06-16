@@ -29,11 +29,12 @@ Examples of an individual would be:
 </ul>
 
 ### A few more questions about your work with individuals:
-<ol><li><b>Do you communicate with individuals?</b>
+<ol>
+  <li><b>Do you communicate with individuals?</b>
 </br>The communication doesn’t need to be specific to grantmaking, but it can be any sort of communication sent on behalf of your organisation. For example, 
 <ul>
-<li>Community email broadcast</li>
-<li>Newsletters</li>
+    <li>Community email broadcast</li>
+    <li>Newsletters</li>
 </ul>
 </li>
 
@@ -42,11 +43,11 @@ Examples of an individual would be:
 </br></br>However, if there is even a remote possibility that you will use any of the fundraising features, you should consider enabling person accounts to avoid the need to migrate to person accounts in the future.
 </br></br>As of the first publish date of this page, the following functionality does not work in AFNP Fundraising when person accounts are not enabled: 
 <ul>
-<li>Gift entry grid</li>
-<li>Fundraising agents </li>  
-<li>Address automation (contact point) </li>
-<li>Flexipage components on Person Account Record Page</li>
-<li><b>Note:</b> There also may be future development that is specific to person accounts thus you will need to do additional research when making this decision </li>
+    <li>Gift entry grid</li>
+    <li>Fundraising agents </li>  
+    <li>Address automation (contact point) </li>
+    <li>Flexipage components on Person Account Record Page</li>
+    <li><b>Note:</b> There also may be future development that is specific to person accounts thus you will need to do additional research when making this decision </li>
 </ul>
 </ol>
 
