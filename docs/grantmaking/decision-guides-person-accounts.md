@@ -17,23 +17,23 @@ This page defines “individuals” as a single human constituent whose interact
 
 Examples of an individual would be: 
 <ul>
-<li>A donor</li>
-<li>A volunteer</li>
-<li>A referral</li>
-<li>A participant</li>
-<li>A person for whom there is a case</li>
-<li>A mentor/mentee</li>
-<li>A person in a cohort</li>
-<li>A student</li>
-<li>A recipient of a disbursement</li>
+    <li>A donor</li>
+    <li>A volunteer</li>
+    <li>A referral</li>
+    <li>A participant</li>
+    <li>A person for whom there is a case</li>
+    <li>A mentor/mentee</li>
+    <li>A person in a cohort</li>
+    <li>A student</li>
+    <li>A recipient of a disbursement</li>
 </ul>
 
 ### A few more questions about your work with individuals:
 <b>1. Do you communicate with individuals?</b>  
 The communication doesn’t need to be specific to grantmaking, but it can be any sort of communication sent on behalf of your organisation. For example,  
 <ul>
-  <li>Community email broadcast</li>
-  <li>Newsletters</li>
+    <li>Community email broadcast</li>
+    <li>Newsletters</li>
 </ul>
 
 <b>2. Do you fundraise with individuals?</b>  
