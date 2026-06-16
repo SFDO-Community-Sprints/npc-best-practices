@@ -6,7 +6,7 @@ parent: Decision Guides
 ---
 
 # Person Accounts
-Agentforce Nonprofit documentation generally recommends that Person Accounts are enabled as a part of set up. Salesforce makes one exception in their recommendation to enable Person Accounts. “Grantmaking customers who make the vast majority of their grants to organizations rather than individuals are likely to find the Contact + Business Account model more appropriate than Person Accounts.” (see rest of note) 
+Agentforce Nonprofit documentation generally recommends that Person Accounts are enabled as a part of set up. Salesforce makes one exception in their recommendation to enable Person Accounts. “Grantmaking customers who make the vast majority of their grants to organizations rather than individuals are likely to find the Contact + Business Account model more appropriate than Person Accounts.” ([see rest of note](https://help.salesforce.com/s/articleView?id=sfdo.npc_prerequisites.htm&type=5))
 
 With this exception, there is a decision grantmakers need to make when implementing Agentforce Nonprofit. Below is a list of questions to consider when making this decision. 
 
