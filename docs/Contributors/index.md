@@ -12,7 +12,9 @@ Dozens of community members have contributed to this project since November 2023
 * Deb Finken
 * Junette Tan
 * Kathryn Egan
-* Marley Cunningham 
+* Kymberli Feng
+* Marley Cunningham
+* Michael Pitkowsky
 * Shari Carlson
 * Tara Cobb
 * Toby Ward
@@ -29,6 +31,7 @@ Dozens of community members have contributed to this project since November 2023
 * Allison Roscoe
 * Allison Stuart
 * Amanda Styles
+* Amy Bucciferro
 * Anderson Mok
 * Annette Pretorius
 * Anthony Latunski
@@ -45,6 +48,7 @@ Dozens of community members have contributed to this project since November 2023
 * Daniel Gorton
 * David Schach
 * Deanne Walters
+* Deatra Sheard
 * Debbie Pope
 * Dodi Friedenberg
 * Drew Meyer
@@ -63,11 +67,13 @@ Dozens of community members have contributed to this project since November 2023
 * Jamie Van Nostrand
 * Janina Capacillo
 * Jason Samuels
+* Jedabelle Cortez
 * Jeff Sankovich
 * Jenna Bergquist
 * Jimmy Roche
 * Jo Wickens
 * Joe Behaylo
+* John Sim
 * JoJo Cheng
 * Jon Mervis
 * Judi Sohn
@@ -78,6 +84,7 @@ Dozens of community members have contributed to this project since November 2023
 * Kamal Farran
 * Karen Fitton
 * Karim Gabriel
+* Katarina Schenkel
 * Kevin Swiggum
 * Karyn Dubravetz
 * Kathy Dunne
@@ -90,24 +97,31 @@ Dozens of community members have contributed to this project since November 2023
 * Madison You
 * Marc Baizman
 * Maria Kelley
+* Marianne Fields
+* Mark Soriano
 * Mary Ann McInerney
+* Mechelle Norton
 * Meg Hutson
 * Melanie Calhoun
 * Melanie Kujawa
 * Melinda Hunt
 * Melissa Oglesby
 * Michael Masullo
-* Michael Pitkowsky
+* Mike Kikta
 * Nadine Leung
+* Pallavi Agrawal
 * Paula Berg
 * Peggy Ngwa Nfurbi
 * Peter Bender
 * Preeti Ladwa
 * Rachael Nuwash
+* Ram Korlepara
 * Rebecca Nichols
 * Renee Davis
+* Richa Kanoongo
 * Riley Cameron
 * Russ Feldman
+* Ruth Sanchez
 * Saikiran Malepati
 * Sandy Whitten
 * Sanishya Shrestha
@@ -120,7 +134,9 @@ Dozens of community members have contributed to this project since November 2023
 * Shreyas Vijayasarathy
 * Sirisha Yelamarthi
 * Skye Tyler
+* Srividya G
 * Sunil Thukral
+* Sydney Shillieto
 * Taylor Moyer
 * TJ Van Houten
 * Tiffany Spencer
