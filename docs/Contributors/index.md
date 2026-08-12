@@ -90,6 +90,7 @@ Dozens of community members have contributed to this project since November 2023
 * Kathy Dunne
 * Katie Loescher
 * Katie Shepherd
+* Kirsten Finger
 * Kymberli Feng
 * Lara Hoke Kimberley
 * Laxinder Singh
