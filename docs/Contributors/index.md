@@ -167,6 +167,7 @@ Dozens of community members have contributed to this project since November 2023
 * Jess Lopez
 * Jess Romig
 * JJ Miller
+* Justin Gilmore
 * Kelly Dwyer
 * Lex Grace
 * Maddy Earhart
