@@ -164,6 +164,7 @@ Dozens of community members have contributed to this project since November 2023
 * Emily Beach
 * Greg Perlstein
 * Heeyeon Park
+* Igor Androsov
 * Jess Lopez
 * Jess Romig
 * JJ Miller
@@ -171,6 +172,7 @@ Dozens of community members have contributed to this project since November 2023
 * Kelly Dwyer
 * Lex Grace
 * Maddy Earhart
+* Maggie Maloney
 * Melissa Barber
 * Merle Kinkade
 * Michael Smith
