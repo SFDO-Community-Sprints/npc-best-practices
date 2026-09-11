@@ -6,14 +6,13 @@ parent: Grantmaking
 ---
 
 # Grantmaking Overview
-Note: Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
 
-These questions are to help your grantmaking organization determine if Agentforce Nonprofit Grantmaking may be a good fit for your organization and can set the stage to move toward AFNP Grantmaking. 
+These questions are to help your grantmaking organization determine if Nonprofit Cloud Grantmaking may be a good fit for your organization and can set the stage to move toward NPC Grantmaking. 
 
 
 ## Who is your organization and what do you do?
 
-AFNP Grantmaking is inherently flexible to align with your organization’s needs and goals. Below are a series of questions to help think through your organization’s structure and process as a first step in considering AFNP Grantmaking. If your organization is unable to clearly answer the majority of these questions, your organization may need to step back and clarify your processes before moving into Grantmaking configuration. 
+NPC Grantmaking is inherently flexible to align with your organization’s needs and goals. Below are a series of questions to help think through your organization’s structure and process as a first step in considering AFNP Grantmaking. If your organization is unable to clearly answer the majority of these questions, your organization may need to step back and clarify your processes before moving into Grantmaking configuration. 
 
 **The overarching question is: Who is your Grantmaking organization? **
 
