@@ -26,7 +26,7 @@ parent: Migration Guidance
 * [AgentExchange Consulting Listing with Nonprofit Expertise](https://appexchange.salesforce.com/consulting?f=%5B%7B%22cI%22%3A1%2C%22pI%22%3A13%2C%22tY%22%3A%22NF%22%7D%5D)
 
 
-* [AFNP Customer Stories](https://www.salesforce.com/customer-stories/?page=1&filters=4a51cee9-9968-4462-adf1-ca0b853eb121%2Cc9695da4-45e4-4805-8dae-c19eaef7add4), filtered to the Nonprofit industry
+* [NPC Customer Stories](https://www.salesforce.com/customer-stories/?page=1&filters=4a51cee9-9968-4462-adf1-ca0b853eb121%2Cc9695da4-45e4-4805-8dae-c19eaef7add4), filtered to the Nonprofit industry
 
 
     * [Christians Against Poverty](https://www.salesforce.com/customer-stories/christians-against-poverty/) (AFNP and Experience Cloud)
@@ -37,6 +37,6 @@ parent: Migration Guidance
 
 * Trailmixes
 
-    * [Meet Agentforce Nonprofit fka Nonprofit Cloud](https://trailhead.salesforce.com/users/tvbraun/trailmixes/meet-agentforce-nonprofit)
+    * [Meet Nonprofit Cloud](https://trailhead.salesforce.com/users/tvbraun/trailmixes/meet-agentforce-nonprofit)
     * [Get Hands-On with Agentforce](https://trailhead.salesforce.com/users/strailhead/trailmixes/first-agentforce)
     * [Salesforce Nonprofit Implementation Guide](https://trailhead.salesforce.com/content/learn/trails/prepare-for-success-with-nonprofit-cloud) 
