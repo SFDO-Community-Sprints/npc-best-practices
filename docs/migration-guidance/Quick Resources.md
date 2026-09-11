@@ -29,10 +29,10 @@ parent: Migration Guidance
 * [NPC Customer Stories](https://www.salesforce.com/customer-stories/?page=1&filters=4a51cee9-9968-4462-adf1-ca0b853eb121%2Cc9695da4-45e4-4805-8dae-c19eaef7add4), filtered to the Nonprofit industry
 
 
-    * [Christians Against Poverty](https://www.salesforce.com/customer-stories/christians-against-poverty/) (AFNP and Experience Cloud)
-    * [Good 360](https://www.salesforce.com/customer-stories/good360/) (AFNP and Data 360)
-    * [Riley Children’s Foundation](https://www.salesforce.com/resources/customer-stories/riley-childrens-foundation-boosts-fundraising-with-ai-powered-insights/) (AFNP and CRMA)
-    * [Working with Children on the Edge & The Dreadnought Centre](https://www.linkedin.com/pulse/worth-end-my-accidental-admin-journey-from-npsp-cloud-ben-mumford-koaxe/) (AFNP)
+    * [Christians Against Poverty](https://www.salesforce.com/customer-stories/christians-against-poverty/) (NPC and Experience Cloud)
+    * [Good 360](https://www.salesforce.com/customer-stories/good360/) (NPC and Data 360)
+    * [Riley Children’s Foundation](https://www.salesforce.com/resources/customer-stories/riley-childrens-foundation-boosts-fundraising-with-ai-powered-insights/) (NPC and CRMA)
+    * [Working with Children on the Edge & The Dreadnought Centre](https://www.linkedin.com/pulse/worth-end-my-accidental-admin-journey-from-npsp-cloud-ben-mumford-koaxe/) (NPC)
 
 
 * Trailmixes
