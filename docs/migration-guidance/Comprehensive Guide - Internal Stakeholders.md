@@ -95,7 +95,7 @@ Goals:
 
 * Maintain uninterrupted access to donor data, giving history, and fundraising workflows
 
-* Understand what Agentforce Nonprofit offers that NPSP does not, and whether it solves real pain points
+* Understand what Nonprofit Cloud offers that NPSP does not, and whether it solves real pain points
 
 * Ensure campaigns, appeals, and acknowledgment processes continue without gaps
 
@@ -123,7 +123,7 @@ Goals:
 
 * Ensure grant tracking, reporting, and compliance workflows survive the migration intact
 
-* Understand whether Agentforce Nonprofit improves or complicates grant management capabilities
+* Understand whether Nonprofit Cloud improves or complicates grant management capabilities
 
 * Maintain continuity of funder relationships and reporting deadlines during the transition
 
@@ -133,7 +133,7 @@ Challenges:
 
 * Funder deadlines do not pause for a migration -- data must be accurate and accessible throughout
 
-* May rely on third party grant management tools that need to be evaluated for Agentforce Nonprofit compatibility
+* May rely on third party grant management tools that need to be evaluated for Nonprofit Cloud compatibility
 
 Questions to Ask:
 
@@ -181,7 +181,7 @@ Goals:
 
 * Maintain continuity of email campaigns, audience segmentation, and engagement tracking
 
-* Understand how Agentforce Nonprofit affects any marketing automation tools connected to Salesforce
+* Understand how Nonprofit Cloud affects any marketing automation tools connected to Salesforce
 
 * Ensure constituent communication does not lapse during the migration
 
@@ -207,7 +207,7 @@ Goals:
 
 * Ensure data is clean, complete, and accurately migrated to the new platform
 
-* Understand the differences between the NPSP and Agentforce Nonprofit data models before migration begins
+* Understand the differences between the NPSP and Nonprofit Cloud data models before migration begins
 
 * Have a clear data governance plan in place before, during, and after the migration
 
@@ -215,7 +215,7 @@ Challenges:
 
 * Data quality issues that have been tolerated in NPSP become harder to ignore during a migration
 
-* The data model differences between NPSP and Agentforce Nonprofit are significant and require careful mapping
+* The data model differences between NPSP and Nonprofit Cloud are significant and require careful mapping
 
 * Often expected to do migration-related data work on top of existing responsibilities without additional capacity
 
@@ -235,7 +235,7 @@ Goals:
 
 * Be involved in the migration from the start, not brought in at the end to maintain someone else's decisions
 
-* Build skills and familiarity with Agentforce Nonprofit before go-live
+* Build skills and familiarity with Nonprofit Cloud before go-live
 
 * End up with a system that is documented, sustainable, and manageable with available resources
 
@@ -253,7 +253,7 @@ Questions to Ask:
 
 * What parts of the current implementation do you find most difficult to maintain, and what would you want done differently?
 
-* What training or ramp-up time would you need to feel confident administering Agentforce Nonprofit after go-live?
+* What training or ramp-up time would you need to feel confident administering Nonprofit Cloud after go-live?
 
 * Do we have an "over-customized" NPSP instance?
 
@@ -267,7 +267,7 @@ Goals:
 
 * Ensure the migration meets organizational security and compliance requirements
 
-* Understand how Agentforce Nonprofit affects existing integrations with other organizational systems
+* Understand how Nonprofit Cloud affects existing integrations with other organizational systems
 
 * Have a clear picture of the technical architecture before and after the migration
 
