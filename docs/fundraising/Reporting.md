@@ -6,31 +6,31 @@ parent: Fundraising
 ---
 ## **Overview** - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIwG&isdtp=p1) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001nIwG&isdtp=p1)
 
-This is a package of basic reports and custom report types commonly used for analyzing fundraising performance in a Salesforce org with Agentforce Nonprofit (formerly known as Nonprofit Cloud).
+This is a package of basic reports and custom report types commonly used for analyzing fundraising performance in a Salesforce org with Nonprofit Cloud.
 
 * Who should be installing this: System Admins
 * Where should this be installed: Follow best practice and install in a sandbox first to test and evaluate. If available, a full sandbox is ideal, but you'll want one with at least some donation data so you can see report results. When ready, you can deploy to or install directly in production. 
-* Purpose: To help nonprofits using Agentforce Nonprofit (fka Nonprofit Cloud) for fundraising get started running analysis of their donors and donation history. These reports are a baseline from which additional variations and filters can be added based on business use-cases and needs.
+* Purpose: To help nonprofits using Nonprofit Cloud for fundraising get started running analysis of their donors and donation history. These reports are a baseline from which additional variations and filters can be added based on business use-cases and needs.
 
 
 ### **Fundraising Reporting Requirements**
 
-Pre-installation Requirements: Standard Agentforce Nonprofit/Nonprofit Cloud fundraising features enabled
+Pre-installation Requirements: Standard Nonprofit Cloud fundraising features enabled
 
 Before installing this package, you will need to ensure the following:
 
 
 
 * Complete all setup steps per [Salesforce documentation](https://help.salesforce.com/s/articleView?id=sfdo.npc_set_up_nonprofit_cloud_parent.htm&type=5) for person accounts, households, fundraising settings, and Data Processing Engine.
-* You have followed documentation to enable and configure all fundraising features in Agentforce Nonprofit
+* You have followed documentation to enable and configure all fundraising features in Nonprofit Cloud.
 * You will use all pieces of the standard fundraising data model, including person accounts, Party Group Relationships and Account-Contact Relationships for household tracking, Opportunities, Gift Commitments, Gift Transactions, Gift Designations, Gift Transaction Designations, Gift Tributes, Gift Soft Credits, Donor Gift Summaries, Campaigns, etc.
-* You will use fundraising in the way it is prescribed in the documentation such as entering donations via the Gift Entry feature and creating Gift Commitments and Gift Commitment Schedules for major gifts
-* You do not already have a "Fundraising" reports folder or ensure you select "Rename conflicting components in package" at the top of the install page for "What if existing component names conflict with ones in this package?"
+* You will use fundraising in the way it is prescribed in the documentation such as entering donations via the Gift Entry feature and creating Gift Commitments and Gift Commitment Schedules for major gifts.
+* You do not already have a "Fundraising" reports folder or ensure you select "Rename conflicting components in package" at the top of the install page for "What if existing component names conflict with ones in this package?".
 
 ### **Technical Install Requirements**
 To successfully install this package, you will need:
 * User Permissions: System Administrator
-* Salesforce Instance: Agentforce Nonprofit (formerly Nonprofit Cloud) licenses 
+* Salesforce Instance: Nonprofit Cloud licenses 
 * Enabled: Person Accounts 
 * Toggle on: Fundraising 
 * Confirmed: no preexisting "Fundraising" reports folder or select "Rename conflicting components in package" during install
