@@ -10,7 +10,6 @@ has_children: false
 
 
 # Nonprofit Cloud Best Practices - Community Asset Hub
-**<b>NOTE:</b> Nonprofit Cloud (NPC) has been renamed to Agentforce Nonprofit (AFNP). The product is the same, but you may see it referred to here and online by either name.**
 
 When the Nonprofit Success Pack (NPSP) v3 was released almost 10 years ago, it did not have many of the features and settings we are familiar with today. The large selection of default NPSP reports didn't exist, NPSP settings were not optimized, and many of the defaults we take for granted were just not there. It took a while to get community vetted best practices in place and create the NPSP we know today.
 
