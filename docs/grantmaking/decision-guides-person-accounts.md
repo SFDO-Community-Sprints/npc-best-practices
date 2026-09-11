@@ -6,9 +6,9 @@ parent: Decision Guides
 ---
 
 # Person Accounts
-Agentforce Nonprofit documentation generally recommends that Person Accounts are enabled as a part of set up. Salesforce makes one exception in their recommendation to enable Person Accounts. “Grantmaking customers who make the vast majority of their grants to organizations rather than individuals are likely to find the Contact + Business Account model more appropriate than Person Accounts.” ([see rest of note](https://help.salesforce.com/s/articleView?id=sfdo.npc_prerequisites.htm&type=5))  
+Nonprofit Cloud documentation generally recommends that Person Accounts are enabled as a part of set up. Salesforce makes one exception in their recommendation to enable Person Accounts. “Grantmaking customers who make the vast majority of their grants to organizations rather than individuals are likely to find the Contact + Business Account model more appropriate than Person Accounts.” ([see rest of note](https://help.salesforce.com/s/articleView?id=sfdo.npc_prerequisites.htm&type=5))  
 
-With this exception, there is a decision grantmakers need to make when implementing Agentforce Nonprofit. Below is a list of questions to consider when making this decision.  
+With this exception, there is a decision grantmakers need to make when implementing Nonprofit Cloud. Below is a list of questions to consider when making this decision.  
 
 <b>If you answer “yes” to any of the following questions, you most likely need to enable Person Accounts.</b>  
 
@@ -50,13 +50,13 @@ As of the first publish date of this page, the following functionality does not 
     <li><b>Note:</b> There also may be future development that is specific to person accounts thus you will need to do additional research when making this decision </li>
 </ul>
 
-## Do you use any other AFNP features OR do you EVER plan to use any other AFNP features (volunteer, programs, fundraising, etc.) in the future? 
-Since Person Accounts are required for most AFNP functionality, they should most likely be enabled in an org that has cross-departmental functionality in the same system.  
+## Do you use any other NPC features OR do you EVER plan to use any other NPC features (volunteer, programs, fundraising, etc.) in the future? 
+Since Person Accounts are required for most NPC functionality, they should most likely be enabled in an org that has cross-departmental functionality in the same system.  
 
 If you start with not enabling Person Accounts and then find that you add functionality that requires Person Accounts in the future, it will require a migration including a data migration at that time. By enabling Person Accounts at the start, you will avoid the extra time and effort to migrate in the future.  
 
 ## Do you want your whole organisation in a single salesforce org (e.g. fundraising, programs management, case management, sales/e-commerce, grantmaking in one place)? 
 If fundraising, program management, and grantmaking (or other organisation functions) exist within the same organisation, a single Salesforce org is the right approach. It consolidates financials, enables cross-org analytics, brings all org-specific features under one roof, and provides the flexibility to expand all areas of the organisation and system without the overhead and complexity of managing multiple orgs.  
 
-Since Person Accounts are required for most AFNP functionality, they should most likely be enabled in an org that has cross-departmental functionality in the system.  
+Since Person Accounts are required for most NPC functionality, they should most likely be enabled in an org that has cross-departmental functionality in the system.  
 
