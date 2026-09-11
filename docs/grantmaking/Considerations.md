@@ -6,21 +6,21 @@ parent: Grantmaking
 ---
 
 # Grantmaking Considerations
-Note: Nonprofit Cloud is now known as Agentforce Nonprofit. It is the same product.
+
 
 
 ## Grantmaking vs. Managing Grants as a Grant Seeker
 
 
 
-Organizations can be both grantmakers and grant seekers, but Agentforce Nonprofit Grantmaking is specifically geared towards organizational funders who make charitable grants (and/or PRI loans) to nonprofits.
+Organizations can be both grantmakers and grant seekers, but Nonprofit Cloud Grantmaking is specifically geared towards organizational funders who make charitable grants (and/or PRI loans) to nonprofits.
 * Grantmaking: Organizations that implement grant programs and provide funding to individuals/organizations. 
-  * AFNP Grantmaking provides additional functionality that supports the various stages of grantmaking activities from inquiry through disbursement and reporting. 
+  * NPC Grantmaking provides additional functionality that supports the various stages of grantmaking activities from inquiry through disbursement and reporting. 
 * Grant seeking: Organizations/individuals looking to apply and receive funds to support their work. 
-  * AFNP Fundraising features support grant seeking activities and can be customized to align with the specific needs of how an organization tracks institutional donations and monitoring outcomes of program delivery. 
+  * NPC Fundraising features support grant seeking activities and can be customized to align with the specific needs of how an organization tracks institutional donations and monitoring outcomes of program delivery. 
 
 
-## Differences Between Agentforce Nonprofit for Grantmaking and Agentforce Nonprofit
+## Differences Between Nonprofit Cloud for Grantmaking and Nonprofit Cloud
 
 
 
@@ -42,7 +42,7 @@ Organizations can be both grantmakers and grant seekers, but Agentforce Nonprofi
 What gets shown during demos will differ from what settings and customizations that exist when you start a trial org, as well as what is configured in your newly provisioned, out-of-the-box org. This means that customizations you saw during a demo may not standard functionality, and desired functionality will require customization (preferably by working with a consultant partner) to function in the way you run your grants processes.
 
 
-## Tracking Data with AFNP Grantmaking
+## Tracking Data with NPC Grantmaking
 
 
 
