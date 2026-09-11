@@ -74,7 +74,7 @@ Challenges:
 
 * Grant reporting deadlines do not pause for a migration
 
-* Reporting structures built in NPSP may not map cleanly to Agentforce Nonprofit without significant rework
+* Reporting structures built in NPSP may not map cleanly to Nonprofit Cloud without significant rework
 
 * Organizations may be reluctant to disclose a migration is in progress for fear of raising funder concerns
 
@@ -136,7 +136,7 @@ Questions to Ask:
 
 * What is your assessment of our current state, and what would you flag as the most complex parts of our implementation to migrate?
 
-* What experience does your team have with Agentforce Nonprofit migrations specifically?
+* What experience does your team have with Nonprofit Cloud migrations specifically?
 
 ### **Current Vendor and AppExchange Partners**: *Their tools may not support NPC, creating blockers or forced replacements*
 
@@ -144,21 +144,21 @@ Goals:
 
 * Retain the organization as a customer through the migration
 
-* Communicate clearly about their product roadmap and Agentforce Nonprofit compatibility
+* Communicate clearly about their product roadmap and Nonprofit Cloud compatibility
 
 * Be involved in the conversation early enough to assess and address any compatibility gaps
 
 Challenges:
 
-* Some vendors have built Agentforce Nonprofit support; others are still on a roadmap; others may never migrate
+* Some vendors have built Nonprofit Cloud support; others are still on a roadmap; others may never migrate
 
 * Organizations often do not think to ask vendors about compatibility until late in the planning process
 
-* A vendor that cannot support Agentforce Nonprofit may create a forced and unplanned tool replacement on a parallel track
+* A vendor that cannot support Nonprofit Cloud may create a forced and unplanned tool replacement on a parallel track
 
 Questions to Ask:
 
-* Does your product currently support Agentforce Nonprofit, and if not, what is your roadmap for compatibility?
+* Does your product currently support Nonprofit Cloud, and if not, what is your roadmap for compatibility?
 
 * What would the transition look like for our organization specifically, and are there any known limitations we should plan for?
 
@@ -168,7 +168,7 @@ Questions to Ask:
 
 Goals:
 
-* Move organizations from NPSP to Agentforce Nonprofit to align with their current product direction
+* Move organizations from NPSP to Nonprofit Cloud to align with their current product direction
 
 * Identify opportunities to expand the organization's Salesforce footprint during the migration
 
@@ -184,7 +184,7 @@ Challenges:
 
 Questions to Ask:
 
-* What is the current state of Agentforce Nonprofit relative to NPSP feature parity, and where are the known gaps?
+* What is the current state of Nonprofit Cloud relative to NPSP feature parity, and where are the known gaps?
 
 * What is on the product roadmap, and what is the difference between what is available today and what is planned?
 
