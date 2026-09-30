@@ -11,3 +11,5 @@ has_children: false
 
 ### [Fundraising Reports Package](https://sfdo-community-sprints.github.io/npc-best-practices/fundraising/Reporting/)
 
+### [Program Management Reports Packages](https://sfdo-community-sprints.github.io/npc-best-practices/program-case-management/pmreporting/)
+
