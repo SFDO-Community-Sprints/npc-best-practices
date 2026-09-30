@@ -49,7 +49,7 @@ To successfully install this package, you will need:
 
 
 * The reports contained in the package use core fields that come without any customization. You will most likely customize these to match your business use-cases. For example, you might want to add your own custom fields or sort, group and filter the data differently based on your organization’s defined giving levels.
-* Note that reports for Program Cohorts and Case Referrals will be included in later packages so you are not forced to enable those features to use this reporting pack.
+* Note that reports for Program Cohorts are below and reports for Case Referrals will be included in a later package so you are not forced to enable those features to use this reporting pack.
 * Pay close attention to the report types being referenced. If you choose not to use certain aspects of the Program Management data model, not all of the reports will display the correct data.
 * There is one with/without report type included - Benefit Assignments Deluxe. This is to enable inclusion of the Benefit Schedule, Benefit Session, and Benefit Disbursement objects in this report type.
 
