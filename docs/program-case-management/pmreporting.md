@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program Management Reports Package
+title: Program Management Reports Packages
 nav_order: 3
 parent: Program and Case Management
 ---
@@ -12,8 +12,8 @@ This is a package of basic reports and custom report types commonly used for tra
 
 
 * Who should be installing this: System Admins
-* Where should this be installed: Follow best practice and install in a sandbox first to test and evaluate. If available, a full sandbox is ideal, but you’ll want one with at least some donation data so you can see report results. When ready, you can deploy to or install directly in production.
-* Purpose: To help nonprofits using Nonprofit Cloud for fundraising get started running analysis of their donors and donation history. These reports are a baseline from which additional variations and filters can be added based on business use-cases and needs.
+* Where should this be installed: Follow best practice and install in a sandbox first to test and evaluate. If available, a full sandbox is ideal, but you’ll want one with at least some program data so you can see report results. When ready, you can deploy to or install directly in production.
+* Purpose: To help nonprofits using Nonprofit Cloud for Program Management get started running analysis of their programs and programs history. These reports are a baseline from which additional variations and filters can be added based on business use-cases and needs.
 
 
 ### **Program Management Reporting Requirements**
@@ -76,7 +76,7 @@ This package contains reports focused primarily on Program Management, using the
 
 ## **Program Cohorts Supplemental Reports** - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tg7000000UV3B) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tg7000000UV3B)
 
-This is a package of 3 Program Cohort reports and a custom report type. 
+This is a package of 3 Program Cohort reports and a custom report type. It is not dependent on the above main Program Management reports package and can be installed independently.
 
 
 ### **Technical Install Requirements**
@@ -90,6 +90,8 @@ To successfully install this package, you will need:
 * Toggle on: Program and Case Management
 * Toggle on: Create and manage program cohorts under Program and Benefit Management Settings
 * Confirmed: no preexisting “Program Cohorts” reports folder or select “Rename conflicting components in package” during install
+
+### **Additional Considerations**
 
 This supplemental package contains reports focused on Program Cohorts, using the following data objects:
 
