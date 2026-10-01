@@ -4,6 +4,10 @@ title: Program Management Reports Packages
 nav_order: 3
 parent: Program and Case Management
 ---
+There are two packages for Program Management on this page. They are not dependent on each other but can be used together.
+
+* [Program Management Reports Package](https://sfdo-community-sprints.github.io/npc-best-practices/program-case-management/pmreporting/#overview---production--sandbox)
+* [Program Cohorts Reports Package](https://sfdo-community-sprints.github.io/npc-best-practices/program-case-management/pmreporting/#program-cohorts-supplemental-reports---production--sandbox)
 
 ## **Overview** - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tg7000000TEij) | [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tg7000000TEij)
 
@@ -49,7 +53,6 @@ To successfully install this package, you will need:
 
 
 * The reports contained in the package use core fields that come without any customization. You will most likely customize these to match your business use-cases. For example, you might want to add your own custom fields or sort, group and filter the data differently based on your organization’s defined giving levels.
-* Note that reports for Program Cohorts are below and reports for Case Referrals will be included in a later package so you are not forced to enable those features to use this reporting pack.
 * Pay close attention to the report types being referenced. If you choose not to use certain aspects of the Program Management data model, not all of the reports will display the correct data.
 * There is one with/without report type included - Benefit Assignments Deluxe. This is to enable inclusion of the Benefit Schedule, Benefit Session, and Benefit Disbursement objects in this report type.
 
